@@ -18,12 +18,31 @@ Some people's brains run on fascination. When you're tinkering, experimenting, p
 
 This system is grounded in neuroscience, honest about what's proven vs. hypothesis, and built for people whose brains run on experiments.
 
-**The complete architecture in five parts:**
+**The complete architecture in six parts:**
+0. **The Foundation** - Meta-perception (the skill that enables everything else)
 1. **The Model** - How cognition actually works (perception-action loop)
 2. **The Shift** - Frames as experiments, not truth (foundational mindset)
 3. **The Mechanism** - Frame-selection point (where intervention happens)
-4. **The Practice** - Meta-perception (how to do it)
+4. **The Practice** - Complete toolkit (how to do it)
 5. **The Guide** - Fascination leads (what drives selection)
+
+---
+
+## What's New in v4.0? 🔬
+
+**Complete Cognitive Architecture** - v4.0 integrates functional practices that make the system actually usable:
+
+- **Meta-Perception Training** - Pattern interrupts throughout your day (not meditation, not clearing your mind)
+- **Somatic Anchors Toolkit** - Physical triggers that shift your state instantly (tap fingers → mad scientist mode activated)
+- **Cognitive Flexibility Training** - Daily micro-novelties to prevent your brain from calcifying into rigid patterns
+- **Environmental Design** - Strategic management of social/physical influences (your lab needs to be conducive to experiments)
+- **Paradox Metabolism** - Holding contradictions simultaneously (obsessed + detached, both at once)
+- **Enhanced First Principles** - Socratic descent to bedrock, assumption exorcism, cross-domain pattern recognition
+- **Halfway Hustle** - 100% commitment + 100% openness to sideways wins (committed action creates surface area for luck)
+
+All grounded in neuroscience. All honest about evidence (PROVEN/SUPPORTED/LOGICAL EXTENSION badges). Zero woo. Pure mad science.
+
+**From 843 lines to 1338 lines.** Not bloat—comprehensive toolkit for experiment-driven minds.
 
 ---
 
@@ -76,11 +95,17 @@ This model aligns with current neuroscience, cognitive psychology, and philosoph
 - Frame pragmatism (constructivist epistemology)
 - Belief as experimental variable (ACT research)
 - Dual state (decentering research)
+- Meta-perception training (executive function development)
+- Cognitive flexibility training (neuroplasticity research)
+- Environmental design (environmental psychology, social contagion)
+- Paradox metabolism (cognitive integration research)
 - Environmental triggers (attentional bias)
+- First principles thinking (critical thinking literature)
 
 **LOGICAL EXTENSION** (inference from related research):
 - Fascination-driven selection
 - Decentering→creativity link
+- Halfway Hustle (combines proven concepts: committed action + adaptive awareness)
 
 **Mad scientist standard: PASSED ✓**
 
@@ -143,4 +168,4 @@ Under these terms:
 
 ---
 
-**Version 3.1** - Nov 3, 2025
+**Version 4.0** - Nov 5, 2025

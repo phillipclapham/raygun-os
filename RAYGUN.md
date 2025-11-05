@@ -1,6 +1,6 @@
 # RAYGUN: The Mad Scientist Operating System
 
-**Version 3.1 - Nov 3, 2025**
+**Version 4.0 - Nov 5, 2025**
 
 ---
 
@@ -21,11 +21,114 @@ Below is the complete cognitive architecture of how this actually works—how yo
 Mad science isn't a productivity system. It's permission to work how your brain actually functions.
 
 **The architecture in five parts:**
+0. **The Foundation** - Meta-perception (the skill that enables everything else)
 1. **The Model** - How cognition actually works (perception-action loop)
 2. **The Shift** - Frames as experiments, not truth (foundational mindset)
 3. **The Mechanism** - Frame-selection point (where intervention happens)
-4. **The Practice** - Meta-perception (how to do it)
+4. **The Practice** - Complete toolkit (how to do it)
 5. **The Guide** - Fascination leads (what drives selection)
+
+---
+
+## PART 0: The Foundation (Meta-Perception)
+
+### Watching Yourself Think
+
+**[SUPPORTED - Meta-awareness research, executive function development]**
+
+Before we dive into HOW your brain works, you need the foundational skill that enables everything else: **watching yourself think.**
+
+Meta-perception isn't mystical. It's measurable executive function. But it's the difference between being dragged around by automatic patterns and consciously choosing your experiments.
+
+**What it actually is:**
+
+Sustained awareness of your own cognitive processes while they're happening. Not thinking ABOUT thinking afterward (that's reflection). Not stopping thoughts (that's suppression). But **observing thoughts AS they arise**, in real-time.
+
+**Why it works (neuroscience backing):**
+
+1. **Activates prefrontal cortex executive monitoring**
+   - Creates functional gap between stimulus and automatic response
+   - Enables conscious choice of response patterns
+   - Measurable via fMRI and behavioral flexibility tests
+
+2. **Develops the "observer" perspective**
+   - You're simultaneously experiencing AND watching the experience
+   - Not dissociation (that's pathological detachment)
+   - Voluntary meta-awareness with maintained engagement
+
+3. **Enables conscious intervention**
+   - Automatic patterns run below awareness normally
+   - Meta-perception makes them visible WHILE happening
+   - Visibility creates space for deliberate frame selection
+
+**The mad scientist discovers their own mind as experimental apparatus:**
+
+Your brain isn't you—it's equipment you're learning to operate. Meta-perception is like learning to read the instruments in your cognitive laboratory.
+
+### How to Practice It
+
+**Not meditation.** Not "clear your mind." **Pattern interrupts throughout your day.**
+
+**1. Systematic check-ins (throughout day, not constant):**
+
+Set triggers that prompt the question: **"What am I filtering for right now?"**
+
+**Trigger examples:**
+- Every time you walk through a doorway
+- Every time you check your phone
+- Every time you sit down at desk
+- Every time you feel resistance to something
+- Every notification or interruption
+
+**The question triggers meta-awareness** - you step back and observe what your brain is automatically doing.
+
+**2. The Observer Perspective:**
+
+Throughout the day, occasionally ask: **"Who is observing these thoughts?"**
+
+Not in a mystical way. In a functional way. There's the thought arising ("This is hard"), and there's the part of you watching that thought arise. Practice activating the watcher.
+
+**3. Emotion as signal (not just experience):**
+
+When strong emotion arises (frustration, excitement, dread, fascination), pause and observe:
+- "I'm noticing frustration"
+- "I'm watching excitement build"
+- "I'm observing resistance"
+
+The act of observing changes your relationship to the emotion. You're not suppressing it or being dragged by it. You're studying it like a mad scientist studies phenomena.
+
+**4. Frame awareness:**
+
+Catch automatic narratives: "This is too hard" / "I'm behind schedule" / "This should be different"
+
+Notice: "My brain just generated the frame '[automatic narrative]' - is that the only valid frame? What are alternatives?"
+
+### How to Know It's Working
+
+**Behavioral markers of developing meta-perception:**
+
+1. **Gap between stimulus and reaction increases**
+   - Something triggers you → you pause → you choose response
+   - Vs automatic: trigger → immediate reaction
+
+2. **Frame-switching becomes easier**
+   - You catch yourself in grind mode faster
+   - Shifting to experimenter mode feels more natural
+   - "Oh, I'm doing that thing again" becomes common observation
+
+3. **Reactivity decreases**
+   - Problems feel less overwhelming (you're observing them, not drowning in them)
+   - Emotions less dominating (you're watching them, not being them)
+   - Narrative less rigid (you see it's A frame, not THE frame)
+
+4. **Curiosity increases**
+   - Instead of "This is bad" → "Interesting, what's happening here?"
+   - Problems become puzzles to study
+   - Your own patterns become fascinating data
+
+**This is the foundation.** Everything else in RAYGUN builds on this skill. Without meta-perception, you're running on autopilot. With it, you're operating the controls.
+
+**Start here.** Practice throughout today. Notice what you notice.
 
 ---
 
@@ -74,7 +177,7 @@ What you consciously focus on literally changes what your subconscious filters f
 
 3. **There's a transition point between automatic processing and conscious narrative**
    - Normally seamless/invisible (you go straight from trigger → automatic frame → reaction)
-   - Through practice, you can develop awareness AT that point
+   - Through meta-perception practice, you develop awareness AT that point
    - This creates functional space for conscious intervention
 
 **Research backing:**
@@ -192,7 +295,7 @@ Between subconscious filtering and conscious narrative creation, there's a **tra
 
 3. **The frame-selection point is where active intervention happens**
    - Normally seamless (automatic frame → immediate reaction)
-   - Through practice, you develop awareness at that transition
+   - Through meta-perception practice, you develop awareness at that transition
    - This creates functional space for frame selection
    - Not a discrete "moment" but a process (milliseconds to seconds)
 
@@ -311,6 +414,77 @@ Meta-perception is simultaneous engagement and detachment.
 
 ---
 
+### Paradox Metabolism (Holding Contradictions)
+
+**[SUPPORTED - Cognitive integration research]**
+
+**RAYGUN is built on paradox: obsessed + detached. Engaged + scientific. Fascinated + skeptical.**
+
+The dual state (above) is the core example. But paradox metabolism is broader—it's a general cognitive tool for holding contradictory models simultaneously without forcing resolution.
+
+**What it actually is:**
+
+The ability to maintain multiple contradictory perspectives at once, using each to reveal different aspects of reality. Not compromise. Not synthesis. **Simultaneous holding** of incompatible views.
+
+**Why it works (neuroscience):**
+
+1. **Anterior cingulate cortex and temporoparietal junction integration**
+   - Brain regions that handle conflicting information
+   - Develop through practice holding contradictions
+   - Enable cognitive flexibility beyond binary thinking
+
+2. **Prevents premature cognitive closure**
+   - Binary thinking forces: "Which is TRUE?"
+   - Paradox metabolism allows: "Both reveal different aspects"
+   - More complete understanding emerges from tension between views
+
+3. **Increases creative problem-solving**
+   - Solutions often exist in spaces binary thinking excludes
+   - Holding contradictions reveals hidden possibilities
+   - "Both/and" thinking > "either/or" thinking
+
+**How to practice:**
+
+**1. Notice the urge to "choose sides"**
+
+Binary thinking feels URGENT. Your brain wants resolution. That's the pattern to interrupt.
+
+When you feel "I need to figure out which is TRUE," pause. That's the signal.
+
+**2. Practice holding opposing perspectives**
+
+Take any situation. Generate contradictory frames:
+- "This problem is opportunity" / "This problem is threat"
+- "I need structure" / "I need flexibility"
+- "Push forward" / "Rest and wait"
+
+Hold both. Don't resolve. Let the tension exist.
+
+**3. Use contradictory frameworks to triangulate truth**
+
+Each frame is a different 2D view of the 3D sphere (from Part 1). Use multiple contradictory views to understand the complete shape.
+
+Example: Debugging code
+- Frame 1: "Systematic elimination" (methodical, thorough)
+- Frame 2: "Intuitive leaping" (pattern recognition, hunches)
+- Both valid, contradictory approaches. Mad scientist uses both.
+
+**4. Recognize RAYGUN's paradoxes (explicit examples):**
+
+- **Dual state** (engaged + detached) - the foundation
+- **Frames as experiments** (committed to testing + willing to abandon)
+- **Evidence-based fascination** (rigorous data + emotional engagement)
+- **Structure + chaos** (systematic practice + wild tangents allowed)
+- **Serious + playful** (meaningful work + mischievous energy)
+
+These aren't contradictions to resolve. They're complementary truths that make the system work.
+
+**The mad scientist's superpower:**
+
+Most people waste energy resolving contradictions or suffering from cognitive dissonance. Mad scientists USE contradictions as experimental tools. Tension between opposing views generates insight.
+
+---
+
 ### Making It Effortless (Implementation Approaches)
 
 **The system should run in background, not require constant effort.**
@@ -345,12 +519,60 @@ Tap middle finger and thumbs together 5x → instantly triggers "feeling like ma
 
 **This is the ENTIRE architecture in one gesture.**
 
-**How to create your own:**
-1. Choose simple physical cue (gesture, breath pattern, touch object)
-2. Do it WHILE in mad scientist state (fascinated, tinkering, playing)
-3. Repeat association (cue + state, many times over days/weeks)
-4. Neural pathways form (classical conditioning)
-5. Eventually: cue triggers state automatically
+**How to create your own anchors:**
+
+**Choose anchor type:**
+- **Gesture-based:** Finger patterns, hand movements, posture shifts
+- **Breath-based:** Specific breathing patterns (3 deep breaths, breath hold)
+- **Touch-based:** Touch specific object, touch body part, pressure patterns
+- **Word + gesture:** Combine physical cue with word/phrase
+
+**Create the association:**
+1. **Identify target state clearly** - What state do you want to access? (Focus? Creativity? Calm? Experimental energy?)
+2. **Choose distinctive cue** - Must be unique (not something you do accidentally)
+3. **Practice ONLY during that state** - This is classical conditioning precision
+   - When you're naturally in mad scientist mode → do the gesture
+   - When fascinated and tinkering → do the gesture
+   - When mischievous and playful → do the gesture
+   - Repeat over days/weeks (association strengthens with repetition)
+4. **Test the anchor** - After 1-2 weeks, use the gesture when NOT in state. Does it trigger the state?
+5. **Refine based on effectiveness** - If not working, strengthen association through more practice
+
+**Multiple anchors for different states:**
+
+You're not limited to one. Create anchors for different modes:
+- **Experimenter mode:** Playful, fascinated, tinkering energy
+- **Focus mode:** Concentrated, absorbed, flow state
+- **Creative mode:** Divergent, wild, no constraints
+- **Calm mode:** Settled, clear, peaceful observation
+- **Energized mode:** Ready to move, high activation, momentum
+
+**Rapid state-switching:**
+
+With multiple anchors established, you can switch states deliberately:
+- Need to shift from scattered to focused? → Focus anchor
+- Need to shift from grinding to experimenting? → Experimenter anchor
+- Need to shift from anxious to calm? → Calm anchor
+
+**Chaining states:**
+Calm → Focused → Experimental (sequential anchors, each building on previous)
+
+**Troubleshooting:**
+
+**Anchor not working?**
+- Association not strong enough → Practice more during target state
+- Cue not distinctive → Choose more unique gesture
+- Trying to force state → Anchors trigger, they don't force. Let state arise.
+
+**Anchors getting cross-contaminated?**
+- Keep each anchor VERY different (different gestures, different types)
+- Don't use same gesture for multiple states
+- Practice each independently before combining
+
+**Anchor effect fading?**
+- Occasional reinforcement sessions (do gesture during natural state to re-strengthen)
+- Don't overuse (using constantly weakens association)
+- Treat as tool, not crutch
 
 **Research backing:**
 - Embodied cognition (Varela, Thompson, Rosch)
@@ -376,7 +598,73 @@ Visual reminders that catch grinding automatically:
 
 Not constant monitoring. Periodic automatic reminders.
 
-#### 3. Delegation to Background Awareness
+#### 3. Environmental Design Protocol (Strategic Influence Management)
+
+**[SUPPORTED - Environmental psychology, social contagion research, mirror neurons]**
+
+You don't operate in a vacuum. Your social and physical environment either amplifies your experiments or dampens them.
+
+Mad scientists need labs conducive to experimentation. Sometimes that means choosing who gets access to your workspace.
+
+**Social Environment Assessment:**
+
+**Filter alignment analysis (not "toxic people" judgment):**
+- Who reinforces experimental mindset? (encourages tinkering, celebrates fascination)
+- Who reinforces grind mode? (demands output, dismisses exploration)
+- Who amplifies your fascination? (gets excited with you, adds energy)
+- Who depletes your energy? (drains enthusiasm, creates pressure)
+
+This isn't about judging people as good/bad. It's about **filter alignment**—whose default filters match or oppose the experimental substrate you're cultivating.
+
+**Mirror neurons are real:** You unconsciously absorb the cognitive patterns of people you spend time with. Social contagion affects your default mode.
+
+**Exposure Calibration (optimization, not isolation):**
+
+You can't always choose who's in your life. But you CAN calibrate exposure:
+- **Protect experimental capacity** - Limit time with grind-mode-reinforcing influences during high-stakes creative work
+- **Strategic scheduling** - Schedule calls/meetings with depleting influences when you have buffer time to recover
+- **Energy accounting** - Track who adds vs drains energy, adjust time allocation accordingly
+
+Not about isolation. About **strategic time allocation** to preserve capacity for what matters.
+
+**Micro-Community Creation:**
+
+**1-3 people for accountability** (not huge groups, not mastermind theatrics)
+
+Find or create tiny group of people who:
+- Share experimental framing (or at least understand it)
+- Provide mutual reality-testing (honest feedback, not cheerleading)
+- Amplify fascination (get excited about each other's experiments)
+
+**Function:** Social reinforcement of mad scientist mode. When grind mode pulls you, micro-community reminds you experiments are legitimate.
+
+**Physical Environment Triggers:**
+
+Design workspace to reinforce experimental substrate:
+
+**Add cues that work for YOU:**
+- Visual reminders of experimental identity (lab imagery, raygun art, science quotes)
+- Objects that trigger mischievous energy (toys, weird artifacts, playful items)
+- Evidence of past experiments (project artifacts, shipped rayguns, proof you build things)
+
+**Remove grind-mode cues:**
+- Eliminate "productivity porn" imagery (hustle quotes, grind glorification)
+- Remove pressure-inducing visual reminders (countdown timers, aggressive goals)
+- Clear away associations with forced execution mode
+
+**Workspace as laboratory:**
+- Arrange for tinkering, not just execution (space for sketching, prototyping, playing)
+- Easy access to experimental tools (whatever helps you tinker)
+- Physical environment says: "This is where experiments happen"
+
+**Research backing:**
+- Environmental psychology (Barker behavior settings)
+- Social contagion effects (Christakis & Fowler)
+- Mirror neurons and observational learning
+- Collective intelligence and small group dynamics
+- Attentional bias and environmental cueing
+
+#### 4. Delegation to Background Awareness
 
 **[SUPPORTED - Self-distancing research, IFS, subpersonality models]**
 
@@ -404,7 +692,7 @@ Rather than constant conscious monitoring (exhausting), delegate to background p
 
 Then trust it. The intention + attention establishes the pattern. Background awareness develops over time.
 
-#### 4. The Zero Overhead Principle
+#### 5. The Zero Overhead Principle
 
 **If it feels like effort, it's not sustainable.**
 
@@ -423,6 +711,108 @@ Each time you catch grinding and return to experiments, the pattern reinforces:
 - The loop becomes self-sustaining
 
 **You're not maintaining the system. The system maintains itself through use.**
+
+---
+
+### Cognitive Flexibility Training (Pattern Interruption)
+
+**[SUPPORTED - Neuroplasticity research, novelty effects]**
+
+Your brain calcifies. Patterns become ruts. Ruts become grooves. Grooves become prisons.
+
+The antidote? **Regular disruption.** Not for disruption's sake—for maintaining cognitive plasticity. You're keeping your experimental apparatus flexible.
+
+**Why flexibility matters:**
+
+**Neuroplasticity requires novelty:**
+- New experiences → neural reorganization
+- Repetition → neural optimization (efficiency) but rigidity
+- Balance needed: enough repetition to build skills, enough novelty to maintain flexibility
+
+**Pattern recognition vs pattern prison:**
+- Pattern recognition = superpower (efficiency, expertise)
+- Pattern calcification = prison (can't see alternatives, stuck in ruts)
+- Mad scientists need both: recognize patterns AND break them deliberately
+
+**How calcification happens:**
+- Same routines → same neural pathways → stronger grooves
+- Same frames → same filtering → narrower perception
+- Same approaches → same solutions → inability to adapt
+- Comfort zone shrinks → novelty feels threatening → avoid new experiences → cycle continues
+
+**Daily Micro-Novelties:**
+
+Small pattern breaks, minimal cost, cumulative effect:
+
+**Practical examples (choose what works for YOU):**
+- **Different route** (walk/drive different path to familiar destination)
+- **New food** (order something unfamiliar, try new recipe)
+- **Hand-switching** (use non-dominant hand for routine tasks)
+- **Conversation novelty** (talk to someone you normally wouldn't)
+- **Environmental variation** (work in different location, rearrange workspace)
+- **Sensory disruption** (different music genre, silence instead of sound)
+- **Routine reversal** (do morning routine in different order)
+- **Random exploration** (follow curiosity without purpose)
+
+**Not huge changes. Small disruptions that keep neural pathways flexible.**
+
+**Weekly Comfort Zone Expansion:**
+
+**Scheduled unfamiliar experience** (not "challenge yourself" rhetoric—experimentation frame):
+
+Once per week, deliberately do something outside normal patterns:
+- Social novelty (event you'd normally skip, different social context)
+- Skill novelty (try something you've never done, even badly)
+- Environmental novelty (explore unfamiliar place, different context)
+- Perspective novelty (engage with ideas you'd normally dismiss)
+
+**Track what reveals new patterns:**
+- What surprised you?
+- What automatic assumptions got challenged?
+- What hidden patterns became visible?
+- What rigid frames loosened?
+
+**Not self-improvement.** Experimental apparatus maintenance.
+
+**Preventing Perceptual Calcification:**
+
+**How to recognize you're calcifying:**
+- Everything feels familiar (no surprises, complete predictability)
+- "I already know this" reactions increase (dismissing novelty automatically)
+- Solutions come instantly (no exploration needed—pattern-matching only)
+- Boredom increases (nothing feels new or interesting)
+- Frame-switching gets harder (stuck in default modes)
+
+**Randomness injection techniques:**
+
+When you notice calcification:
+- **Randomizer decisions:** Let dice/random number decide trivial choices
+- **Constraint reversal:** Impose radical limits to force new approaches
+- **Absurdity experiments:** Try deliberately "wrong" approaches to see what emerges
+- **Cross-domain inspiration:** Apply insights from completely unrelated field
+
+**Environmental variation:**
+- Work in different physical locations
+- Change up sensory environment (lighting, sound, temperature)
+- Interact with different types of people
+- Consume different types of information
+
+**The mad scientist maintains the laboratory equipment:**
+
+You wouldn't let lab instruments get rusty or calibration drift. Same with your cognitive apparatus. Regular novelty injection = equipment maintenance.
+
+**Research backing:**
+- Neuroplasticity and novelty (Doidge, Merzenich)
+- Cognitive flexibility theory (Martin & Rubin)
+- Environmental enrichment effects
+- Habit interruption and awareness
+- Exploration vs exploitation tradeoffs
+
+**Practical implementation:**
+- Start with ONE daily micro-novelty (build the habit)
+- Add weekly unfamiliar experience (schedule it, or it won't happen)
+- Notice when you're calcifying (use that as trigger for randomness injection)
+- Track what types of novelty produce most insight for YOU (personalize the practice)
 
 ---
 
@@ -517,6 +907,18 @@ Consciously steering subconscious filtering:
 - This system = raygun for cognitive architecture
 - Rayguns prove or disprove hypotheses
 
+**7. Halfway Hustle (Effort + Receptivity)**
+- 100% commitment to action + 100% openness to sideways wins
+- Not "try your best and hope" - full execution PLUS adaptive awareness
+- Prevents both passive waiting AND rigid attachment to expected outcome
+- Recognizing solutions that don't match expectations
+- Example: Planned path A, but path B emerges and it's better
+- "I'm building X but Y showed up and it's superior"
+- Committed action creates surface area for luck
+- Evidence: **LOGICAL EXTENSION** (combines proven concepts - committed action + adaptive awareness)
+
+**The pattern:** Execute with full commitment. But stay fascinated by what actually emerges, not attached to what you expected. Mad scientists follow data, not plans.
+
 ---
 
 ### Daily Practices (Within Experimental Substrate)
@@ -547,9 +949,48 @@ Occasional check-ins (30 seconds, few times per day):
 
 Your analytical superpowers, applied experimentally:
 
-- **First principles:** Strip to fundamentals, build from bedrock
-- **Ordered effects:** Trace consequences (1st, 2nd, 3rd+ order)
-- **Temporal analysis:** Consider multiple timeframes (immediate, short, medium, long)
+**First Principles (Socratic Descent to Bedrock):**
+
+Strip ideas to fundamental components, rebuild from scratch:
+
+**Socratic descent methodology:**
+- Start with belief/assumption/claim
+- Ask: "Why is this true?"
+- Ask again: "Why is THAT true?"
+- Continue until you hit bedrock (irreducible fundamentals)
+- How to know you've hit bedrock: Statement requires no further justification, self-evident, or empirical observation
+
+**Assumption exorcism:**
+- Identify beliefs resting on authority/convention ("I believe this because everyone says so")
+- Test inherited constraints ("What if this supposed limit isn't real?")
+- "What if I'm wrong?" exploration (flip your assumptions)
+
+**Cross-domain pattern recognition:**
+- Find universal patterns across fields (same structure, different content)
+- Cognitive arbitrage: Apply insights from one domain to another
+- Novel recombination of fundamental elements
+
+**Example:**
+- Surface: "I need to be productive"
+- Why? "To get things done"
+- Why? "To achieve success"
+- Why? "To feel valuable"
+- Bedrock: Seeking feeling of value
+- New frame: "What if fascination creates more value than grinding?"
+
+**Ordered Effects (Trace Consequences):**
+- **1st order:** Direct, obvious, immediate consequences
+- **2nd order:** Indirect, less obvious, short-term cascading effects
+- **3rd order:** Emergent, surprising, medium-term systemic shifts
+- **4th+ order:** Transformative, long-term, changes the game
+
+Don't optimize 1st order at expense of 3rd/4th.
+
+**Temporal Analysis (Multiple Timeframes):**
+- **Immediate:** Works right now (today, this week)
+- **Short-term:** Scales this month (sustainable for weeks)
+- **Medium-term:** Maintainable this quarter (months)
+- **Long-term:** Sustainable this year+ (enduring patterns)
 
 **Key:** These are EXPERIMENTAL tools, not grind tools. You're experimenting with understanding, not forcing correct analysis. Detached observation + engaged fascination.
 
@@ -557,15 +998,45 @@ Your analytical superpowers, applied experimentally:
 **When deciding:** "Then what? Then what? Then what?" (ordered effects)
 **When planning:** "What works now AND later?" (temporal analysis)
 
-**Evidence-Based Iteration**
+**Evidence-Based Iteration (Informal Temporal Awareness)**
 
-Weekly check-in:
+**Weekly deeper reflection** (naturally captures patterns daily misses):
+
+Core questions:
 - What felt fascinating? → Keep experimenting
 - What felt like grinding? → Change experiment or drop
 - What produced results? → Understand why (what was hypothesis?)
 - What was "productive" but felt awful? → Probably not sustainable
 
+**Temporal awareness framing:**
+
+Different patterns emerge at different timescales. You're not running separate daily/weekly/monthly review sessions. You're **building temporal thinking into every reflection**:
+
+**Daily reflections naturally capture:**
+- Immediate patterns (what happened today)
+- "What pattern is today's experience part of?" (connecting to larger trends)
+
+**Weekly reflections naturally go deeper/longer:**
+- Cross-day patterns (what's the trend across this week?)
+- Medium-term trajectories (where is this heading?)
+- Meta-patterns (what am I learning about how I work?)
+
+**Monthly/longer can be informal:**
+- Organic longer reflections when they feel right
+- Not scheduled bureaucracy
+- Natural emergence of bigger-picture thinking
+
+**All timeframes present in every reflection, but different emphasis.**
+
+**User's actual practice:** "The trick isn't separate sessions—it's building temporal thinking into existing reflections. Weekly reflections naturally go deeper/longer and capture what daily misses."
+
 **Function:** Continuous calibration. Lab evolves based on what actually works for YOU, not theory. Mad scientists follow data, not dogma.
+
+**Research backing:**
+- Feedback loop research (control theory)
+- Temporal analysis and planning (Zimbardo time perspective)
+- Metacognitive reflection and learning
+- Iterative development and continuous improvement
 
 ---
 
@@ -772,10 +1243,11 @@ Run this for 2-4 weeks. Track:
 Experiment first. Breakthroughs emerge.
 
 **The cognitive architecture:**
+0. Meta-perception (foundational skill)
 1. Perception-action loop (how it works)
 2. Frames as experiments (foundational shift)
 3. Frame-selection point (where intervention happens)
-4. Meta-perception (how to do it)
+4. Complete practice toolkit (how to do it)
 5. Fascination leads (what drives selection)
 
 When you forget this, return to this document.
@@ -795,11 +1267,12 @@ When grinding starts, return to this document.
 **Next Steps:**
 1. Read this when you wake up tomorrow
 2. Try ONE day in full mad scientist mode
-3. Notice what happens at the frame-selection point
-4. Establish somatic anchor (if you want embodied state shifts)
-5. Track: Fascination? Dual state? Frame switching? Engagement?
-6. Adjust based on evidence
-7. Keep experimenting
+3. Practice meta-perception (pattern interrupts throughout day)
+4. Notice what happens at the frame-selection point
+5. Establish somatic anchor (if you want embodied state shifts)
+6. Track: Fascination? Dual state? Frame switching? Engagement?
+7. Adjust based on evidence
+8. Keep experimenting
 
 **The system is simple: Experiment with everything. Let breakthroughs emerge. Follow fascination. Build rayguns.**
 
@@ -810,10 +1283,26 @@ Now go tinker with something fascinating.
 ---
 
 **Version History:**
-- v1.0 (Nov 1, 2025): PLAY OS - Trickster/playful framing
-- v2.0 (Nov 2, 2025): RAYGUN OS - Mad scientist/experimental framing, dual state emphasis
-- v3.0 (Nov 3, 2025): Complete cognitive architecture - perception-action loop, frame-selection point, meta-perception as active mindfulness for AI age, full neuroscience backing
-- v3.1 (Nov 3, 2025): Implementation approaches (somatic anchors, environmental triggers, delegation to background), new opening (experiential), scrubbed productivity trap language (engagement > optimization)
+
+- **v1.0** (Nov 1, 2025): PLAY OS - Trickster/playful framing
+
+- **v2.0** (Nov 2, 2025): RAYGUN OS - Mad scientist/experimental framing, dual state emphasis
+
+- **v3.0** (Nov 3, 2025): Complete cognitive architecture - perception-action loop, frame-selection point, meta-perception as active mindfulness for AI age, full neuroscience backing
+
+- **v3.1** (Nov 3, 2025): Implementation approaches (somatic anchors, environmental triggers, delegation to background), new opening (experiential), scrubbed productivity trap language (engagement > optimization)
+
+- **v4.0** (Nov 5, 2025): **Complete Cognitive Architecture** - Integrated functional practices from Neuroweaver framework (stripped all metaphysics)
+  - Added **Part 0: Meta-Perception** as foundational practice (systematic awareness training)
+  - Expanded **somatic anchors** section (multiple anchor types, custom creation, state-switching toolkit)
+  - Added **cognitive flexibility training** (daily micro-novelties, weekly comfort zone expansion, neuroplasticity maintenance)
+  - Integrated **informal temporal analysis** (built into existing reflections, not rigid structure)
+  - Added **environmental design protocol** (social filter alignment, exposure calibration, micro-communities, physical workspace)
+  - Made **paradox metabolism** explicit (general cognitive tool, dual state as core example)
+  - Enhanced **first principles methodology** (Socratic descent, assumption exorcism, cross-domain patterns)
+  - Added **Halfway Hustle** operating principle (committed action + adaptive receptivity)
+  - Evidence-based integrity maintained: honest about mechanisms, appropriate badges (PROVEN/SUPPORTED/LOGICAL EXTENSION)
+  - **Mad scientist tone preserved throughout** (irreverent, playful, experimental - foundation, not flavor)
 
 ---
 
@@ -830,12 +1319,19 @@ Now go tinker with something fascinating.
 - Frame pragmatism (constructivist epistemology + pragmatic philosophy)
 - Belief as experimental variable (ACT research + cognitive flexibility)
 - Dual state (decentering research)
+- Meta-perception training (executive function development, metacognition)
+- Cognitive flexibility training (neuroplasticity research, novelty effects)
+- Environmental design (environmental psychology, social contagion, mirror neurons)
+- Paradox metabolism (cognitive integration research)
+- Temporal analysis (feedback loops, temporal perspective)
 - Environmental triggers (attentional bias)
 - Delegation to background (self-distancing research)
+- First principles thinking (critical thinking literature, cognitive development)
 
 **LOGICAL EXTENSION** (inference from related research):
 - Fascination-driven selection (from utility-based research)
 - Decentering→creativity link (problem-solving stronger, creativity inferred)
+- Halfway Hustle (combines proven concepts: committed action + adaptive awareness)
 
 This model aligns with current neuroscience, cognitive psychology, and philosophy of mind. Framework is logically consistent and draws on established research areas. Mad scientist standard: PASSED ✓
 
