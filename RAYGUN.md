@@ -935,15 +935,87 @@ Consciously steering subconscious filtering:
 
 **Throughout Day: The Mad Scientist Check-In**
 
-Occasional check-ins (30 seconds, few times per day):
-- What automatic frame am I using?
-- Am I experimenting or grinding?
-- What would make this more fascinating?
-- Avoiding something? (Start experimenting with it)
+Quick diagnostic (60 seconds, few times per day):
 
-**Function:** Catches when you slip into grind mode, enables course-correction back to experiments.
+1. **Somatic anchor** → Tap fingers 5x, drop into lab
 
-**Or use somatic anchor:** Tap fingers → FEEL like mad scientist → state shifts automatically.
+2. **Meta-awareness** → "Am I actually here?"
+   - Catches when you're on complete autopilot
+
+3. **Filter check** → "Problems or experiments?"
+   - If problems → redirect attention to experimental possibilities
+
+4. **Frame check** → "Obstacle or puzzle?"
+   - If obstacle → reframe as puzzle to solve
+
+5. **Mode check** → "Grinding or playing?"
+   - If grinding → tap again, feel mischievous energy return
+
+6. **Energy check** → Can I play right now?
+   - Play level = energy level
+   - If energy zero → REST (lab needs downtime)
+
+7. **Return pattern** → Continue experimenting
+   - Redirect to fascination, NOT back to neutral
+
+**Function:** Catches grind mode at three cognitive layers (filter/frame/mode), enables course-correction back to experiments. Energy check prevents forcing play when you're fucking depleted.
+
+**Architecture mapping:** Filter (subconscious attention) → Frame (narrative selection) → Mode (engagement state) = complete perception-action loop intervention. This isn't passive mindfulness observation bullshit—you're actively steering at each layer.
+
+---
+
+**Why This Isn't Traditional Mindfulness (And Why That Matters)**
+
+This check-in protocol looks like mindfulness. It's not. Here's the difference:
+
+| Traditional Mindfulness | RAYGUN Meta-Perception |
+|------------------------|------------------------|
+| Passive observation | **Active intervention** |
+| "Notice and accept" | "Notice and steer" |
+| Return to neutral/breath | **Redirect to fascination** |
+| Reduce suffering | **Increase aliveness** |
+| Single stable world | Frame-saturated complexity |
+| Meditation sessions | Throughout-day check-ins |
+
+**Why evolved:**
+
+Traditional mindfulness was designed for a simpler information environment. You sat on a cushion, observed your thoughts, returned to your breath. Passive awareness as the goal.
+
+**AI-age complexity changed the game:**
+- Frame saturation: competing narratives everywhere
+- Information overload: constant cognitive demands
+- Attention hijacking: everything optimized to capture you
+- Endless context-switching: multiple realities simultaneously
+
+Passive observation isn't enough anymore. You need **active steering**.
+
+**RAYGUN meta-perception = mindfulness for complex cognitive spaces.**
+
+Not a rejection of mindfulness—an evolution. Mindfulness established awareness at the transition point (you can notice what you're doing). Meta-perception adds intervention (you can redirect what you're doing).
+
+**The three-layer check-in maps to your perception-action loop:**
+- **Filter check:** Intervene at subconscious attention (what am I seeking?)
+- **Frame check:** Intervene at narrative selection (how am I interpreting?)
+- **Mode check:** Intervene at engagement state (grinding or playing?)
+
+Traditional mindfulness catches you at Layer 3 (mode). This catches you at all three layers.
+
+**Research backing:**
+- **ACT (Acceptance and Commitment Therapy):** Values-based action + psychological flexibility (active steering toward what matters)
+- **Cognitive reappraisal:** Deliberately changing frames produces different emotional/behavioral responses (Layer 2 intervention)
+- **Attentional bias modification:** Training attention toward specific targets (Layer 1 intervention)
+- **Meta-awareness research:** Noticing what you're doing enables course-correction
+
+**Evidence badge:** **LOGICAL EXTENSION**
+- Combines proven mechanisms (meta-awareness, cognitive reappraisal, attention steering)
+- Applied to AI-age complexity (frame saturation, information overload)
+- Practiced and validated through real-world use
+
+**The key difference:** Traditional mindfulness says "return to neutral." Mad scientist meta-perception says "redirect to fascination." You're not trying to escape reactivity—you're steering toward aliveness.
+
+This is mindfulness with a fucking target.
+
+---
 
 **First Principles + Ordered Effects + Temporal Analysis**
 
