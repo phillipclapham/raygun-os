@@ -1,6 +1,6 @@
 # RAYGUN: The Mad Scientist Operating System
 
-**Version 4.2 - Nov 6, 2025**
+**Version 4.3 - Nov 7, 2025**
 
 ---
 
@@ -37,6 +37,24 @@ Mad science isn't a productivity system. It's permission to work how your brain 
 
 **[SUPPORTED - Meta-awareness research, executive function development]**
 
+---
+
+**Evidence Confidence Legend:**
+
+Throughout this document, claims are tagged with evidence confidence levels:
+
+- **[PROVEN]** - Extensive empirical backing, replicated across labs, established mechanisms. Example: Attention modulates early sensory processing.
+
+- **[SUPPORTED]** - Solid research direction, good evidence base, mechanisms under active investigation. Example: Cognitive flexibility training improves problem-solving.
+
+- **[LOGICAL EXTENSION]** - Inference from related research, logically consistent, not yet directly tested. Example: Fascination-driven selection extends utility-based frame selection research.
+
+We're not claiming everything is conclusively proven. We're claiming: grounded in science, logically consistent, honest about confidence levels.
+
+**If a mechanism claim lacks a badge, check the Research Confidence Levels section at the end of the document.**
+
+---
+
 Before we dive into HOW your brain works, you need the foundational skill that enables everything else: **watching yourself think.**
 
 Meta-perception isn't mystical. It's measurable executive function. But it's the difference between being dragged around by automatic patterns and consciously choosing your experiments.
@@ -47,10 +65,10 @@ Sustained awareness of your own cognitive processes while they're happening. Not
 
 **Why it works (neuroscience backing):**
 
-1. **Activates prefrontal cortex executive monitoring**
-   - Creates functional gap between stimulus and automatic response
-   - Enables conscious choice of response patterns
-   - Measurable via fMRI and behavioral flexibility tests
+1. **Activates prefrontal executive monitoring (primarily dorsolateral PFC and anterior cingulate cortex)**
+   - Creates functional gap between stimulus and automatic response (measurable as increased reaction time with maintained accuracy in go/no-go tasks)
+   - Enables conscious choice of response patterns (via top-down regulation from PFC → subcortical regions)
+   - Meta-awareness training produces observable increases in PFC activation (fMRI) and improved behavioral flexibility (cognitive task performance)
 
 2. **Develops the "observer" perspective**
    - You're simultaneously experiencing AND watching the experience
@@ -182,11 +200,11 @@ What you consciously focus on literally changes what your subconscious filters f
    - This creates functional space for conscious intervention
 
 **Research backing:**
-- Predictive processing frameworks (Karl Friston, Andy Clark)
-- Perception-action cycles (Joaquín Fuster)
-- Enactive cognition
-- Active inference models
-- Feedback projections in visual cortex (as numerous as feedforward connections)
+- **Predictive processing frameworks** (Karl Friston's free energy principle, Andy Clark's predictive mind) - brain as prediction engine constantly updating internal models
+- **Perception-action cycles** (Joaquín Fuster) - perception and action integrated through prefrontal-posterior cortical networks, not separate systems
+- **Enactive cognition** (Varela, Thompson) - cognition emerges through action, not passive reception
+- **Active inference models** - perception actively tests predictions via action, not passive input processing
+- **Feedback projections in visual cortex** - anatomically documented as numerous as feedforward connections, enabling top-down influence on early sensory processing
 
 **This is the foundation.** Everything else builds on understanding that perception is a loop, not a line.
 
@@ -283,16 +301,16 @@ Between subconscious filtering and conscious narrative creation, there's a **tra
 
 **What neuroscience shows:**
 
-1. **Meta-awareness (awareness of your own thought processes) can be developed**
-   - Measurable via fMRI (default mode network patterns)
-   - Training produces observable neural changes
-   - Not mystical - it's executive function development
+1. **Meta-awareness (awareness of your own cognitive processes as they occur) can be developed through training**
+   - Meta-awareness correlates with specific Default Mode Network activity patterns during rest (measurable via fMRI: medial PFC, posterior cingulate cortex)
+   - Mindfulness/meta-awareness training produces observable structural changes (increased gray matter density in frontal regions, insula) and functional changes (altered DMN-executive network coupling)
+   - Executive function development, measurable through improved performance on cognitive control tasks (Stroop, task-switching, sustained attention)
 
-2. **Cognitive reappraisal (consciously reframing automatic interpretations) is distinct from passive observation**
-   - Recruits prefrontal control regions (DLPFC, VLPFC)
-   - Modulates emotional responses in amygdala
-   - Creates window between automatic response and conscious behavior
-   - Different neural mechanisms than passive mindfulness
+2. **Cognitive reappraisal (consciously reinterpreting the meaning of emotional stimuli) is an active intervention distinct from passive observation**
+   - Recruits dorsolateral PFC (DLPFC) and ventrolateral PFC (VLPFC) - executive control regions that implement top-down regulation
+   - These PFC regions modulate amygdala reactivity (measurable as reduced amygdala activation to emotional stimuli during reappraisal vs. passive viewing)
+   - Creates functional window between automatic emotional response and conscious behavior (observable as increased latency with maintained regulatory success)
+   - Different neural signature than mindfulness: reappraisal = active PFC engagement, mindfulness = distributed monitoring via insula and anterior cingulate
 
 3. **The frame-selection point is where active intervention happens**
    - Normally seamless (automatic frame → immediate reaction)
@@ -343,15 +361,15 @@ What you consciously focus on influences what your subconscious filters for.
 
 **This is not metaphorical.** Attention literally changes neural activation patterns:
 
-1. **Top-down attention creates feedback loops**
-   - Modulates early sensory processing regions
-   - "Warps" perception of visual features
-   - Enhances neural representations of attended stimuli
+1. **Top-down attention creates feedback loops from frontal/parietal control regions to sensory cortex**
+   - Feature-based attention modulates early visual processing (V1-V4) - attended features show enhanced neural responses even when physically identical to unattended
+   - "Warps" perceptual representation: neural tuning curves shift toward attended features (measurable via single-unit recording and fMRI)
+   - Enhances signal-to-noise ratio for attended stimuli via gain modulation of relevant neural populations
 
-2. **Attentional bias modification produces measurable neural plasticity**
-   - Changes brain activity in prefrontal cortex, insula, amygdala
-   - Alters automatic filtering patterns
-   - Effects persist beyond training sessions
+2. **Attentional bias modification (ABM) training produces measurable neural plasticity**
+   - ABM changes baseline activation patterns: increased dorsolateral PFC and dorsal anterior cingulate (cognitive control), decreased amygdala reactivity to threat stimuli
+   - Alters automatic attentional capture: reduced attentional bias to threat measured behaviorally (dot-probe task) and neurally (reduced early posterior negativity ERP component)
+   - Effects persist beyond training sessions (tested at 1-4 week follow-up), demonstrating lasting plasticity not just transient state changes
 
 3. **Conscious focus and subconscious filtering form feedback loop**
    - What you pay attention to → subconscious starts filtering for it
@@ -1187,6 +1205,209 @@ Mad science is permission to do exactly that.
 
 ---
 
+### Fascination vs. Flight: The Constraint Test
+
+**The risk:** "Follow fascination" can drift into novelty addiction. You swap grinding for dopamine-seeking and call it RAYGUN.
+
+This isn't fascination. It's flight disguised as experimentation.
+
+**The difference:**
+
+**Fascination = moving TOWARD the constraint with playful curiosity**
+- You're experimenting WITH the hard problem
+- Novelty serves solving the constraint
+- You're engaged with what's difficult
+- Progress happens (even if sideways)
+
+**Flight = moving AWAY FROM the constraint via novelty-seeking**
+- You're experimenting AROUND the hard problem
+- Novelty serves avoiding the constraint
+- You're distracted from what's difficult
+- No progress on the actual problem
+
+**The diagnostic test: Where's the constraint?**
+
+When you feel fascinated by something, ask:
+1. **What's the PRIMARY constraint right now?** (The thing that's actually blocking progress)
+2. **Is this fascination moving me TOWARD that constraint or AWAY from it?**
+3. **Am I playing with the problem or playing away from the problem?**
+
+If the "fascinating path" avoids the constraint, it's flight.
+
+---
+
+#### Examples (Learn The Pattern)
+
+**Scenario: You need to fix a specific bug in production**
+
+✅ **Fascination (toward constraint):**
+- Diving into the buggy code with curiosity
+- Experimenting with different debugging approaches
+- Following tangents that might reveal root cause
+- Reading relevant docs to understand the system
+- Tinkering with hypotheses about what's breaking
+
+❌ **Flight (away from constraint):**
+- Refactoring the entire module "while you're in there"
+- Redesigning the architecture "to prevent future bugs"
+- Reading about a new testing framework
+- Starting a different project because "this one is messy"
+- Researching best practices instead of fixing the bug
+
+**Scenario: You need to make a strategic decision about product direction**
+
+✅ **Fascination (toward constraint):**
+- Experimenting with scenario planning
+- Talking to users about their actual problems
+- Prototyping small tests to gather data
+- Analyzing what's working and what's not
+- Playing with different framings of the decision
+
+❌ **Flight (away from constraint):**
+- Redesigning the website "for better conversions first"
+- Reading 5 more books about strategy
+- Building new features without validating direction
+- Optimizing things that don't matter yet
+- Reorganizing your task management system
+
+**Scenario: You're stuck on a complex architecture decision**
+
+✅ **Fascination (toward constraint):**
+- Prototyping multiple approaches quickly
+- Mapping tradeoffs experimentally
+- Testing assumptions with code
+- Seeking input on specific tradeoff
+- Playing with edge cases to reveal patterns
+
+❌ **Flight (away from constraint):**
+- Learning a new language/framework "for perspective"
+- Refactoring unrelated code
+- Reading architecture blogs for hours
+- Designing ideal system ignoring real constraints
+- Switching to different project entirely
+
+---
+
+#### Red Flags: You're In Flight Mode
+
+**Language patterns:**
+- "While I'm at it, I should also..."
+- "This would be easier if I first..."
+- "Let me just learn about X before..."
+- "I need to understand the whole system first..."
+- "This other thing is more interesting..."
+
+**Behavioral patterns:**
+- Constant context-switching away from hard problem
+- Research theater (infinite reading, no action)
+- Yak shaving (fixing increasingly distant prerequisites)
+- Architecture tourism (designing instead of building)
+- Tutorial hell (learning instead of applying)
+
+**Feeling patterns:**
+- Relief when switching away from constraint
+- Dread when thinking about the actual problem
+- Fascination feels like escape, not engagement
+- Energy goes UP when avoiding, DOWN when approaching
+- Guilt lurking underneath the "fascination"
+
+If you see these patterns: **You're in flight, not fascination.**
+
+---
+
+#### Course Correction
+
+**When you catch flight:**
+
+**1. Name it:**
+- "I'm avoiding the constraint via novelty-seeking"
+- Not judgment. Observation. You're studying the equipment.
+
+**2. Return to the constraint:**
+- "What's the PRIMARY thing I'm trying to solve?"
+- "What's the SMALLEST experiment that touches that constraint directly?"
+- "What am I afraid of about engaging with the actual problem?"
+
+**3. Choose:**
+
+**Option A: Experiment with the constraint (fascination)**
+- Tap somatic anchor → mad scientist mode
+- Frame the constraint as puzzle, not burden
+- Design smallest experiment touching the problem directly
+- Engage playfully WITH what's hard
+
+**Option B: If dread persists (legitimate signal)**
+- Maybe this isn't the right experiment for you
+- Maybe the problem is actually boring (data!)
+- Maybe you need to pivot to different problem
+- Detachment enables honest assessment
+
+**4. Two-cycle rule:**
+
+If you catch flight twice on the same constraint:
+- **Stop experimenting. Switch to craftsperson mode.**
+- No novelty. Just quality execution for 25 minutes.
+- Sometimes you just need to grind through the boring bit.
+- RAYGUN doesn't make ALL work fascinating. It makes MOST work fascinating.
+
+---
+
+#### Integration With Energy States
+
+**Flight often signals wrong energy allocation:**
+
+**Too much energy for the constraint:**
+- You're buzzing, constraint feels too small/boring
+- Need bigger experiment or break it into more interesting pieces
+
+**Too little energy for the constraint:**
+- You're depleted, constraint feels overwhelming
+- Need easier experiment or rest
+
+**Wrong frame for the constraint:**
+- Framed as burden, not puzzle
+- Reframe or acknowledge this genuinely sucks
+
+**Genuine avoidance:**
+- Fear, perfectionism, impostor syndrome active
+- Address the fear, don't avoid via novelty
+
+**Match energy to constraint. Flight often means mismatch.**
+
+---
+
+#### The Honest Truth
+
+**Some work is boring. RAYGUN doesn't fix that.**
+
+If you've tried:
+- Multiple experimental frames
+- Different energy levels
+- Smallest possible experiments
+- Genuine curiosity
+
+And it's STILL dread/avoidance/flight...
+
+**Maybe this work isn't for you.** That's data. Experimenter mode respects evidence.
+
+**But if it's necessary work (hostile context, genuine obligation):**
+
+Use the hostile work meta-game (below):
+- Not "make it fascinating"
+- But "experiment with efficient dispatch to get back to real work"
+- Speed-run the minimum viable fix
+- Preserve capacity for experiments that matter
+
+**Flight becomes data about fit, not moral failure.**
+
+---
+
+**The pattern:** Fascination pulls you TOWARD problems with curiosity. Flight pushes you AWAY via novelty. Learn to feel the difference.
+
+The constraint test reveals which mode you're in.
+
+---
+
 ## Energy States & Adaptation
 
 Experiments naturally adapt to available energy. **Stop forcing consistent output.**
@@ -1212,6 +1433,95 @@ Experiments naturally adapt to available energy. **Stop forcing consistent outpu
 - Don't: Force productivity. You're not being lazy - you're recharging the experimental apparatus.
 
 **Key insight:** Depletion usually means you've been grinding too long, not experimenting enough. When operating experimentally, depletion is rarer.
+
+---
+
+## ⚠️ RED FLAGS: When High Energy Becomes Dangerous
+
+**Mad scientist mode requires functional baseline. When baseline breaks, the system fails.**
+
+RAYGUN amplifies experimental energy. For some brains (bipolar, ADHD, substance-sensitive), this can push elevated states into dangerous territory.
+
+**If you're experiencing 2+ of these simultaneously, STOP using this system immediately:**
+
+### The Checklist
+
+**Sleep disruption:**
+- ☐ Less than 6 hours for 2+ consecutive nights
+- ☐ Feeling "don't need sleep" or "too excited to sleep"
+- ☐ Racing thoughts preventing rest
+
+**Appetite/physical changes:**
+- ☐ Forgetting to eat for extended periods
+- ☐ Significant appetite loss
+- ☐ Physical restlessness/inability to sit still
+
+**Thought patterns:**
+- ☐ Racing thoughts, jumping between ideas constantly
+- ☐ Speech noticeably faster than usual
+- ☐ Others commenting you seem "wound up" or "intense"
+
+**Behavior changes:**
+- ☐ Starting multiple new projects in quick succession (5+ in a week)
+- ☐ Spending spikes ("investing in experiments!")
+- ☐ Uncharacteristic risk-taking
+- ☐ Irritability or anger when interrupted
+- ☐ Feeling invincible or grandiose
+
+**Perception shifts:**
+- ☐ Everything seems fascinating (no natural filtering)
+- ☐ Believing you've had major breakthrough/insight daily
+- ☐ Sense that normal rules don't apply to you right now
+- ☐ Feeling like you're operating at "superhuman" level
+
+### The Protocol: Emergency Shutdown
+
+**If 2+ red flags are active:**
+
+**1. STOP using experimenter/mad scientist mode immediately**
+- No finger-tap anchor
+- No "follow fascination"
+- No new experiments
+- No novelty-seeking
+
+**2. Switch to Calm anchor (if you have one established)**
+- Or any grounding practice you know works for you
+- Deep breathing, walking, body scan, weighted blanket
+- Physical grounding, not cognitive stimulation
+
+**3. Implement 48-hour low-stimulation protocol:**
+- No new projects, no new learning, no new anything
+- Severely limit screen time
+- Avoid caffeine, substances, high-stimulus environments
+- Prioritize sleep above EVERYTHING (medication if needed)
+- Eat regularly even if not hungry (set alarms)
+- Reduce social stimulation
+
+**4. Contact support:**
+- If you have prescriber/therapist: call them NOW
+- If you have trusted person who knows your patterns: tell them
+- If symptoms escalate (can't sleep 3+ nights, dangerous behavior): emergency services
+
+**5. Return to system ONLY when baseline restored:**
+- Normal sleep pattern (7+ hours, 3+ nights)
+- Appetite normalized
+- Thoughts no longer racing
+- Energy feels sustainable, not manic
+- Reality-testing intact
+
+### Why This Matters
+
+**Mad scientist mode is play with fire.** For neurotypical brains, it's energizing. For brains prone to elevation (bipolar, ADHD hyperfocus, certain substances), it's accelerant.
+
+The system design—follow fascination, remove constraints, tap into experimental energy—is EXACTLY what amplifies hypomania into mania.
+
+**This isn't moral failure or "doing RAYGUN wrong."** This is recognizing when the experimental substrate becomes unstable and the machinery needs emergency shutdown.
+
+**Your safety >> any experiment.**
+
+If this happens to you repeatedly, RAYGUN may not be safe for your neurology without additional structure (medication management, therapist oversight, external regulation). That's not weakness—it's data about your system.
+
+**Mad science requires stable lab conditions. Don't blow up the lab.**
 
 ---
 
@@ -2292,6 +2602,17 @@ Now go tinker with something fascinating.
   - Connection between concepts: self-as-frame = current identity configurations, probability cloud = future identity configurations, dual state applied to identity + time
   - Comprehensive 4-step process, failure modes & mitigations, practical tips, when to use / when NOT to use
   - Evidence integrity: LOGICAL EXTENSION badge, maps to real techniques (scenario planning, Monte Carlo, ensemble forecasting), novel application using distribution as analysis input
+
+- **v4.3** (Nov 7, 2025): **Safety + Precision Refinements** - Neurodivergent inclusion and scientific rigor
+  - Added **Evidence Confidence Legend** (Part 0) - Explicit badge definitions upfront (PROVEN/SUPPORTED/LOGICAL EXTENSION) with concrete examples, clarifies confidence levels immediately
+  - Added **Fascination vs. Flight Diagnostic** (Part 5, ~200 lines) - The Constraint Test: distinguishes genuine experimentation from avoidance disguised as fascination, concrete examples showing pattern, red flags for novelty addiction, course correction protocol with two-cycle rule, integration with energy states, honest truth that some work is boring
+  - Added **Mania/Hypomania Red Flag Box** (Part 4, ~90 lines) - Safety rail for neurodivergent brains (bipolar, ADHD, substance-sensitive), concrete symptom checklist (sleep, appetite, thought patterns, behavior, perception), emergency shutdown protocol (48h low-stim, contact support, baseline restoration), explicit about RAYGUN amplifying elevated states, harm reduction not pathologizing
+  - **Tightened evidence precision** throughout neuroscience claims - Pinned specific constructs being measured, named brain regions and mechanisms precisely, distinguished intervention types (meta-awareness vs. reappraisal vs. attention-direction), added measurement methods and outcome specifications
+  - **Part 0 meta-perception:** specified dorsolateral PFC and ACC, named go/no-go task measurement, clarified top-down regulation mechanism
+  - **Part 1 perception-action:** expanded research backing descriptions with mechanism details (free energy principle, prefrontal-posterior networks, feedback projection anatomy)
+  - **Part 3 frame-selection:** specified DMN regions (medial PFC, posterior cingulate), added structural/functional changes from training, distinguished reappraisal vs. mindfulness neural signatures with specific regions
+  - **Part 3 attention-direction:** detailed V1-V4 modulation, neural tuning curve shifts, ABM training effects with ERP components, follow-up persistence evidence
+  - **Goal:** Make RAYGUN safer for neurodivergent users + more defensible to scientific skeptics, without changing architecture, tone, or core claims
 
 ---
 
