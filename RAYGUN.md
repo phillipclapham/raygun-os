@@ -1,6 +1,6 @@
 # RAYGUN: The Mad Scientist Operating System
 
-**Version 4.3 - Nov 7, 2025**
+**Version 4.4 - Nov 8, 2025**
 
 ---
 
@@ -33,12 +33,6 @@ Mad science isn't a productivity system. It's permission to work how your brain 
 
 ## PART 0: The Foundation (Meta-Perception)
 
-### Watching Yourself Think
-
-**[SUPPORTED - Meta-awareness research, executive function development]**
-
----
-
 **Evidence Confidence Legend:**
 
 Throughout this document, claims are tagged with evidence confidence levels:
@@ -55,99 +49,147 @@ We're not claiming everything is conclusively proven. We're claiming: grounded i
 
 ---
 
-Before we dive into HOW your brain works, you need the foundational skill that enables everything else: **watching yourself think.**
+Before we dive in, quick vocabulary:
+
+Your brain constantly **filters** what you notice (where attention goes), **frames** what it means (the story you tell about it), and operates in **modes** (grinding through vs experimenting with).
+
+Normally this happens automatically, below awareness. You're captured by whatever frame your brain generates.
+
+You're about to learn to **observe this machinery in real-time** and **intervene at the point where choice is possible.**
+
+Start with practice. The deeper model comes in Part 1.
+
+---
+
+### Watching Yourself Think
+
+**[SUPPORTED - Meta-awareness research, executive function development]**
 
 Meta-perception isn't mystical. It's measurable executive function. But it's the difference between being dragged around by automatic patterns and consciously choosing your experiments.
 
 **What it actually is:**
 
-Sustained awareness of your own cognitive processes while they're happening. Not thinking ABOUT thinking afterward (that's reflection). Not stopping thoughts (that's suppression). But **observing thoughts AS they arise**, in real-time.
+Sustained awareness of your own cognitive processes **while they're happening.** Not thinking about thinking afterward (that's reflection). Not stopping thoughts (that's suppression). But **observing thoughts as they arise**, in real-time.
 
-**Why it works (neuroscience backing):**
+**The mad scientist discovers their own mind as experimental apparatus.** Your brain isn't you—it's equipment you're learning to operate.
 
-1. **Activates prefrontal executive monitoring (primarily dorsolateral PFC and anterior cingulate cortex)**
-   - Creates functional gap between stimulus and automatic response (measurable as increased reaction time with maintained accuracy in go/no-go tasks)
-   - Enables conscious choice of response patterns (via top-down regulation from PFC → subcortical regions)
-   - Meta-awareness training produces observable increases in PFC activation (fMRI) and improved behavioral flexibility (cognitive task performance)
+**How to practice it:**
 
-2. **Develops the "observer" perspective**
-   - You're simultaneously experiencing AND watching the experience
-   - Not dissociation (that's pathological detachment)
-   - Voluntary meta-awareness with maintained engagement
+**1. Systematic check-ins** (throughout day, not constant):
 
-3. **Enables conscious intervention**
-   - Automatic patterns run below awareness normally
-   - Meta-perception makes them visible WHILE happening
-   - Visibility creates space for deliberate frame selection
+Set triggers that prompt: **"What am I paying attention to right now?"**
 
-**The mad scientist discovers their own mind as experimental apparatus:**
+Trigger examples:
+- Every doorway you walk through
+- Every time you check phone
+- Every time you sit down
+- Every time you feel resistance
+- Any notification or interruption
 
-Your brain isn't you—it's equipment you're learning to operate. Meta-perception is like learning to read the instruments in your cognitive laboratory.
+The question triggers meta-awareness—you step back and observe what your brain is automatically doing.
 
-### How to Practice It
+**2. The observer perspective:**
 
-**Not meditation.** Not "clear your mind." **Pattern interrupts throughout your day.**
+Occasionally ask: **"Who is observing these thoughts?"**
 
-**1. Systematic check-ins (throughout day, not constant):**
+Not mystical. Functional. There's the thought arising ("This is hard"), and there's the part of you watching that thought arise. Practice activating the watcher.
 
-Set triggers that prompt the question: **"What am I filtering for right now?"**
-
-**Trigger examples:**
-- Every time you walk through a doorway
-- Every time you check your phone
-- Every time you sit down at desk
-- Every time you feel resistance to something
-- Every notification or interruption
-
-**The question triggers meta-awareness** - you step back and observe what your brain is automatically doing.
-
-**2. The Observer Perspective:**
-
-Throughout the day, occasionally ask: **"Who is observing these thoughts?"**
-
-Not in a mystical way. In a functional way. There's the thought arising ("This is hard"), and there's the part of you watching that thought arise. Practice activating the watcher.
-
-**3. Emotion as signal (not just experience):**
+**3. Emotion as signal:**
 
 When strong emotion arises (frustration, excitement, dread, fascination), pause and observe:
 - "I'm noticing frustration"
 - "I'm watching excitement build"
 - "I'm observing resistance"
 
-The act of observing changes your relationship to the emotion. You're not suppressing it or being dragged by it. You're studying it like a mad scientist studies phenomena.
+The act of observing changes your relationship to the emotion. You're not suppressing it or being dragged by it. You're studying it.
 
-**4. Frame awareness:**
+**4. Catch automatic stories:**
 
-Catch automatic narratives: "This is too hard" / "I'm behind schedule" / "This should be different"
+Notice when your brain generates narratives: "This is too hard" / "I'm behind schedule" / "This should be different"
 
-Notice: "My brain just generated the frame '[automatic narrative]' - is that the only valid frame? What are alternatives?"
+Ask: "My brain just created the story '[automatic narrative]'—is that the only way to see this? What other stories exist?"
 
-### How to Know It's Working
+**How to know it's working:**
 
-**Behavioral markers of developing meta-perception:**
+- Gap between trigger and reaction increases (you pause, you choose)
+- Frame-switching becomes easier (you catch grinding faster)
+- Reactivity decreases (problems feel less overwhelming)
+- Curiosity increases ("Interesting, what's happening here?")
 
-1. **Gap between stimulus and reaction increases**
-   - Something triggers you → you pause → you choose response
-   - Vs automatic: trigger → immediate reaction
+**This is the foundation.** Everything else builds on this skill.
 
-2. **Frame-switching becomes easier**
-   - You catch yourself in grind mode faster
-   - Shifting to experimenter mode feels more natural
-   - "Oh, I'm doing that thing again" becomes common observation
+**Start here. Practice throughout today. Notice what you notice.**
 
-3. **Reactivity decreases**
-   - Problems feel less overwhelming (you're observing them, not drowning in them)
-   - Emotions less dominating (you're watching them, not being them)
-   - Narrative less rigid (you see it's A frame, not THE frame)
+---
 
-4. **Curiosity increases**
-   - Instead of "This is bad" → "Interesting, what's happening here?"
-   - Problems become puzzles to study
-   - Your own patterns become fascinating data
+### The Gap: Where Agency Lives
 
-**This is the foundation.** Everything else in RAYGUN builds on this skill. Without meta-perception, you're running on autopilot. With it, you're operating the controls.
+**[SUPPORTED - Gap awareness, stimulus-response pause, meta-cognitive flexibility]**
 
-**Start here.** Practice throughout today. Notice what you notice.
+When you practice that pause—the space between trigger and reaction—you're accessing something specific: **frameless awareness.**
+
+There's a space before/between any frame. Pure perception without story. Not inner vs outer. Not good vs bad. Just raw sensory data as unified field.
+
+**This isn't mystical. It's structural.** Consciousness can be frameless—no narrative, no interpretation, just perception.
+
+**Why this matters:**
+
+When you're **IN** a frame, you're captured by it. When you're **IN** the gap, you can choose frames.
+
+The sequence: **Grinding → [gap] → experimenter mode**
+
+Not: grinding → experimenting directly (impossible, you're captured)
+But: grinding → **frameless reset** → experimenting (choose from neutral)
+
+**How to use it:**
+
+- Notice you're grinding (stuck in unhelpful frame)
+- Drop narrative completely for moment
+- Touch frameless space (pure perception, no story)
+- Reset to neutral ground
+- Choose experimenter frame FROM here
+
+**Brief touch. Reset point. Then return to active play.**
+
+You don't dwell here (that's meditation). You **use it as palate cleanser between experiments.**
+
+If you want to explore frameless space longer, you can—no goals, no achievement, just curiosity about consciousness itself. We're mad scientists. Even our minds are laboratories.
+
+**The gap is where choice lives. Recognize it. Use it. Keep experimenting.**
+
+---
+
+### You're a Frame Too
+
+**[LOGICAL EXTENSION - Self-concept as mental model, grounded in cognitive science]**
+
+You've been learning to observe frames (the stories your brain generates about reality).
+
+**Here's what you might have missed: You're a frame too.**
+
+Not your "true self" (mystical bullshit). Not your "authentic self" (more mystical bullshit). But the entire experience of "being you"—that's a frame. A way of organizing experience. A dynamic process, not a fixed entity.
+
+**What neuroscience actually shows:**
+
+Your brain constructs "self" from patterns (memories, behaviors, beliefs, stories). Not a singular entity discovered, but a narrative continuously generated. Changes across contexts (you're "different people" at work vs home vs with friends).
+
+**The implication:**
+
+If self = frame (a way of organizing experience), and frames are experimentable (you've been doing this), **then self is experimentable.**
+
+Not "find your true self" (implies fixed entity). But "self is a frame you can consciously experiment with" (implies dynamic process you can influence).
+
+**This makes the observer perspective make sense:**
+
+You can watch yourself think because **"you" is observable from frameless space.** The watcher isn't your "real self"—it's meta-position outside any self-frame.
+
+**The mad scientist treats self as experimental apparatus.**
+
+Your "self" isn't sacred. It's equipment. And you can modify the equipment to suit the experiment.
+
+**Advanced applications of this (Part 6):** Multiple possible future selves, strategic self-frame toolkit, probability cloud thinking.
+
+**For now, just recognize:** When you practice meta-perception, you're observing self-as-frame from frameless space. That's what makes conscious intervention possible.
 
 ---
 
@@ -1624,65 +1666,13 @@ Run this for 2-4 weeks. Track:
 
 **[LOGICAL EXTENSION - Extends frame theory to self-concept, grounded in cognitive science]**
 
-You've been treating frames as experimental variables throughout RAYGUN. Trying them on, testing them, switching them like camera lenses.
+In Part 0, you learned that **you're a frame too**—your sense of self is observable from frameless space and experimentable like any other frame.
 
-But here's the thing you might have missed: **You're a frame too.**
-
-Not your "true self" (that's mystical bullshit). Not your "authentic self" (more mystical bullshit). But the entire experience of "being you"—that's a frame. A way of organizing and interpreting experience. A dynamic process, not a fixed entity.
-
-**And frames are experimentable.**
-
-This isn't philosophy. It's functional recognition with testable implications.
+Now let's explore the advanced applications of this recognition.
 
 ---
 
-#### The Recognition: Self = Frame
-
-**What neuroscience and cognitive psychology actually show:**
-
-1. **Self-concept is a mental model**
-   - Your brain constructs "self" from patterns (memories, behaviors, beliefs, stories)
-   - Not a singular entity discovered, but a narrative continuously generated
-   - Changes across contexts (you're "different people" at work vs home vs with friends)
-   - Observable: Track how you act/think in different environments
-
-2. **Identity is frame-dependent**
-   - Your sense of "who you are" shifts based on active frame
-   - Grind mode you ≠ experimenter mode you (different behaviors, different thoughts, different energy)
-   - Not multiple personalities (pathological) - natural frame-switching applied to self-experience
-   - Observable: Notice how "you" changes when you shift frames
-
-3. **Self is process, not object**
-   - Dynamic unfolding, not static thing
-   - Changes over time (who you were 5 years ago ≠ who you are now)
-   - Continuously constructed through action and narrative
-   - Observable: Look at past behavior vs current behavior
-
-**The implication:**
-
-If self = frame (a way of organizing experience), and frames are experimentable (you've been doing this throughout RAYGUN), **then self is experimentable.**
-
-Not "find your true self" (implies fixed entity waiting to be discovered). But "your self is a frame you can consciously experiment with" (implies dynamic process you can influence).
-
-**Research backing:**
-- Self-concept as mental model (cognitive psychology, developmental psych)
-- Context-dependent self (social psychology, situated cognition)
-- Narrative self-construction (narrative psychology)
-- Self as process vs entity (Buddhist psychology, phenomenology, enactivism)
-
-**This sidesteps ALL mystical bullshit:**
-- No "true self" to discover (you're not hiding from yourself)
-- No "authentic self" to become (authenticity = another frame)
-- No "enlightenment" endpoint (just ongoing experimentation)
-- No unfalsifiable claims (everything testable through observation)
-
-**Makes functional claim instead:**
-
-Treating self as frame ENABLES intentional self-modification. You're not stuck with default configuration. You can experiment with different ways of being you.
-
----
-
-#### The Implication: RAYGUN Itself Is This
+#### Applying It: RAYGUN Itself Is This
 
 **You've already been doing this.**
 
