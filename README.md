@@ -19,30 +19,34 @@ Some people's brains run on fascination. When you're tinkering, experimenting, p
 This system is grounded in neuroscience, honest about what's proven vs. hypothesis, and built for people whose brains run on experiments.
 
 **The complete architecture in six parts:**
-0. **The Foundation** - Meta-perception (the skill that enables everything else)
+0. **The Foundation** - The gap, self-as-frame, and meta-perception (where agency lives)
 1. **The Model** - How cognition actually works (perception-action loop)
 2. **The Shift** - Frames as experiments, not truth (foundational mindset)
 3. **The Mechanism** - Frame-selection point (where intervention happens)
 4. **The Practice** - Complete toolkit (how to do it)
 5. **The Guide** - Fascination leads (what drives selection)
+6. **Advanced Techniques** - Self as experimental frame, probability cloud strategic thinking
 
 ---
 
-## What's New in v4.0? 🔬
+## What's New in v4.4? 🔬
 
-**Complete Cognitive Architecture** - v4.0 integrates functional practices that make the system actually usable:
+**Foundation Architecture** - v4.4 makes explicit what was always implicit: the substrate of conscious intervention.
 
-- **Meta-Perception Training** - Pattern interrupts throughout your day (not meditation, not clearing your mind)
-- **Somatic Anchors Toolkit** - Physical triggers that shift your state instantly (tap fingers → mad scientist mode activated)
-- **Cognitive Flexibility Training** - Daily micro-novelties to prevent your brain from calcifying into rigid patterns
-- **Environmental Design** - Strategic management of social/physical influences (your lab needs to be conducive to experiments)
-- **Paradox Metabolism** - Holding contradictions simultaneously (obsessed + detached, both at once)
-- **Enhanced First Principles** - Socratic descent to bedrock, assumption exorcism, cross-domain pattern recognition
-- **Halfway Hustle** - 100% commitment + 100% openness to sideways wins (committed action creates surface area for luck)
+**Part 0 Restructured:**
+- **The Gap: Where Agency Lives** - Frameless awareness as reset point between frames (grinding → [gap] → experimenter mode)
+- **You're a Frame Too** - Self observable from gap, experimentable like any other frame
+- **Meta-Perception Practice** - Operating from frameless space to observe self-as-frame
 
-All grounded in neuroscience. All honest about evidence (PROVEN/SUPPORTED/LOGICAL EXTENSION badges). Zero woo. Pure mad science.
+**The architectural insight:** You can't shift FROM tight frame TO loose frame directly (you're entangled). But you CAN drop to frameless gap, reset to neutral, THEN choose experimenter frame. The gap is the leverage point.
 
-**From 843 lines to 1338 lines.** Not bloat—comprehensive toolkit for experiment-driven minds.
+**Part 6 Added:**
+- **Self as Experimental Frame** - Multiple possible future selves, strategic self-frame toolkit
+- **Probability Cloud Strategic Thinking** - Ensemble thinking over single predictions, robust actions across scenarios
+
+All grounded in neuroscience. All honest about evidence (PROVEN/SUPPORTED/LOGICAL EXTENSION badges). Zero mysticism. Pure mechanism.
+
+**~2650 lines.** Complete cognitive operating system for experiment-driven minds.
 
 ---
 
@@ -168,4 +172,4 @@ Under these terms:
 
 ---
 
-**Version 4.0** - Nov 5, 2025
+**Version 4.4** - Nov 8, 2025
