@@ -22,6 +22,7 @@ Mad science isn't a productivity system. It's permission to work how your brain 
 
 **The architecture in six parts:**
 0. **The Foundation** - Meta-perception (the skill that enables everything else)
+
 1. **The Model** - How cognition actually works (perception-action loop)
 2. **The Shift** - Frames as experiments, not truth (foundational mindset)
 3. **The Mechanism** - Frame-selection point (where intervention happens)
@@ -80,6 +81,7 @@ Sustained awareness of your own cognitive processes **while they're happening.**
 Set triggers that prompt: **"What am I paying attention to right now?"**
 
 Trigger examples:
+
 - Every doorway you walk through
 - Every time you check phone
 - Every time you sit down
@@ -97,6 +99,7 @@ Not mystical. Functional. There's the thought arising ("This is hard"), and ther
 **3. Emotion as signal:**
 
 When strong emotion arises (frustration, excitement, dread, fascination), pause and observe:
+
 - "I'm noticing frustration"
 - "I'm watching excitement build"
 - "I'm observing resistance"
@@ -242,6 +245,7 @@ What you consciously focus on literally changes what your subconscious filters f
    - This creates functional space for conscious intervention
 
 **Research backing:**
+
 - **Predictive processing frameworks** (Karl Friston's free energy principle, Andy Clark's predictive mind) - brain as prediction engine constantly updating internal models
 - **Perception-action cycles** (Joaquín Fuster) - perception and action integrated through prefrontal-posterior cortical networks, not separate systems
 - **Enactive cognition** (Varela, Thompson) - cognition emerges through action, not passive reception
@@ -262,6 +266,7 @@ Reality = 3D sphere
 Any single frame = 2D projection of that sphere
 
 Every frame gives you a different (and often seemingly contradictory) view, but:
+
 - **Bounded** - There's a finite set of valid perspectives (no solipsism)
 - **Multiple** - More than one valid view exists simultaneously
 - **Incomplete** - You can only hold one frame at a time
@@ -274,6 +279,7 @@ Binary truth (as we normally conceive it) doesn't exist pre-perception. Reality 
 **Therefore: Frame selection can be pragmatic (for utility/fascination) rather than truth-seeking.**
 
 **Research backing:**
+
 - Framing effects (Kahneman/Tversky)
 - Constructivist epistemology
 - Pragmatic constructivism
@@ -292,11 +298,13 @@ Binary truth (as we normally conceive it) doesn't exist pre-perception. Reality 
 **[SUPPORTED - ACT research + cognitive flexibility]**
 
 **Traditional framing:**
+
 - Frames = truth claims to evaluate ("Is this TRUE?")
 - Belief = commitment to frame ("I BELIEVE this")
 - Switching frames = cognitive dissonance/inconsistency
 
 **Meta-perception framing:**
+
 - Frames = experimental variables to test ("What happens if I use this?")
 - Belief = temporary tool ("I'm trying this frame on")
 - Switching frames = experimental methodology ("Testing different approaches")
@@ -309,6 +317,7 @@ You can rapid-switch between frames (like changing camera lenses)
 Fascination drives selection, not truth-seeking (what's interesting to explore?)
 
 **Research backing:**
+
 - Acceptance and Commitment Therapy explicitly: "Belief is not your friend" - therapeutic perspective-taking without requiring belief
 - Cognitive flexibility correlates with better problem-solving outcomes
 - Perspective-taking without commitment is established practice
@@ -325,6 +334,7 @@ This removes metaphysical baggage (no claims about "reality hacking") while keep
 This isn't "believe whatever feels good." It's "when multiple valid framings exist, pick the one that serves fascination/utility while staying grounded in reality."
 
 **Example:**
+
 - Valid frame 1: "This problem is blocking me" (discouraging, grind mode)
 - Valid frame 2: "This problem is an experiment to run" (engaging, experimenter mode)
 - Invalid frame: "This problem doesn't exist" (delusional, detached without grounded)
@@ -361,6 +371,7 @@ Between subconscious filtering and conscious narrative creation, there's a **tra
    - Not a discrete "moment" but a process (milliseconds to seconds)
 
 **Research backing:**
+
 - Metacognition and meta-awareness training
 - Cognitive reappraisal neural mechanisms
 - Emotion regulation strategies
@@ -370,12 +381,14 @@ Between subconscious filtering and conscious narrative creation, there's a **tra
 **The critical distinction:**
 
 **Mindfulness (passive observation):**
+
 - Notice automatic patterns
 - Observe without judgment
 - Reduce reactivity
 - Accept what arises
 
 **Meta-perception (active intervention):**
+
 - Notice automatic patterns
 - **Consciously select alternative frames**
 - **Steer narrative for fascination/utility**
@@ -384,6 +397,7 @@ Between subconscious filtering and conscious narrative creation, there's a **tra
 Both work at the same cognitive transition point. One observes, the other intervenes.
 
 **The difference:**
+
 - "I notice I'm having the thought 'this is hard'" (mindfulness)
 - "I notice the automatic frame 'this is hard' and I'm choosing to reframe as 'this is an interesting puzzle to solve'" (meta-perception)
 
@@ -419,6 +433,7 @@ What you consciously focus on influences what your subconscious filters for.
    - This creates the mechanism for frame pragmatism to WORK
 
 **Research backing:**
+
 - Attention and neural activation (extensive literature)
 - Attentional bias modification (ABM) studies
 - Top-down vs bottom-up attention mechanisms
@@ -451,6 +466,7 @@ Frame selection isn't just mental reframing. When you consciously select a frame
 Meta-perception is simultaneous engagement and detachment.
 
 **Decentering research shows:**
+
 - People can be "both actors engrossed in unfolding story AND third-person observers of that experience"
 - Involves three metacognitive processes: meta-awareness, disidentification from internal experience, reduced reactivity to thought content
 - Distinguished from dissociation (pathological detachment) by maintained awareness + voluntary control
@@ -458,12 +474,14 @@ Meta-perception is simultaneous engagement and detachment.
 **The mad scientist naturally creates this state:**
 
 **Engaged Experimenter:**
+
 - Obsessed with the work (completely in the moment)
 - Fascinated by what's emerging (intrinsic motivation active)
 - Building rayguns to test reality (every project = experimental tool)
 - Tinkering as legitimate research (exploratory processing)
 
 **Detached Observer:**
+
 - No fixed frames (including self - willing to blow up theories if data says so)
 - Pure awareness (seeing what's actually happening, not what you want)
 - Evidence-based (following data, not attachment to outcomes)
@@ -515,6 +533,7 @@ When you feel "I need to figure out which is TRUE," pause. That's the signal.
 **2. Practice holding opposing perspectives**
 
 Take any situation. Generate contradictory frames:
+
 - "This problem is opportunity" / "This problem is threat"
 - "I need structure" / "I need flexibility"
 - "Push forward" / "Rest and wait"
@@ -526,6 +545,7 @@ Hold both. Don't resolve. Let the tension exist.
 Each frame is a different 2D view of the 3D sphere (from Part 1). Use multiple contradictory views to understand the complete shape.
 
 Example: Debugging code
+
 - Frame 1: "Systematic elimination" (methodical, thorough)
 - Frame 2: "Intuitive leaping" (pattern recognition, hunches)
 - Both valid, contradictory approaches. Mad scientist uses both.
@@ -566,12 +586,14 @@ But: "FEEL like mad scientist" (embodied, automatic, energizing)
 **Real example from practice:**
 
 Tap middle finger and thumbs together 5x → instantly triggers "feeling like mad scientist"
+
 - Mischievous energy rises
 - Experimental mindset activates
 - World becomes playground
 - Everything = tinkering opportunity
 
 **The complete embodied loop:**
+
 1. Physical cue (tap 5x)
 2. → Emotional state (mischievous, experimental, playful)
 3. → Identity frame ("I AM a mad scientist")
@@ -583,12 +605,14 @@ Tap middle finger and thumbs together 5x → instantly triggers "feeling like ma
 **How to create your own anchors:**
 
 **Choose anchor type:**
+
 - **Gesture-based:** Finger patterns, hand movements, posture shifts
 - **Breath-based:** Specific breathing patterns (3 deep breaths, breath hold)
 - **Touch-based:** Touch specific object, touch body part, pressure patterns
 - **Word + gesture:** Combine physical cue with word/phrase
 
 **Create the association:**
+
 1. **Identify target state clearly** - What state do you want to access? (Focus? Creativity? Calm? Experimental energy?)
 2. **Choose distinctive cue** - Must be unique (not something you do accidentally)
 3. **Practice ONLY during that state** - This is classical conditioning precision
@@ -602,6 +626,7 @@ Tap middle finger and thumbs together 5x → instantly triggers "feeling like ma
 **Multiple anchors for different states:**
 
 You're not limited to one. Create anchors for different modes:
+
 - **Experimenter mode:** Playful, fascinated, tinkering energy
 - **Focus mode:** Concentrated, absorbed, flow state
 - **Creative mode:** Divergent, wild, no constraints
@@ -611,6 +636,7 @@ You're not limited to one. Create anchors for different modes:
 **Rapid state-switching:**
 
 With multiple anchors established, you can switch states deliberately:
+
 - Need to shift from scattered to focused? → Focus anchor
 - Need to shift from grinding to experimenting? → Experimenter anchor
 - Need to shift from anxious to calm? → Calm anchor
@@ -621,21 +647,25 @@ Calm → Focused → Experimental (sequential anchors, each building on previous
 **Troubleshooting:**
 
 **Anchor not working?**
+
 - Association not strong enough → Practice more during target state
 - Cue not distinctive → Choose more unique gesture
 - Trying to force state → Anchors trigger, they don't force. Let state arise.
 
 **Anchors getting cross-contaminated?**
+
 - Keep each anchor VERY different (different gestures, different types)
 - Don't use same gesture for multiple states
 - Practice each independently before combining
 
 **Anchor effect fading?**
+
 - Occasional reinforcement sessions (do gesture during natural state to re-strengthen)
 - Don't overuse (using constantly weakens association)
 - Treat as tool, not crutch
 
 **Research backing:**
+
 - Embodied cognition (Varela, Thompson, Rosch)
 - Classical conditioning (Pavlov, modern extensions)
 - State-dependent memory
@@ -670,6 +700,7 @@ Mad scientists need labs conducive to experimentation. Sometimes that means choo
 **Social Environment Assessment:**
 
 **Filter alignment analysis (not "toxic people" judgment):**
+
 - Who reinforces experimental mindset? (encourages tinkering, celebrates fascination)
 - Who reinforces grind mode? (demands output, dismisses exploration)
 - Who amplifies your fascination? (gets excited with you, adds energy)
@@ -682,6 +713,7 @@ This isn't about judging people as good/bad. It's about **filter alignment**—w
 **Exposure Calibration (optimization, not isolation):**
 
 You can't always choose who's in your life. But you CAN calibrate exposure:
+
 - **Protect experimental capacity** - Limit time with grind-mode-reinforcing influences during high-stakes creative work
 - **Strategic scheduling** - Schedule calls/meetings with depleting influences when you have buffer time to recover
 - **Energy accounting** - Track who adds vs drains energy, adjust time allocation accordingly
@@ -693,6 +725,7 @@ Not about isolation. About **strategic time allocation** to preserve capacity fo
 **1-3 people for accountability** (not huge groups, not mastermind theatrics)
 
 Find or create tiny group of people who:
+
 - Share experimental framing (or at least understand it)
 - Provide mutual reality-testing (honest feedback, not cheerleading)
 - Amplify fascination (get excited about each other's experiments)
@@ -704,21 +737,25 @@ Find or create tiny group of people who:
 Design workspace to reinforce experimental substrate:
 
 **Add cues that work for YOU:**
+
 - Visual reminders of experimental identity (lab imagery, raygun art, science quotes)
 - Objects that trigger mischievous energy (toys, weird artifacts, playful items)
 - Evidence of past experiments (project artifacts, shipped rayguns, proof you build things)
 
 **Remove grind-mode cues:**
+
 - Eliminate "productivity porn" imagery (hustle quotes, grind glorification)
 - Remove pressure-inducing visual reminders (countdown timers, aggressive goals)
 - Clear away associations with forced execution mode
 
 **Workspace as laboratory:**
+
 - Arrange for tinkering, not just execution (space for sketching, prototyping, playing)
 - Easy access to experimental tools (whatever helps you tinker)
 - Physical environment says: "This is where experiments happen"
 
 **Research backing:**
+
 - Environmental psychology (Barker behavior settings)
 - Social contagion effects (Christakis & Fowler)
 - Mirror neurons and observational learning
@@ -732,6 +769,7 @@ Design workspace to reinforce experimental substrate:
 Rather than constant conscious monitoring (exhausting), delegate to background processes.
 
 **Frame it however works for YOUR brain:**
+
 - "Part of me keeps an eye on this"
 - "My subconscious handles monitoring"
 - "Inner mad scientist watches for grinding"
@@ -740,6 +778,7 @@ Rather than constant conscious monitoring (exhausting), delegate to background p
 - "Autopilot flags when I'm forcing"
 
 **Why external framing helps (research backed):**
+
 - Creates psychological distance (self-distancing - Kross et al.)
 - Accesses different neural networks (executive function as meta-process)
 - Bypasses ego resistance (reduces defensiveness)
@@ -758,6 +797,7 @@ Then trust it. The intention + attention establishes the pattern. Background awa
 **If it feels like effort, it's not sustainable.**
 
 The system should be:
+
 - Effortless in operation
 - Running in background
 - Catching grinding automatically
@@ -766,6 +806,7 @@ The system should be:
 **The recursion:**
 
 Each time you catch grinding and return to experiments, the pattern reinforces:
+
 - Detection gets faster
 - Shift becomes easier
 - Eventually becomes automatic background awareness
@@ -786,16 +827,19 @@ The antidote? **Regular disruption.** Not for disruption's sake—for maintainin
 **Why flexibility matters:**
 
 **Neuroplasticity requires novelty:**
+
 - New experiences → neural reorganization
 - Repetition → neural optimization (efficiency) but rigidity
 - Balance needed: enough repetition to build skills, enough novelty to maintain flexibility
 
 **Pattern recognition vs pattern prison:**
+
 - Pattern recognition = superpower (efficiency, expertise)
 - Pattern calcification = prison (can't see alternatives, stuck in ruts)
 - Mad scientists need both: recognize patterns AND break them deliberately
 
 **How calcification happens:**
+
 - Same routines → same neural pathways → stronger grooves
 - Same frames → same filtering → narrower perception
 - Same approaches → same solutions → inability to adapt
@@ -806,6 +850,7 @@ The antidote? **Regular disruption.** Not for disruption's sake—for maintainin
 Small pattern breaks, minimal cost, cumulative effect:
 
 **Practical examples (choose what works for YOU):**
+
 - **Different route** (walk/drive different path to familiar destination)
 - **New food** (order something unfamiliar, try new recipe)
 - **Hand-switching** (use non-dominant hand for routine tasks)
@@ -822,12 +867,14 @@ Small pattern breaks, minimal cost, cumulative effect:
 **Scheduled unfamiliar experience** (not "challenge yourself" rhetoric—experimentation frame):
 
 Once per week, deliberately do something outside normal patterns:
+
 - Social novelty (event you'd normally skip, different social context)
 - Skill novelty (try something you've never done, even badly)
 - Environmental novelty (explore unfamiliar place, different context)
 - Perspective novelty (engage with ideas you'd normally dismiss)
 
 **Track what reveals new patterns:**
+
 - What surprised you?
 - What automatic assumptions got challenged?
 - What hidden patterns became visible?
@@ -838,6 +885,7 @@ Once per week, deliberately do something outside normal patterns:
 **Preventing Perceptual Calcification:**
 
 **How to recognize you're calcifying:**
+
 - Everything feels familiar (no surprises, complete predictability)
 - "I already know this" reactions increase (dismissing novelty automatically)
 - Solutions come instantly (no exploration needed—pattern-matching only)
@@ -847,12 +895,14 @@ Once per week, deliberately do something outside normal patterns:
 **Randomness injection techniques:**
 
 When you notice calcification:
+
 - **Randomizer decisions:** Let dice/random number decide trivial choices
 - **Constraint reversal:** Impose radical limits to force new approaches
 - **Absurdity experiments:** Try deliberately "wrong" approaches to see what emerges
 - **Cross-domain inspiration:** Apply insights from completely unrelated field
 
 **Environmental variation:**
+
 - Work in different physical locations
 - Change up sensory environment (lighting, sound, temperature)
 - Interact with different types of people
@@ -863,6 +913,7 @@ When you notice calcification:
 You wouldn't let lab instruments get rusty or calibration drift. Same with your cognitive apparatus. Regular novelty injection = equipment maintenance.
 
 **Research backing:**
+
 - Neuroplasticity and novelty (Doidge, Merzenich)
 - Cognitive flexibility theory (Martin & Rubin)
 - Environmental enrichment effects
@@ -870,6 +921,7 @@ You wouldn't let lab instruments get rusty or calibration drift. Same with your 
 - Exploration vs exploitation tradeoffs
 
 **Practical implementation:**
+
 - Start with ONE daily micro-novelty (build the habit)
 - Add weekly unfamiliar experience (schedule it, or it won't happen)
 - Notice when you're calcifying (use that as trigger for randomness injection)
@@ -884,6 +936,7 @@ You wouldn't let lab instruments get rusty or calibration drift. Same with your 
 Develop awareness at the transition between automatic processing and conscious narrative:
 
 **Throughout day (not constant monitoring):**
+
 - What automatic frame just arose?
 - Is this the only valid frame?
 - What alternative frames exist?
@@ -891,6 +944,7 @@ Develop awareness at the transition between automatic processing and conscious n
 - Choose deliberately (frame as experiment)
 
 **Gap between stimulus and response:**
+
 - Problem triggers frustration → PAUSE → "How could I experiment with this?"
 - Email demands response → PAUSE → "What's the fascinating part here?"
 - Feeling stuck → PAUSE → "What would a different frame reveal?"
@@ -909,6 +963,7 @@ When multiple valid frames exist:
 5. **Switch frames if data contradicts** (detached observation enables this)
 
 **Treating belief as toy:**
+
 - Can I adopt a frame I don't "believe" to see what happens?
 - What's a contradictory frame I could test?
 - What's an absurd angle I could explore?
@@ -919,6 +974,7 @@ When multiple valid frames exist:
 Consciously steering subconscious filtering:
 
 **Periodically check:**
+
 - What am I filtering for right now?
 - Am I looking for problems or experiments?
 - Am I seeing obstacles or hypotheses to test?
@@ -931,36 +987,42 @@ Consciously steering subconscious filtering:
 ### The Operating Principles (Within Experimental Substrate)
 
 **1. Fascination is signal, not noise**
+
 - If you're fascinated, you're probably on right track
 - If you're grinding, you're probably forcing something
 - Boredom/dread = wrong experiment, not weak willpower
 - **Fascination ⟷ Fun** - fascination LEADS, fun follows (not the other way)
 
 **2. Weird is good**
+
 - Tangents often lead somewhere useful
 - "Wasted" time exploring usually pays off
 - Pattern disruption prevents calcification
 - Mad scientists try absurd things (frame-switching builds flexibility)
 
 **3. Tinkering IS working**
+
 - "Fiddling around" = exploration
 - "Messing with ideas" = research
 - "Playing with approaches" = experimentation
 - Default mode network activates during unstructured thinking (when brain makes connections)
 
 **4. Breakthroughs emerge, aren't forced**
+
 - Push when there's momentum
 - Rest when there's resistance
 - Trust the process (evidence-based trust, not magical thinking)
 - Dual state = sustainable engagement
 
 **5. Experiments adapt to energy**
+
 - High energy = big experiments, ambitious rayguns
 - Medium energy = focused tinkering, refinement
 - Low energy = gentle exploration, observation
 - Depletion = rest (guilt-free, system recovery)
 
 **6. Every project is a raygun**
+
 - Not "completing tasks" - building experimental tools
 - Each thing you make tests some aspect of reality
 - Protocol Memory = raygun for external memory
@@ -969,6 +1031,7 @@ Consciously steering subconscious filtering:
 - Rayguns prove or disprove hypotheses
 
 **7. Halfway Hustle (Effort + Receptivity)**
+
 - 100% commitment to action + 100% openness to sideways wins
 - Not "try your best and hope" - full execution PLUS adaptive awareness
 - Prevents both passive waiting AND rigid attachment to expected outcome
@@ -985,6 +1048,7 @@ Consciously steering subconscious filtering:
 ### Daily Practices (Within Experimental Substrate)
 
 **Morning: Lab Calibration (10-20 minutes)**
+
 - Walking preferred (helps MCAS/nervous system), sitting acceptable
 - Low-engagement, observational mode
 - Walking and noticing things that catch attention
@@ -1043,6 +1107,7 @@ This check-in protocol looks like mindfulness. It's not. Here's the difference:
 Traditional mindfulness was designed for a simpler information environment. You sat on a cushion, observed your thoughts, returned to your breath. Passive awareness as the goal.
 
 **AI-age complexity changed the game:**
+
 - Frame saturation: competing narratives everywhere
 - Information overload: constant cognitive demands
 - Attention hijacking: everything optimized to capture you
@@ -1055,6 +1120,7 @@ Passive observation isn't enough anymore. You need **active steering**.
 Not a rejection of mindfulness—an evolution. Mindfulness established awareness at the transition point (you can notice what you're doing). Meta-perception adds intervention (you can redirect what you're doing).
 
 **The three-layer check-in maps to your perception-action loop:**
+
 - **Filter check:** Intervene at subconscious attention (what am I seeking?)
 - **Frame check:** Intervene at narrative selection (how am I interpreting?)
 - **Mode check:** Intervene at engagement state (grinding or playing?)
@@ -1062,12 +1128,14 @@ Not a rejection of mindfulness—an evolution. Mindfulness established awareness
 Traditional mindfulness catches you at Layer 3 (mode). This catches you at all three layers.
 
 **Research backing:**
+
 - **ACT (Acceptance and Commitment Therapy):** Values-based action + psychological flexibility (active steering toward what matters)
 - **Cognitive reappraisal:** Deliberately changing frames produces different emotional/behavioral responses (Layer 2 intervention)
 - **Attentional bias modification:** Training attention toward specific targets (Layer 1 intervention)
 - **Meta-awareness research:** Noticing what you're doing enables course-correction
 
 **Evidence badge:** **LOGICAL EXTENSION**
+
 - Combines proven mechanisms (meta-awareness, cognitive reappraisal, attention steering)
 - Applied to AI-age complexity (frame saturation, information overload)
 - Practiced and validated through real-world use
@@ -1087,6 +1155,7 @@ Your analytical superpowers, applied experimentally:
 Strip ideas to fundamental components, rebuild from scratch:
 
 **Socratic descent methodology:**
+
 - Start with belief/assumption/claim
 - Ask: "Why is this true?"
 - Ask again: "Why is THAT true?"
@@ -1094,16 +1163,19 @@ Strip ideas to fundamental components, rebuild from scratch:
 - How to know you've hit bedrock: Statement requires no further justification, self-evident, or empirical observation
 
 **Assumption exorcism:**
+
 - Identify beliefs resting on authority/convention ("I believe this because everyone says so")
 - Test inherited constraints ("What if this supposed limit isn't real?")
 - "What if I'm wrong?" exploration (flip your assumptions)
 
 **Cross-domain pattern recognition:**
+
 - Find universal patterns across fields (same structure, different content)
 - Cognitive arbitrage: Apply insights from one domain to another
 - Novel recombination of fundamental elements
 
 **Example:**
+
 - Surface: "I need to be productive"
 - Why? "To get things done"
 - Why? "To achieve success"
@@ -1112,6 +1184,7 @@ Strip ideas to fundamental components, rebuild from scratch:
 - New frame: "What if fascination creates more value than grinding?"
 
 **Ordered Effects (Trace Consequences):**
+
 - **1st order:** Direct, obvious, immediate consequences
 - **2nd order:** Indirect, less obvious, short-term cascading effects
 - **3rd order:** Emergent, surprising, medium-term systemic shifts
@@ -1120,6 +1193,7 @@ Strip ideas to fundamental components, rebuild from scratch:
 Don't optimize 1st order at expense of 3rd/4th.
 
 **Temporal Analysis (Multiple Timeframes):**
+
 - **Immediate:** Works right now (today, this week)
 - **Short-term:** Scales this month (sustainable for weeks)
 - **Medium-term:** Maintainable this quarter (months)
@@ -1136,6 +1210,7 @@ Don't optimize 1st order at expense of 3rd/4th.
 **Weekly deeper reflection** (naturally captures patterns daily misses):
 
 Core questions:
+
 - What felt fascinating? → Keep experimenting
 - What felt like grinding? → Change experiment or drop
 - What produced results? → Understand why (what was hypothesis?)
@@ -1146,15 +1221,18 @@ Core questions:
 Different patterns emerge at different timescales. You're not running separate daily/weekly/monthly review sessions. You're **building temporal thinking into every reflection**:
 
 **Daily reflections naturally capture:**
+
 - Immediate patterns (what happened today)
 - "What pattern is today's experience part of?" (connecting to larger trends)
 
 **Weekly reflections naturally go deeper/longer:**
+
 - Cross-day patterns (what's the trend across this week?)
 - Medium-term trajectories (where is this heading?)
 - Meta-patterns (what am I learning about how I work?)
 
 **Monthly/longer can be informal:**
+
 - Organic longer reflections when they feel right
 - Not scheduled bureaucracy
 - Natural emergence of bigger-picture thinking
@@ -1166,6 +1244,7 @@ Different patterns emerge at different timescales. You're not running separate d
 **Function:** Continuous calibration. Lab evolves based on what actually works for YOU, not theory. Mad scientists follow data, not dogma.
 
 **Research backing:**
+
 - Feedback loop research (control theory)
 - Temporal analysis and planning (Zimbardo time perspective)
 - Metacognitive reflection and learning
@@ -1182,6 +1261,7 @@ Different patterns emerge at different timescales. You're not running separate d
 Fascination leads, fun follows. NOT "make work fun" (forcing). But "follow what's fascinating, fun emerges from engagement."
 
 **This is about enjoying and engaging with life to its core again.** Not:
+
 - ❌ Better life
 - ❌ More productive
 - ❌ More successful
@@ -1190,6 +1270,7 @@ Fascination leads, fun follows. NOT "make work fun" (forcing). But "follow what'
 - ❌ Optimizing performance
 
 But:
+
 - ✅ ALIVE
 - ✅ FASCINATED
 - ✅ ENGAGED
@@ -1208,6 +1289,7 @@ The fact that this PRODUCES results (PM in 3 months, FlowScript in 4 days, flow 
 **Results emerge from engagement, not grinding.**
 
 **The depletion pattern proves it:**
+
 - Grinding = trying to be productive/successful = depletes
 - Experimenting = engaging with fascination = energizes
 
@@ -1236,6 +1318,7 @@ Mad science is permission to do exactly that.
 5. **Intrinsic motivation** - Fascination generates intrinsic motivation (sustainable). Grinding relies on willpower (depletable).
 
 **Your personal evidence:**
+
 - Code Brown: 6 days concept-to-deployed, pure experimentation
 - FlowScript v1.0: Shipped in 4 days, fascinated exploration
 - Protocol Memory: 3 months while working full-time - mad scientist mode
@@ -1256,12 +1339,14 @@ This isn't fascination. It's flight disguised as experimentation.
 **The difference:**
 
 **Fascination = moving TOWARD the constraint with playful curiosity**
+
 - You're experimenting WITH the hard problem
 - Novelty serves solving the constraint
 - You're engaged with what's difficult
 - Progress happens (even if sideways)
 
 **Flight = moving AWAY FROM the constraint via novelty-seeking**
+
 - You're experimenting AROUND the hard problem
 - Novelty serves avoiding the constraint
 - You're distracted from what's difficult
@@ -1270,6 +1355,7 @@ This isn't fascination. It's flight disguised as experimentation.
 **The diagnostic test: Where's the constraint?**
 
 When you feel fascinated by something, ask:
+
 1. **What's the PRIMARY constraint right now?** (The thing that's actually blocking progress)
 2. **Is this fascination moving me TOWARD that constraint or AWAY from it?**
 3. **Am I playing with the problem or playing away from the problem?**
@@ -1283,6 +1369,7 @@ If the "fascinating path" avoids the constraint, it's flight.
 **Scenario: You need to fix a specific bug in production**
 
 ✅ **Fascination (toward constraint):**
+
 - Diving into the buggy code with curiosity
 - Experimenting with different debugging approaches
 - Following tangents that might reveal root cause
@@ -1290,6 +1377,7 @@ If the "fascinating path" avoids the constraint, it's flight.
 - Tinkering with hypotheses about what's breaking
 
 ❌ **Flight (away from constraint):**
+
 - Refactoring the entire module "while you're in there"
 - Redesigning the architecture "to prevent future bugs"
 - Reading about a new testing framework
@@ -1299,6 +1387,7 @@ If the "fascinating path" avoids the constraint, it's flight.
 **Scenario: You need to make a strategic decision about product direction**
 
 ✅ **Fascination (toward constraint):**
+
 - Experimenting with scenario planning
 - Talking to users about their actual problems
 - Prototyping small tests to gather data
@@ -1306,6 +1395,7 @@ If the "fascinating path" avoids the constraint, it's flight.
 - Playing with different framings of the decision
 
 ❌ **Flight (away from constraint):**
+
 - Redesigning the website "for better conversions first"
 - Reading 5 more books about strategy
 - Building new features without validating direction
@@ -1315,6 +1405,7 @@ If the "fascinating path" avoids the constraint, it's flight.
 **Scenario: You're stuck on a complex architecture decision**
 
 ✅ **Fascination (toward constraint):**
+
 - Prototyping multiple approaches quickly
 - Mapping tradeoffs experimentally
 - Testing assumptions with code
@@ -1322,6 +1413,7 @@ If the "fascinating path" avoids the constraint, it's flight.
 - Playing with edge cases to reveal patterns
 
 ❌ **Flight (away from constraint):**
+
 - Learning a new language/framework "for perspective"
 - Refactoring unrelated code
 - Reading architecture blogs for hours
@@ -1333,6 +1425,7 @@ If the "fascinating path" avoids the constraint, it's flight.
 #### Red Flags: You're In Flight Mode
 
 **Language patterns:**
+
 - "While I'm at it, I should also..."
 - "This would be easier if I first..."
 - "Let me just learn about X before..."
@@ -1340,6 +1433,7 @@ If the "fascinating path" avoids the constraint, it's flight.
 - "This other thing is more interesting..."
 
 **Behavioral patterns:**
+
 - Constant context-switching away from hard problem
 - Research theater (infinite reading, no action)
 - Yak shaving (fixing increasingly distant prerequisites)
@@ -1347,6 +1441,7 @@ If the "fascinating path" avoids the constraint, it's flight.
 - Tutorial hell (learning instead of applying)
 
 **Feeling patterns:**
+
 - Relief when switching away from constraint
 - Dread when thinking about the actual problem
 - Fascination feels like escape, not engagement
@@ -1362,10 +1457,12 @@ If you see these patterns: **You're in flight, not fascination.**
 **When you catch flight:**
 
 **1. Name it:**
+
 - "I'm avoiding the constraint via novelty-seeking"
 - Not judgment. Observation. You're studying the equipment.
 
 **2. Return to the constraint:**
+
 - "What's the PRIMARY thing I'm trying to solve?"
 - "What's the SMALLEST experiment that touches that constraint directly?"
 - "What am I afraid of about engaging with the actual problem?"
@@ -1373,12 +1470,14 @@ If you see these patterns: **You're in flight, not fascination.**
 **3. Choose:**
 
 **Option A: Experiment with the constraint (fascination)**
+
 - Tap somatic anchor → mad scientist mode
 - Frame the constraint as puzzle, not burden
 - Design smallest experiment touching the problem directly
 - Engage playfully WITH what's hard
 
 **Option B: If dread persists (legitimate signal)**
+
 - Maybe this isn't the right experiment for you
 - Maybe the problem is actually boring (data!)
 - Maybe you need to pivot to different problem
@@ -1387,6 +1486,7 @@ If you see these patterns: **You're in flight, not fascination.**
 **4. Two-cycle rule:**
 
 If you catch flight twice on the same constraint:
+
 - **Stop experimenting. Switch to craftsperson mode.**
 - No novelty. Just quality execution for 25 minutes.
 - Sometimes you just need to grind through the boring bit.
@@ -1399,18 +1499,22 @@ If you catch flight twice on the same constraint:
 **Flight often signals wrong energy allocation:**
 
 **Too much energy for the constraint:**
+
 - You're buzzing, constraint feels too small/boring
 - Need bigger experiment or break it into more interesting pieces
 
 **Too little energy for the constraint:**
+
 - You're depleted, constraint feels overwhelming
 - Need easier experiment or rest
 
 **Wrong frame for the constraint:**
+
 - Framed as burden, not puzzle
 - Reframe or acknowledge this genuinely sucks
 
 **Genuine avoidance:**
+
 - Fear, perfectionism, impostor syndrome active
 - Address the fear, don't avoid via novelty
 
@@ -1423,6 +1527,7 @@ If you catch flight twice on the same constraint:
 **Some work is boring. RAYGUN doesn't fix that.**
 
 If you've tried:
+
 - Multiple experimental frames
 - Different energy levels
 - Smallest possible experiments
@@ -1435,6 +1540,7 @@ And it's STILL dread/avoidance/flight...
 **But if it's necessary work (hostile context, genuine obligation):**
 
 Use the hostile work meta-game (below):
+
 - Not "make it fascinating"
 - But "experiment with efficient dispatch to get back to real work"
 - Speed-run the minimum viable fix
@@ -1455,21 +1561,25 @@ The constraint test reveals which mode you're in.
 Experiments naturally adapt to available energy. **Stop forcing consistent output.**
 
 **High Energy** (buzzing, eager, "let's go")
+
 - Experimenter mode: Big messy experiments, ambitious rayguns, wild tangents
 - Do: Ride it. Take on complex experiments. Go deep. Explore widely.
 - Don't: Waste it on rote tasks. Save easy stuff for low energy.
 
 **Medium Energy** (steady, focused, engaged)
+
 - Experimenter mode: Focused tinkering, incremental progress, refinement
 - Do: Work on known experiments. Build on existing progress. Execute clear next steps.
 - Don't: Force breakthroughs. Let them emerge from fascination.
 
 **Low Energy** (foggy, slow, but not completely depleted)
+
 - Experimenter mode: Gentle exploration, observation, light tinkering
 - Do: Easy experiments. Familiar patterns. Reading. Planning. Doodling ideas.
 - Don't: Beat yourself up. This is still engagement - just different tempo.
 
 **Depleted** (empty, sludgy, nothing sounds fascinating)
+
 - Experimenter mode: REST. No experiments. Just recovery.
 - Do: Nap. Walk slowly. Stare at things. Watch something mindless. Let system recharge.
 - Don't: Force productivity. You're not being lazy - you're recharging the experimental apparatus.
@@ -1489,21 +1599,25 @@ RAYGUN amplifies experimental energy. For some brains (bipolar, ADHD, substance-
 ### The Checklist
 
 **Sleep disruption:**
+
 - ☐ Less than 6 hours for 2+ consecutive nights
 - ☐ Feeling "don't need sleep" or "too excited to sleep"
 - ☐ Racing thoughts preventing rest
 
 **Appetite/physical changes:**
+
 - ☐ Forgetting to eat for extended periods
 - ☐ Significant appetite loss
 - ☐ Physical restlessness/inability to sit still
 
 **Thought patterns:**
+
 - ☐ Racing thoughts, jumping between ideas constantly
 - ☐ Speech noticeably faster than usual
 - ☐ Others commenting you seem "wound up" or "intense"
 
 **Behavior changes:**
+
 - ☐ Starting multiple new projects in quick succession (5+ in a week)
 - ☐ Spending spikes ("investing in experiments!")
 - ☐ Uncharacteristic risk-taking
@@ -1511,6 +1625,7 @@ RAYGUN amplifies experimental energy. For some brains (bipolar, ADHD, substance-
 - ☐ Feeling invincible or grandiose
 
 **Perception shifts:**
+
 - ☐ Everything seems fascinating (no natural filtering)
 - ☐ Believing you've had major breakthrough/insight daily
 - ☐ Sense that normal rules don't apply to you right now
@@ -1521,17 +1636,20 @@ RAYGUN amplifies experimental energy. For some brains (bipolar, ADHD, substance-
 **If 2+ red flags are active:**
 
 **1. STOP using experimenter/mad scientist mode immediately**
+
 - No finger-tap anchor
 - No "follow fascination"
 - No new experiments
 - No novelty-seeking
 
 **2. Switch to Calm anchor (if you have one established)**
+
 - Or any grounding practice you know works for you
 - Deep breathing, walking, body scan, weighted blanket
 - Physical grounding, not cognitive stimulation
 
 **3. Implement 48-hour low-stimulation protocol:**
+
 - No new projects, no new learning, no new anything
 - Severely limit screen time
 - Avoid caffeine, substances, high-stimulus environments
@@ -1540,11 +1658,13 @@ RAYGUN amplifies experimental energy. For some brains (bipolar, ADHD, substance-
 - Reduce social stimulation
 
 **4. Contact support:**
+
 - If you have prescriber/therapist: call them NOW
 - If you have trusted person who knows your patterns: tell them
 - If symptoms escalate (can't sleep 3+ nights, dangerous behavior): emergency services
 
 **5. Return to system ONLY when baseline restored:**
+
 - Normal sleep pattern (7+ hours, 3+ nights)
 - Appetite normalized
 - Thoughts no longer racing
@@ -1571,10 +1691,11 @@ If this happens to you repeatedly, RAYGUN may not be safe for your neurology wit
 
 You can't make truly hostile emergencies fascinating. But you CAN frame them as lab conditions to work within:
 
-**NOT:** "Make Pressable work enjoyable"
-**BUT:** "Experiment with minimizing Pressable's drain on lab capacity"
+**NOT:** "Make all work enjoyable"
+**BUT:** "Experiment with minimizing this specific work's drain on lab capacity"
 
 **Frame as:**
+
 - Speed-running minimum viable fixes (optimization experiment)
 - Efficiency hypothesis: "What's the LEAST I can do to make this go away?"
 - Energy conservation experiment: "How do I handle this while preserving capacity for real work?"
@@ -1593,6 +1714,7 @@ Even hostile work becomes data. What can I learn about efficient dispatch? What 
 Pressure will push you back into grind mode periodically. **That's fine. Just notice and return.**
 
 **Warning signs:**
+
 - Work feels like burden, not exploration (lost engaged)
 - "Fiddling" triggers guilt (lost permission)
 - You're working harder but getting less done (lost dual state)
@@ -1615,6 +1737,7 @@ Pressure will push you back into grind mode periodically. **That's fine. Just no
 2. **Act:** Let mischievous experimental energy guide next move
 
 **Example:**
+
 - Notice: "I'm grinding on this architecture problem"
 - Tap fingers 5x: Feel mischievous, experimental, playful
 - World = playground, problem = toy to tinker with
@@ -1630,6 +1753,7 @@ Pressure will push you back into grind mode periodically. **That's fine. Just no
 ## Evidence & Iteration
 
 **This system works if:**
+
 - Work feels lighter (even when challenging)
 - Engagement increases with less grinding
 - Depletion is less frequent
@@ -1639,6 +1763,7 @@ Pressure will push you back into grind mode periodically. **That's fine. Just no
 - You maintain dual state (obsessed + detached)
 
 **This system fails if:**
+
 - Nothing gets done
 - Experiments become avoidance
 - Results tank
@@ -1649,6 +1774,7 @@ Pressure will push you back into grind mode periodically. **That's fine. Just no
 **Adjust based on actual results, not theory.** Mad scientists follow data.
 
 Run this for 2-4 weeks. Track:
+
 - What felt fascinating?
 - What produced results?
 - When did you slip into grind mode?
@@ -1679,6 +1805,7 @@ Now let's explore the advanced applications of this recognition.
 RAYGUN isn't "discovering your true self as mad scientist." It's **experimenting with mad scientist self-frame vs grinder self-frame.**
 
 **Grinder self-frame:**
+
 - Identity: "I'm someone who needs to be productive"
 - Filtering: Problems, obstacles, threats to productivity
 - Framing: "Work is burden, must push through"
@@ -1686,6 +1813,7 @@ RAYGUN isn't "discovering your true self as mad scientist." It's **experimenting
 - Energy: Decreasing
 
 **Mad scientist self-frame:**
+
 - Identity: "I'm an experimenter tinkering with reality"
 - Filtering: Experiments, puzzles, fascinating phenomena
 - Framing: "Work is laboratory, I'm testing hypotheses"
@@ -1697,6 +1825,7 @@ RAYGUN isn't "discovering your true self as mad scientist." It's **experimenting
 You're not "becoming" a mad scientist (like it's your destiny). You're **choosing to operate from mad scientist self-frame** because it produces better results (engagement, energy, breakthroughs).
 
 **The entire architecture you've been learning:**
+
 - Meta-perception (Part 0): Watching yourself operate from different self-frames
 - Perception-action loop (Part 1): Your self-frame influences filtering/framing
 - Frames as experiments (Part 2): **Applies to self**
@@ -1709,6 +1838,7 @@ You're not "becoming" a mad scientist (like it's your destiny). You're **choosin
 RAYGUN is self-frame experiment. You're not learning productivity techniques. You're learning to consciously select and test different configurations of selfhood.
 
 And it works. Measurably. Track the results:
+
 - Mad scientist self-frame: More engagement, more breakthroughs, more energy
 - Grinder self-frame: More depletion, more suffering, worse results
 
@@ -1723,6 +1853,7 @@ And it works. Measurably. Track the results:
 **1. Notice current self-frame**
 
 Throughout the day, catch yourself and ask:
+
 - "Who am I being right now?"
 - "What identity frame is active?"
 - "What kind of person does this behavior/thought pattern belong to?"
@@ -1730,6 +1861,7 @@ Throughout the day, catch yourself and ask:
 Not judgment. Observation. You're studying the equipment (your self-process).
 
 **Examples of self-frames you might notice:**
+
 - The Grinder (must be productive, forcing through)
 - The Victim (things happen TO me, powerless)
 - The Expert (I already know, dismissing novelty)
@@ -1743,6 +1875,7 @@ Not judgment. Observation. You're studying the equipment (your self-process).
 **2. Recognize it's experimentable**
 
 When you notice a self-frame, ask:
+
 - "Is this frame serving me right now?"
 - "What would happen if I tried a different configuration?"
 - "What self-frame would make this situation fascinating?"
@@ -1752,11 +1885,13 @@ You're not stuck. You can switch. Deliberately.
 **3. Try different configurations consciously**
 
 Choose a self-frame to test:
+
 - Feeling stuck in victim frame? Try experimenter frame.
 - Feeling stuck in expert frame? Try beginner frame.
 - Feeling stuck in grinder frame? Try mad scientist frame.
 
 **How to switch:**
+
 - Use somatic anchor (from Part 4) to trigger target self-frame
 - Ask: "What would [target identity] do here?"
 - Embody it physically (posture, energy, facial expression)
@@ -1765,6 +1900,7 @@ Choose a self-frame to test:
 **4. Track results honestly**
 
 Different self-frames produce different results. Track:
+
 - Which self-frames generate engagement?
 - Which produce depletion?
 - Which lead to breakthroughs?
@@ -1779,6 +1915,7 @@ Different self-frames produce different results. Track:
 You don't need one "authentic self." You need **repertoire of useful configurations** for different situations.
 
 **Strategic self-frame selection:**
+
 - Debugging gnarly problem? → Mad scientist frame (experimenting with hypotheses)
 - Learning new skill? → Beginner frame (curious, willing to be wrong)
 - Facing uncertainty? → Explorer frame (investigating unknown territory)
@@ -1798,28 +1935,33 @@ Your "self" isn't sacred. It's equipment. And you can modify the equipment to su
 **This isn't new practice. It's making explicit what you've already been doing.**
 
 **Frame selection (Part 2) applies to self:**
+
 - Not just selecting frames about external reality
 - Selecting frames about internal reality (who you are)
 - Self-concept = frame (experimentable, switchable, pragmatic)
 
 **Mad scientist mode (throughout) = specific self-frame:**
+
 - You've been activating "mad scientist identity configuration"
 - Different filtering (experiments vs problems)
 - Different framing (puzzles vs obstacles)
 - Different behavior (tinkering vs grinding)
 
 **Check-in protocol (Part 4) = detecting active self-frame:**
+
 - "Grinding or playing?" = which self-frame is running?
 - "Problems or experiments?" = which identity's filtering?
 - Tap fingers 5x = trigger mad scientist self-frame
 
 **Dual state (Part 0) = holding multiple self-frames simultaneously:**
+
 - You're the experimenter (engaged identity)
 - AND the observer (detached awareness of that identity)
 - Not "finding real self" - holding multiple self-configurations at once
 - This IS the dual state applied to identity
 
 **Fascination leads (Part 5) = self-frame selection guide:**
+
 - Which self-configuration produces fascination?
 - That's the one to activate.
 - Mad scientist self-frame wins because it generates engagement.
@@ -1837,6 +1979,7 @@ You're not just experimenting with current self-frame. You can hold **multiple p
 Not predicting which you'll become. **Holding the ensemble of configurations you might become.**
 
 **Different futures = different future selves:**
+
 - "Protocol Memory succeeds fast" future → entrepreneur self
 - "PM fails, pivot to other products" future → resilient experimenter self
 - "Build open source community around FlowScript" future → community builder self
@@ -1846,6 +1989,7 @@ Not predicting which you'll become. **Holding the ensemble of configurations you
 **You don't know which future will happen. But you can hold ALL of them simultaneously and act from position compatible with the ensemble.**
 
 **This is dual state applied to identity + time:**
+
 - **Observer:** Meta-position holding ensemble of possible future selves
 - **Experimenter:** Taking actions that work across multiple scenarios
 - **Simultaneously engaged** (acting in present) **+ detached** (not identified with one outcome)
@@ -1853,16 +1997,19 @@ Not predicting which you'll become. **Holding the ensemble of configurations you
 **Example:**
 
 Right now, Phill doesn't know if Protocol Memory will succeed fast, succeed slow, or need pivot. Instead of:
+
 - Betting everything on "PM succeeds fast" self (rigid, high-risk)
 - OR hedging so much he never commits (paralyzed, low-commitment)
 
 He holds multiple future selves simultaneously:
+
 - Fast success self (entrepreneur scaling)
 - Slow success self (patient builder)
 - Pivot self (adaptive experimenter)
 - Extended day job self (strategic planner)
 
 And takes actions that are **robust across those futures:**
+
 - Build PM with quality (works for all futures)
 - Maintain financial runway (works for all futures)
 - Preserve optionality at decision points (works for all futures)
@@ -1919,6 +2066,7 @@ FROM: "What will happen?" → "What's the most likely outcome?" → Act on that
 TO: "What COULD happen?" → "What patterns exist across the distribution?" → Act on patterns
 
 **Why this works:**
+
 - Multiple futures = expanded analysis substrate (10x more material to explore)
 - Robust actions work across scenarios (reduced failure surface)
 - Impossibilities reveal constraints (what CAN'T happen shows what MUST be true)
@@ -1935,30 +2083,35 @@ TO: "What COULD happen?" → "What patterns exist across the distribution?" → 
 **The problem with single-prediction planning:**
 
 **1. Overconfidence in "best guess"**
+
 - Feels certain because it's THE prediction
 - Ignores massive uncertainty in complex systems
 - Confirmation bias reinforces (you see evidence supporting your prediction)
 - When wrong, you're blindsided
 
 **2. Single point of failure**
+
 - Entire plan rests on prediction being right
 - If prediction wrong, plan collapses
 - No built-in hedges or fallbacks
 - All-or-nothing thinking
 
 **3. Paralysis when uncertain**
+
 - When you can't predict with confidence, you freeze
 - "I need more information before I can decide"
 - Waiting for certainty that never comes
 - Opportunity cost of inaction
 
 **4. Brittle plans**
+
 - Optimized for specific predicted outcome
 - Break when reality differs (and it always differs)
 - Require complete re-planning when predictions fail
 - High switching costs
 
 **5. Limited analysis substrate**
+
 - Only analyzing one scenario (the "likely" one)
 - Missing insights from exploring other possibilities
 - "Unknown unknowns" stay unknown
@@ -1973,6 +2126,7 @@ TO: "What COULD happen?" → "What patterns exist across the distribution?" → 
 **Instead of single prediction:**
 
 **Generate 6-10 scenarios (deliberately varied):**
+
 - Optimistic (things go better than expected)
 - Pessimistic (things go worse than expected)
 - Lateral (unexpected sideways moves)
@@ -1989,6 +2143,7 @@ TO: "What COULD happen?" → "What patterns exist across the distribution?" → 
 Don't ask: "Which scenario is most likely?"
 
 Ask instead:
+
 - What patterns appear across ALL futures?
 - What's true across MOST weighted scenarios?
 - Where do futures diverge? (decision points)
@@ -2000,6 +2155,7 @@ Ask instead:
 **You're using the distribution SHAPE as analysis input.**
 
 The ensemble reveals:
+
 - Robust actions (work across many weighted futures)
 - Key uncertainties (where futures diverge most)
 - Critical constraints (what makes futures impossible)
@@ -2009,6 +2165,7 @@ The ensemble reveals:
 **Extract robust actions:**
 
 Actions that:
+
 - Work across multiple weighted futures (not optimized for one)
 - Create optionality at decision points (don't lock you in)
 - Hedge against weighted risks (protect multiple failure modes)
@@ -2018,6 +2175,7 @@ Actions that:
 **Dynamic updating:**
 
 Life is continuous experiment. As data arrives:
+
 - Update weights (some futures now more/less likely)
 - Prune futures that became impossible (new constraints revealed)
 - Generate new scenarios (landscape shifted, new possibilities)
@@ -2040,42 +2198,50 @@ Life is continuous experiment. As data arrives:
 **STEP 1: Generate Futures (Deliberately Varied)**
 
 **Choose temporal checkpoints:**
+
 - T+1 month, T+3 months, T+6 months, T+1 year
 - Or whatever intervals make sense for your decision
 
 **For each checkpoint, generate 6-10 scenarios:**
 
 **Optimistic:** Things go better than expected
+
 - What if you're underestimating your capabilities?
 - What if market conditions are more favorable than you think?
 - What if key opportunities emerge early?
 
 **Pessimistic:** Things go worse than expected
+
 - What if you're overestimating your capabilities?
 - What if market conditions deteriorate?
 - What if obstacles are bigger than anticipated?
 
 **Lateral:** Unexpected sideways moves
+
 - What if the real opportunity is adjacent to what you're planning?
 - What if you pivot to something completely different?
 - What if the path forward is orthogonal to current direction?
 
 **Adversarial:** Someone actively opposes you
+
 - What if competitors move aggressively?
 - What if current employer responds negatively?
 - What if market dynamics turn hostile?
 
 **Outlier:** Low probability, high impact
+
 - What if black swan event occurs?
 - What if regulatory environment changes dramatically?
 - What if personal circumstances force major shift?
 
 **Absurd:** Boundary conditions, test limits
+
 - What if aliens attack? (Not literally, but equivalent impossibility)
 - What if everything breaks simultaneously?
 - What if the opposite of your assumptions is true?
 
 **Include impossibilities deliberately:**
+
 - "What if I had infinite funding?"
 - "What if I had zero time?"
 - "What if I couldn't use computers?"
@@ -2095,42 +2261,50 @@ You're not trying to predict. You're trying to map the possibility space thoroug
 **Now you have 6-10 futures per checkpoint. Don't analyze them individually. Analyze ACROSS them.**
 
 **Pattern Recognition:**
+
 - What patterns appear across ALL futures?
 - What's true in MOST weighted scenarios?
 - What happens in only a few futures? (tells you those are contingent on specific conditions)
 
 **Divergence Points:**
+
 - Where do futures split most dramatically?
 - Those are decision points (places where your choices matter most)
 - What triggers the divergence? (reveals key uncertainties)
 
 **Impossibility Analysis:**
+
 - What makes certain futures impossible?
 - Those reveal current constraints (what MUST be true now)
 - Example: If "succeed in 1 month" is impossible, what constraint causes that? Time? Resources? Dependencies?
 
 **Load-Bearing Assumptions:**
+
 - What assumptions, if broken, eliminate multiple futures?
 - Those are your hidden bets (you're relying on them without realizing)
 - Test them explicitly
 
 **Common Actions in Successful Futures:**
+
 - Which actions appear in multiple scenarios where things go well?
 - Those are candidates for robust actions
 - Not guarantees, but good bets
 
 **Common Failure Modes:**
+
 - What causes failure across multiple scenarios?
 - Those are risks to hedge against
 - Prioritize by: how many futures they affect × severity
 
 **The SHAPE of the distribution matters:**
+
 - Wide spread? High uncertainty, need hedging strategies
 - Narrow spread? More predictable, can optimize more specifically
 - Bimodal (two clusters)? Key decision point ahead, prepare for branching
 - Fat tail? Outlier risks significant, need insurance/hedges
 
 **Ask yourself:**
+
 - "What does this distribution tell me about NOW?"
 - "What's true about my current situation if these are the possible futures?"
 - "What actions would be wise given this uncertainty landscape?"
@@ -2180,6 +2354,7 @@ Can lead toward multiple desirable outcomes, not just one.
 Example: "Build engaged community" helps whether you monetize via products, consulting, or something else. "Optimize for specific monetization model" only helps one path.
 
 **Typical robust action toolkit:**
+
 - Extend runway (time to experiment)
 - Preserve optionality (don't lock in prematurely)
 - Build quality foundations (work across futures)
@@ -2199,26 +2374,31 @@ Example: "Build engaged community" helps whether you monetize via products, cons
 As you act and observe results:
 
 **Update weights:**
+
 - Some futures becoming more likely (evidence accumulating)
 - Some futures becoming less likely (assumptions broken)
 - Shift probability mass accordingly
 
 **Prune impossible futures:**
+
 - New constraints revealed (certain paths now impossible)
 - Remove from distribution
 - Frees cognitive space for remaining scenarios
 
 **Generate new scenarios:**
+
 - Landscape shifted (new possibilities emerged)
 - Add to distribution
 - Keeps coverage comprehensive as situation evolves
 
 **Extract new robust actions:**
+
 - Ensemble shape changed
 - Different patterns now visible
 - Update action plan accordingly
 
 **Check-in frequency:**
+
 - Weekly for high-stakes active situations
 - Monthly for medium-term planning
 - Quarterly for long-term strategy
@@ -2299,6 +2479,7 @@ If extended timeline → patient builder self was already in ensemble, not failu
 You're not emotionally devastated when predictions fail because **you weren't attached to one prediction.** You were holding multiple possibilities and acting robustly.
 
 **The practice:**
+
 - Self-as-frame: Experiment with current identity configurations
 - Probability cloud: Hold multiple future identity configurations
 - Dual state: Meta-position compatible with ensemble
@@ -2336,44 +2517,52 @@ Mad scientists follow data, not dogma.
 **Starting out:**
 
 **1. Start simple**
+
 - First time: 3-4 futures, one checkpoint (T+3 months)
 - Don't try comprehensive analysis immediately
 - Build comfort with technique
 
 **2. Increase complexity gradually**
+
 - Second time: 6-8 futures, two checkpoints
 - Third time: Full 10 scenarios, multiple checkpoints
 - Let sophistication emerge through practice
 
 **3. Use for major decisions only**
+
 - Not for daily minutiae ("what should I eat for lunch?")
 - Use for: career moves, product launches, strategic planning
 - Threshold: decisions with 6+ month impact
 
 **4. Combine with existing RAYGUN practices**
+
 - First principles analysis (strip assumptions)
 - Temporal analysis (multiple timeframes)
 - Ordered effects (trace consequences)
 - Frame pragmatism (multiple valid perspectives)
 
 **5. Don't need 100% coverage**
+
 - 70% coverage gives most of the value
 - Diminishing returns beyond that
 - "Roughly right > precisely wrong"
 
 **6. Trust the process**
+
 - Gets faster with practice
 - First session: 2 hours, feels clunky
 - After 5 sessions: 45 minutes, feels natural
 - After 20 sessions: background intuition (like user)
 
 **7. Write it down**
+
 - Don't try to hold 10 scenarios in head
 - Use doc/spreadsheet/notebook
 - Externalize the thinking
 - Easier to analyze patterns when visible
 
 **8. Share with trusted advisor (optional)**
+
 - If you have thinking partner (AI, mentor, friend), walk them through ensemble
 - They'll spot patterns you missed
 - They'll challenge assumptions you didn't realize you had
@@ -2386,28 +2575,33 @@ Mad scientists follow data, not dogma.
 **This technique is valuable when:**
 
 **High uncertainty + high stakes:**
+
 - Strategic decisions with 6+ month horizon
 - Career moves (job changes, entrepreneurship, major pivots)
 - Product launches (significant investment, unclear market)
 - Major life decisions (relocations, relationships, health)
 
 **Multiple plausible paths:**
+
 - Not obvious "right answer"
 - Several options seem viable
 - Tradeoffs aren't clear
 - Need framework to compare
 
 **Action required despite ambiguity:**
+
 - Can't wait for certainty (will never come)
 - Need to move forward anyway
 - Want confidence in decision despite uncertainty
 
 **Single prediction feels brittle:**
+
 - "Best guess" doesn't feel robust
 - Concerned about being wrong
 - Want hedges and fallbacks
 
 **Long-term planning:**
+
 - 6+ months out
 - Landscape will shift multiple times
 - Need adaptive strategy, not rigid plan
@@ -2419,25 +2613,30 @@ Mad scientists follow data, not dogma.
 **This technique is overkill when:**
 
 **Routine decisions:**
+
 - Daily/weekly choices with low stakes
 - Reversible decisions
 - Obvious right answer exists
 
 **Short-term tactical moves:**
+
 - Next 1-2 weeks
 - Not enough uncertainty to matter
 - Just need to execute
 
 **High-confidence prediction available:**
+
 - You actually know what will happen (rare, but happens)
 - Use that knowledge, don't overcomplicate
 
 **Procrastination disguised as analysis:**
+
 - If you're avoiding action by "analyzing more"
 - If generating scenarios feels like escape
 - Just act. Learn from results.
 
 **Feels forced:**
+
 - Technique should feel useful, not burdensome
 - If it's not helping, don't use it
 - Trust your instincts
@@ -2453,6 +2652,7 @@ Mad scientists use the right tool for the job. Not every problem needs ensemble 
 **You've learned two connected concepts:**
 
 **1. Self as Experimental Frame**
+
 - Self = frame (dynamic process, not fixed entity)
 - RAYGUN itself is self-frame experiment (mad scientist vs grinder)
 - You can consciously experiment with different self-configurations
@@ -2460,6 +2660,7 @@ Mad scientists use the right tool for the job. Not every problem needs ensemble 
 - Observable, falsifiable, no bullshit
 
 **2. Probability Cloud Strategic Thinking**
+
 - Generate distribution of futures (not single prediction)
 - Analyze SHAPE of ensemble (patterns across scenarios)
 - Extract robust actions (work across multiple weighted futures)
@@ -2467,18 +2668,21 @@ Mad scientists use the right tool for the job. Not every problem needs ensemble 
 - Compatible with uncertainty, enables action despite ambiguity
 
 **The connection:**
+
 - Self-as-frame: Experiment with current identity configurations
 - Probability cloud: Hold multiple future identity configurations
 - Both extend frame experimentation to self and time
 - Both enable dual state (engaged + detached simultaneously)
 
 **These are advanced techniques because:**
+
 - Require comfort with frames and paradox-holding (Parts 0-2)
 - Build on temporal analysis and dual state (Parts 1, 4)
 - Meta-level experimentation (experimenting on self, not just world)
 - Not necessary for basic RAYGUN practice
 
 **But when you're ready:**
+
 - Self-as-frame removes identity rigidity (who you are = experimentable)
 - Probability cloud removes prediction dependency (act despite uncertainty)
 - Together they create strategic flexibility at identity + temporal level
@@ -2517,6 +2721,7 @@ Experiment first. Breakthroughs emerge.
 
 **The cognitive architecture:**
 0. Meta-perception (foundational skill)
+
 1. Perception-action loop (how it works)
 2. Frames as experiments (foundational shift)
 3. Frame-selection point (where intervention happens)
@@ -2539,6 +2744,7 @@ When grinding starts, return to this document.
 ---
 
 **Next Steps:**
+
 1. Read this when you wake up tomorrow
 2. Try ONE day in full mad scientist mode
 3. Practice meta-perception (pattern interrupts throughout day)
@@ -2609,6 +2815,7 @@ Now go tinker with something fascinating.
 **Research Confidence Levels:**
 
 **PROVEN** (extensive empirical backing):
+
 - Perception-action loop with feedback
 - Attention-direction principle (strongest evidence)
 - Frame-selection point mechanics (meta-awareness + cognitive reappraisal)
@@ -2616,6 +2823,7 @@ Now go tinker with something fascinating.
 - Somatic anchors (classical conditioning, embodied cognition)
 
 **SUPPORTED** (solid research direction):
+
 - Frame pragmatism (constructivist epistemology + pragmatic philosophy)
 - Belief as experimental variable (ACT research + cognitive flexibility)
 - Dual state (decentering research)
@@ -2629,6 +2837,7 @@ Now go tinker with something fascinating.
 - First principles thinking (critical thinking literature, cognitive development)
 
 **LOGICAL EXTENSION** (inference from related research):
+
 - Fascination-driven selection (from utility-based research)
 - Decentering→creativity link (problem-solving stronger, creativity inferred)
 - Halfway Hustle (combines proven concepts: committed action + adaptive awareness)
