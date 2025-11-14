@@ -1,6 +1,6 @@
 # RAYGUN: The Mad Scientist Operating System
 
-**Version 4.5 - Nov 13, 2025**
+**Version 4.6 - Nov 13, 2025**
 
 ---
 
@@ -2907,6 +2907,16 @@ Now go tinker with something fascinating.
   - Added **trauma/dysregulation edge case** (Part 6) - Safety note that some brains need stable identity, not experimental flexibility, clinical involvement when needed
   - Added **ensemble thinking emergent note** (Part 6) - Clarifies probability cloud emerges from practice, 4-step procedure is training wheels not permanent ritual
   - **Goal:** Make the kernel louder, remove overclaims, increase honesty, prevent "religion for nerds" while keeping comprehensive explanation
+
+- **v4.5.1** (Nov 13, 2025): **Language Consistency Fix** - Aligned frameless awareness language in MINIMUM RAYGUN Step 2 with softened claims from Part 0. Changed "frameless awareness" to "drop the story, notice raw sensory input" - kernel should be most honest and accessible, not most mystical.
+
+- **v4.6** (Nov 13, 2025): **Cold Start Protocol** - Added bootstrap paradox solution based on Gemini AI analysis
+  - Added **⚠️ Cold Start Protocol section** (Part 4) - Addresses "How do you get activation energy when at 0% battery?"
+  - **Just Label Practice** - Training wheels for meta-perception (notice and label "grind" without trying to change it, builds noticing muscle with near-zero energy cost)
+  - **External Scaffolding** - Phone alarms, pocket tokens, environmental triggers set up NOW for future-depleted-you
+  - **3-Day Rule** - If persists, need rest + professional support, not framework
+  - **Prevention Emphasis** - Set up scaffolding while you have energy, future-you won't remember
+  - **Goal:** Fill genuine gap - RAYGUN assumed you could access meta-awareness to notice depletion, but grind-frame is self-reinforcing
 
 ---
 
