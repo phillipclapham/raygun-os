@@ -25,36 +25,34 @@ This system is grounded in neuroscience, honest about what's proven vs. hypothes
 3. **The Mechanism** - Frame-selection point (where intervention happens)
 4. **The Practice** - Complete toolkit (how to do it)
 5. **The Guide** - Fascination leads (what drives selection)
-6. **Advanced Techniques** - Self as experimental frame, probability cloud strategic thinking
+6. **Advanced Techniques** - Self as experimental frame, frame superposition (mastery state), probability cloud strategic thinking
 
 ---
 
-## What's New in v4.6? 🔬
+## What's New in v4.7.1? 🔬
 
-**The Bootstrap Solution** - v4.6 solves the fundamental paradox: what happens at 0% battery?
+**The Mastery Architecture** - v4.7 completes the progression from beginner to mastery, v4.7.1 adds critical safety refinements.
 
-Previous versions assumed some baseline energy for meta-perception. But reality hits: exhaustion, burnout, depression, chronic illness. How do you experiment when you can't even start?
+**v4.7.1 (Nov 14, 2025): Safety & Clarity Refinements**
+- **Softened overclaims** - "default state" → "can become more accessible, sometimes even your resting state"
+- **Stage 4 is optional** - Explicit: Stage 3 (ensemble) already massive upgrade, Stage 4 not required
+- **Mania safety cross-link** - Warning in Frame Superposition: stable/calm not euphoric, direct RED FLAGS reference
+- **REST vs LABEL clarified** - "This isn't productivity. Treat it like noticing you're out of breath, not doing cardio"
+- **Superposition ≠ multitasking** - Multiple perspectives, not multiple tasks, often makes execution MORE focused
+- **Cold Start escape hatch** - Immediate pointer near Minimum Loop for 0% battery state
 
-**MINIMUM RAYGUN (Part 4):**
-- Ultra-low-energy version for survival mode
-- Just the kernel: perceive, experiment, repeat
-- Fascination as minimum viable energy source
-- Recovery path from 0% to operational
+**v4.7 (Nov 14, 2025): Frame Superposition & Mastery State Architecture**
+- **Frame Superposition** (Part 6) - Complete 4-stage progression: Captured → Shifting → Ensemble → Frameless Meta-Position
+- **"What The Loop Trains Toward"** teaser after Minimum Loop - Names goal state, points to advanced practice
+- **Unified Part 6** - Frame superposition (mastery of present) + Probability cloud (same mechanism applied to future)
+- Evidence-grounded with [SUPPORTED] + [LOGICAL EXTENSION] badges
 
-**Cold Start Protocol (Part 4):**
-- **Just Label Practice** - Training wheels for meta-perception (notice "grind" without trying to change it)
-- **External Scaffolding** - Set up NOW for future-depleted-you (phone alarms, physical tokens, environmental triggers)
-- **3-Day Rule** - If grinding persists beyond 3 days, need rest + professional support
+**v4.6 (Nov 13, 2025): The Bootstrap Solution**
+- **MINIMUM RAYGUN** - Ultra-low-energy kernel for survival mode
+- **Cold Start Protocol** - Just Label Practice, External Scaffolding, 3-Day Rule (for 0% battery state)
+- **Epistemic honesty improvements** - Softened overclaims, clearer about proven vs. hypothesis
 
-**Epistemic Honesty Improvements:**
-- Softened overclaims about "complete" system
-- More explicit about what's proven vs. hypothesis
-- Clearer kernel exposition
-- Reduced religion-formation risk
-
-**Architecture refined across v4.5-v4.6** - Multiple passes for clarity, honesty, and practical accessibility at all energy levels.
-
-**~2950 lines.** Cognitive operating system for experiment-driven minds, now accessible even at 0% battery.
+**~3185 lines.** Complete cognitive operating system for experiment-driven minds, from 0% battery to mastery state.
 
 ---
 
@@ -79,7 +77,7 @@ This is your operating system.
 
 **Read the full document:**
 - [RAYGUN.md](RAYGUN.md) (this repository)
-- [Web version](https://adapthuman.com/raygun.html) (formatted for reading)
+- [Web version](https://raygunos.com/framework.html) (formatted for reading)
 
 **Try it:**
 1. Read the opening and architecture
@@ -149,7 +147,8 @@ Mad science is permission to do exactly that.
 
 ## Links
 
-- **Web Version:** [adapthuman.com/raygun.html](https://adapthuman.com/raygun.html)
+- **Web Version:** [raygunos.com/framework.html](https://raygunos.com/framework.html)
+- **Live Site:** [raygunos.com](https://raygunos.com)
 - **Full Document:** [RAYGUN.md](RAYGUN.md)
 - **Adaptive Human:** [adapthuman.com](https://adapthuman.com)
 
@@ -180,4 +179,4 @@ Under these terms:
 
 ---
 
-**Version 4.6** - Nov 13, 2025
+**Version 4.7.1** - Nov 14, 2025
