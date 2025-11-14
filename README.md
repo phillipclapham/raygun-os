@@ -29,24 +29,32 @@ This system is grounded in neuroscience, honest about what's proven vs. hypothes
 
 ---
 
-## What's New in v4.4? 🔬
+## What's New in v4.6? 🔬
 
-**Foundation Architecture** - v4.4 makes explicit what was always implicit: the substrate of conscious intervention.
+**The Bootstrap Solution** - v4.6 solves the fundamental paradox: what happens at 0% battery?
 
-**Part 0 Restructured:**
-- **The Gap: Where Agency Lives** - Frameless awareness as reset point between frames (grinding → [gap] → experimenter mode)
-- **You're a Frame Too** - Self observable from gap, experimentable like any other frame
-- **Meta-Perception Practice** - Operating from frameless space to observe self-as-frame
+Previous versions assumed some baseline energy for meta-perception. But reality hits: exhaustion, burnout, depression, chronic illness. How do you experiment when you can't even start?
 
-**The architectural insight:** You can't shift FROM tight frame TO loose frame directly (you're entangled). But you CAN drop to frameless gap, reset to neutral, THEN choose experimenter frame. The gap is the leverage point.
+**MINIMUM RAYGUN (Part 4):**
+- Ultra-low-energy version for survival mode
+- Just the kernel: perceive, experiment, repeat
+- Fascination as minimum viable energy source
+- Recovery path from 0% to operational
 
-**Part 6 Added:**
-- **Self as Experimental Frame** - Multiple possible future selves, strategic self-frame toolkit
-- **Probability Cloud Strategic Thinking** - Ensemble thinking over single predictions, robust actions across scenarios
+**Cold Start Protocol (Part 4):**
+- **Just Label Practice** - Training wheels for meta-perception (notice "grind" without trying to change it)
+- **External Scaffolding** - Set up NOW for future-depleted-you (phone alarms, physical tokens, environmental triggers)
+- **3-Day Rule** - If grinding persists beyond 3 days, need rest + professional support
 
-All grounded in neuroscience. All honest about evidence (PROVEN/SUPPORTED/LOGICAL EXTENSION badges). Zero mysticism. Pure mechanism.
+**Epistemic Honesty Improvements:**
+- Softened overclaims about "complete" system
+- More explicit about what's proven vs. hypothesis
+- Clearer kernel exposition
+- Reduced religion-formation risk
 
-**~2650 lines.** Complete cognitive operating system for experiment-driven minds.
+**Architecture refined across v4.5-v4.6** - Multiple passes for clarity, honesty, and practical accessibility at all energy levels.
+
+**~2950 lines.** Cognitive operating system for experiment-driven minds, now accessible even at 0% battery.
 
 ---
 
@@ -172,4 +180,4 @@ Under these terms:
 
 ---
 
-**Version 4.4** - Nov 8, 2025
+**Version 4.6** - Nov 13, 2025
