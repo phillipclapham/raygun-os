@@ -1625,6 +1625,51 @@ Experiments naturally adapt to available energy. **Stop forcing consistent outpu
 
 ---
 
+### ⚠️ Cold Start Protocol (When You're Too Depleted to Notice)
+
+**The bootstrap paradox:** When you're grinding at 0% battery, you might not have the energy to notice you're grinding. The grind-frame is self-reinforcing. You're so captured you can't even access the meta-awareness to run the check-in.
+
+**If you realize you're in this state (or someone points it out):**
+
+**1. Just Label Practice** (Training Wheels for Meta-Perception)
+
+Don't try to run the full MINIMUM RAYGUN loop yet. You don't have the energy.
+
+- Just mentally note "grind" when you feel the grinding sensation
+- That's it. No interrupt. No reframe. Just notice and label.
+- This costs almost zero energy and builds the meta-perception muscle
+- After 20-50 reps of just labeling, you'll have capacity to try the full loop
+
+Think of this as "scales practice" before you get to improvise. You're training the noticing circuit.
+
+**2. Use External Scaffolding** (Your Internal Initiation is Broken)
+
+You can't rely on internal awareness right now. Use external triggers:
+
+- Phone alarms with "EXPERIMENT?" as the label
+- Physical token in your pocket (weird coin, D20, ugly rock) - touch it when grinding
+- Environmental triggers (sticky note on monitor, object on desk)
+- Ask someone you trust to check on you
+- Calendar reminders to take breaks
+
+**3. If This State Persists >3 Days**
+
+This isn't a framework problem anymore. You need:
+
+- Rest (actual recovery time, not "pushing through")
+- Professional support (therapist, doctor, trusted advisor)
+- The system explicitly says: Don't force it
+
+When you're this depleted, the answer isn't "try harder to be a mad scientist." It's "stop and recover."
+
+**Prevention is Key:**
+
+Set up external scaffolding NOW (while you have energy) so it catches you LATER (when you don't). Future-depleted-you won't remember to do this. Present-you needs to build the safety net before you need it.
+
+This is like putting a fire extinguisher in your kitchen. You're not expecting a fire, but if one happens, you'll be glad you installed it when you had the capacity to think clearly.
+
+---
+
 ## ⚠️ RED FLAGS: When High Energy Becomes Dangerous
 
 **Mad scientist mode requires functional baseline. When baseline breaks, the system fails.**
