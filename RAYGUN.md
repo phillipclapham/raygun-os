@@ -1,6 +1,6 @@
 # RAYGUN: The Mad Scientist Operating System
 
-**Version 4.7 - Nov 14, 2025**
+**Version 4.7.1 - Nov 14, 2025**
 
 ---
 
@@ -62,6 +62,8 @@ Mad science isn't a productivity system. It's permission to work how your brain 
 
 Everything below is explanation, neuroscience backing, and tools. The practice is this simple. The six steps above are the complete operating system—you're just learning why it works and how to make it effortless.
 
+**If even this simple loop feels impossible:** You might be too depleted to run it. See **⚠️ Cold Start Protocol** (Part 4) for the 0% battery state.
+
 ### What The Loop Trains Toward
 
 **[LOGICAL EXTENSION - Synthesizes meta-awareness + cognitive flexibility research]**
@@ -72,7 +74,7 @@ The Minimum Loop is training wheels. You're learning to notice frames and shift 
 
 You stop shifting *between* frames sequentially (A → B → C) and start holding multiple frames simultaneously (A+B+C in superposition).
 
-Eventually: **Frameless meta-position becomes your default state.**
+With sustained practice: **Frameless awareness can become more accessible, sometimes even your resting state.**
 
 You're not "in" any frame anymore. You're in frameless awareness with frame ensemble accessible. You can collapse to specific frame for action, then return to superposition.
 
@@ -1657,6 +1659,7 @@ Don't try to run the full MINIMUM RAYGUN loop yet. You don't have the energy.
 
 - Just mentally note "grind" when you feel the grinding sensation
 - That's it. No interrupt. No reframe. Just notice and label.
+- **This isn't productivity.** Treat it like noticing you're out of breath, not like doing cardio.
 - This costs almost zero energy and builds the meta-perception muscle
 - After 20-50 reps of just labeling, you'll have capacity to try the full loop
 
@@ -2139,6 +2142,8 @@ You've been learning to shift frames. Notice grinding → interrupt → choose e
 
 **What emerges with practice: You stop shifting *between* frames and start inhabiting *multiple frames simultaneously*.**
 
+**Important: This is multiple *perspectives*, not multitasking.** You're not doing five things at once. You're holding multiple ways of seeing the same thing, which often makes execution *more* focused, not less.
+
 ---
 
 #### From Sequential to Simultaneous
@@ -2169,7 +2174,11 @@ You've been learning to shift frames. Notice grinding → interrupt → choose e
 - Returns to frameless superposition between actions
 - **The frames don't have you. You have the frames.**
 
+**⚠️ Safety note:** Frame superposition is stable and calm, not elevated or euphoric. If your "frameless awareness" comes with racing thoughts, reduced need for sleep, feeling invincible, or starting multiple projects simultaneously, that's NOT Stage 4—that's a red flag. See **⚠️ RED FLAGS: When High Energy Becomes Dangerous** section immediately.
+
 Most RAYGUN practitioners land in Stage 3 (ensemble) after months of practice. Stage 4 (frameless default) emerges for some after sustained practice, often 6+ months.
+
+**Important: Stage 4 is optional, not required.** Stage 3 (holding ensemble of frames) is already a massive cognitive upgrade. Stage 4 is an adaptation that emerges for some practitioners, not a moral or spiritual endpoint you "should" reach.
 
 ---
 
@@ -3152,6 +3161,15 @@ Now go tinker with something fascinating.
   - Revised **Probability Cloud opening** - Shows connection ("same mechanism, different temporal domain")
   - **Line count:** ~3179 lines (added ~229 lines from v4.6's 2950)
   - **Goal:** Complete the mastery progression architecture, show that "dual state" was always frame superposition, unify Part 6 techniques
+
+- **v4.7.1** (Nov 14, 2025): **Safety & Clarity Refinements** - ChatGPT code review integration
+  - **Softened "default state" language** - Changed "becomes your default state" → "can become more accessible, sometimes even your resting state" (Part 4 teaser)
+  - **Added "Stage 4 is optional"** - Explicit clarification that Stage 3 (ensemble) is already massive upgrade, Stage 4 not required/moral endpoint
+  - **Added mania safety cross-link** - Warning in Frame Superposition: stable/calm not euphoric, explicit RED FLAGS reference if experiencing racing thoughts/reduced sleep
+  - **Clarified REST vs LABEL** - Cold Start Protocol: "This isn't productivity. Treat it like noticing you're out of breath, not like doing cardio"
+  - **Superposition ≠ multitasking** - Added explicit clarification: multiple perspectives, not multiple tasks, often makes execution MORE focused
+  - **Cold Start escape hatch** - Added pointer near Minimum Loop for 0% battery state (better UX for depleted readers)
+  - **Goal:** Remove overclaims, improve safety for bipolar/hypomanic brains, prevent "enlightenment ladder" misreading, maintain epistemic honesty
 
 ---
 
