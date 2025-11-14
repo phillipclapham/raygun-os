@@ -43,7 +43,7 @@ Mad science isn't a productivity system. It's permission to work how your brain 
    - Experimenting feels like puzzle, fascination, tinkering
 
 2. **Interrupt:** Break the automatic pattern
-   - Touch the gap: 1-3 breaths of frameless awareness (reset to neutral)
+   - Touch the gap: 1-3 breaths, drop the story, notice raw sensory input (reset to neutral)
    - OR somatic anchor: Tap fingers 5x, embody mad scientist state
 
 3. **Check the constraint:** "What's the actual problem I'm facing?"
