@@ -1,6 +1,6 @@
 # RAYGUN: The Mad Scientist Operating System
 
-**Version 4.4 - Nov 8, 2025**
+**Version 4.5 - Nov 13, 2025**
 
 ---
 
@@ -16,9 +16,11 @@ Some people's brains run on fascination. When you're tinkering, experimenting, p
 
 **This is about being ALIVE.** Engaged with reality. Fascinated by what emerges. Playing with the world as your laboratory.
 
-Below is the complete cognitive architecture of how this actually works—how your brain processes reality, where you can intervene, and how to shift from depleting grind mode to energizing experiment mode. It's grounded in neuroscience, honest about what's proven vs hypothesis, and built for people whose brains run on experiments.
+Below is a working cognitive model of how this actually works—how your brain processes reality, where you can intervene, and how to shift from depleting grind mode to energizing experiment mode. It's grounded in neuroscience, honest about what's proven vs hypothesis, and built for people whose brains run on experiments.
 
 Mad science isn't a productivity system. It's permission to work how your brain actually functions.
+
+**A note on volume:** This explanation is comprehensive. The practice itself is simple. Don't let the documentation weight obscure the lightness of actual use—most of this runs as effortless background awareness once established.
 
 **The architecture in six parts:**
 0. **The Foundation** - Meta-perception (the skill that enables everything else)
@@ -29,6 +31,36 @@ Mad science isn't a productivity system. It's permission to work how your brain 
 4. **The Practice** - Complete toolkit (how to do it)
 5. **The Guide** - Fascination leads (what drives selection)
 6. **Advanced Techniques** - Self as experimental frame, probability cloud strategic thinking
+
+---
+
+## ⚡ MINIMUM RAYGUN (The Entire OS)
+
+**If you remember nothing else, run this loop:**
+
+1. **Notice:** "Am I grinding or experimenting?"
+   - Grinding feels like burden, obstacle, forcing through
+   - Experimenting feels like puzzle, fascination, tinkering
+
+2. **Interrupt:** Break the automatic pattern
+   - Touch the gap: 1-3 breaths of frameless awareness (reset to neutral)
+   - OR somatic anchor: Tap fingers 5x, embody mad scientist state
+
+3. **Check the constraint:** "What's the actual problem I'm facing?"
+   - Not the story about the problem
+   - The real constraint blocking progress
+
+4. **Reframe:** "Can I treat this constraint as a puzzle for 10 minutes?"
+   - If YES → Design smallest experiment that touches constraint directly
+   - If NO → Either rest (if depleted) or grind on timer (if truly boring but necessary)
+
+5. **Experiment:** Run the smallest test, observe what emerges
+
+6. **Update:** Let results inform next experiment
+
+**That's it. That's the whole system.**
+
+Everything below is explanation, neuroscience backing, and tools. The practice is this simple. The six steps above are the complete operating system—you're just learning why it works and how to make it effortless.
 
 ---
 
@@ -131,9 +163,9 @@ Ask: "My brain just created the story '[automatic narrative]'—is that the only
 
 When you practice that pause—the space between trigger and reaction—you're accessing something specific: **frameless awareness.**
 
-There's a space before/between any frame. Pure perception without story. Not inner vs outer. Not good vs bad. Just raw sensory data as unified field.
+You can move toward less-framed perception—reduced narrative elaboration, increased sensory immediacy. Research shows this is measurable: less story-making, more direct perception.
 
-**This isn't mystical. It's structural.** Consciousness can be frameless—no narrative, no interpretation, just perception.
+**We'll call this "frameless space" as a practical handle,** even though some degree of framing likely always remains in the cognitive system. The point isn't metaphysical purity—it's functional reset. You're dropping the current narrative long enough to choose a different one.
 
 **Why this matters:**
 
@@ -274,9 +306,14 @@ Every frame gives you a different (and often seemingly contradictory) view, but:
 
 **The implication:**
 
-Binary truth (as we normally conceive it) doesn't exist pre-perception. Reality is a dynamic information field. Mind imposes order, creates connections, generates "truth" through framing.
+**Important distinction** - We're talking about epistemic access, not ontological claims:
 
-**Therefore: Frame selection can be pragmatic (for utility/fascination) rather than truth-seeking.**
+- **Ontologically:** Facts exist independent of minds (planetary orbits, chemical reactions, physical laws). We're not denying mind-independent reality.
+- **Epistemically:** What we *experience* and *use* as truth is always mediated by frames, with incomplete information. We never access the "view from nowhere."
+
+Binary truth *as experienced in practice* is frame-dependent. You can't hold all perspectives simultaneously—you're always looking from somewhere.
+
+**Therefore: Frame selection can be pragmatic (for utility/fascination) rather than searching for the One True Frame.**
 
 **Research backing:**
 
@@ -1928,6 +1965,8 @@ You don't need one "authentic self." You need **repertoire of useful configurati
 
 Your "self" isn't sacred. It's equipment. And you can modify the equipment to suit the experiment.
 
+**Safety note for trauma/dysregulation:** If experimenting with self-frames reliably triggers panic, dissociation, or heavy dysregulation, that's not a failure of willpower—it's a signal. Some brains need more stable identity for a while, not less. If this happens, involve a therapist or clinician and use this framework gently or not at all. The goal is freedom to experiment, not destabilization.
+
 ---
 
 #### Connection to Existing RAYGUN Architecture
@@ -2075,6 +2114,8 @@ TO: "What COULD happen?" → "What patterns exist across the distribution?" → 
 - Dynamic updating prevents lock-in (change weights as data arrives)
 
 **This is strategic thinking for complex environments where prediction is unreliable but action is required.**
+
+**Important note:** This is what your brain starts doing naturally after you've practiced the core RAYGUN loop (experimenting vs grinding, frame selection, fascination as guide) for a while. The 4-step procedure described below is training wheels—a teachable manual process to develop the skill. Eventually, ensemble thinking becomes background intuition, not a formal ritual you perform.
 
 ---
 
@@ -2809,6 +2850,18 @@ Now go tinker with something fascinating.
   - **Part 3 frame-selection:** specified DMN regions (medial PFC, posterior cingulate), added structural/functional changes from training, distinguished reappraisal vs. mindfulness neural signatures with specific regions
   - **Part 3 attention-direction:** detailed V1-V4 modulation, neural tuning curve shifts, ABM training effects with ERP components, follow-up persistence evidence
   - **Goal:** Make RAYGUN safer for neurodivergent users + more defensible to scientific skeptics, without changing architecture, tone, or core claims
+
+- **v4.4** (Nov 8, 2025): **Foundation Architecture Integration** - Added frameless awareness as reset point (The Gap section), integrated foundation architecture into Part 0, clarified meta-perception as observer position from which frames (including self) are experimentable
+
+- **v4.5** (Nov 13, 2025): **Clarity + Honesty Refinements** - Based on ChatGPT 5.1 analysis
+  - Changed **"complete cognitive architecture" → "working cognitive model"** - Removed overclaim, increased epistemic honesty
+  - Added **⚡ MINIMUM RAYGUN section** - The entire OS in 6 steps, visually prominent, makes kernel unmissable for people in grind-state
+  - Added **volume vs zero-overhead note** - Acknowledges documentation is comprehensive while practice is simple, prevents "productivity religion" consumption
+  - **Softened frameless awareness claims** - "Move toward less-framed perception" vs "pure perception," honest about some framing always remaining, functional not metaphysical
+  - **Tightened truth/relativism language** - Explicit ontological vs epistemic distinction, prevents slide into freshman-year relativism while preserving frame pragmatism
+  - Added **trauma/dysregulation edge case** (Part 6) - Safety note that some brains need stable identity, not experimental flexibility, clinical involvement when needed
+  - Added **ensemble thinking emergent note** (Part 6) - Clarifies probability cloud emerges from practice, 4-step procedure is training wheels not permanent ritual
+  - **Goal:** Make the kernel louder, remove overclaims, increase honesty, prevent "religion for nerds" while keeping comprehensive explanation
 
 ---
 
