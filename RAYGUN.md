@@ -1,6 +1,6 @@
 # RAYGUN: The Mad Scientist Operating System
 
-**Version 4.7.1 - Nov 14, 2025**
+**Version 4.8 - Nov 15, 2025**
 
 ---
 
