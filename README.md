@@ -29,17 +29,16 @@ This system is grounded in neuroscience, honest about what's proven vs. hypothes
 
 ---
 
-## What's New in v4.7.1? 🔬
+## What's New in v4.8? 🔬
 
-**The Mastery Architecture** - v4.7 completes the progression from beginner to mastery, v4.7.1 adds critical safety refinements.
+**The Mastery State Constellation** - Concrete description of what Stage 4 mastery looks like as emergent skills.
 
-**v4.7.1 (Nov 14, 2025): Safety & Clarity Refinements**
-- **Softened overclaims** - "default state" → "can become more accessible, sometimes even your resting state"
-- **Stage 4 is optional** - Explicit: Stage 3 (ensemble) already massive upgrade, Stage 4 not required
-- **Mania safety cross-link** - Warning in Frame Superposition: stable/calm not euphoric, direct RED FLAGS reference
-- **REST vs LABEL clarified** - "This isn't productivity. Treat it like noticing you're out of breath, not doing cardio"
-- **Superposition ≠ multitasking** - Multiple perspectives, not multiple tasks, often makes execution MORE focused
-- **Cold Start escape hatch** - Immediate pointer near Minimum Loop for 0% battery state
+**v4.8 (Nov 15, 2025): Mastery State Constellation**
+- **"What Mastery Looks Like"** subsection added to Frame Superposition (Part 6)
+- **Five emergent skills constellation** - Somatic sensitivity, frame fluidity/superposition, open/flexible filtering, frameless as default, paradox embodiment
+- **Recognition markers** - Know you're there when frameless feels natural, tightness immediately noticeable, multiple frames normal, techniques run as background
+- **Horizon not shortcut** - Explicit warning: these emerge from mastery, can't be practiced directly, must master techniques first
+- **Goal** - Describe what mastery LOOKS LIKE (components) without prescribing path, helps practitioners recognize emergence
 
 **v4.7 (Nov 14, 2025): Frame Superposition & Mastery State Architecture**
 - **Frame Superposition** (Part 6) - Complete 4-stage progression: Captured → Shifting → Ensemble → Frameless Meta-Position
@@ -179,4 +178,4 @@ Under these terms:
 
 ---
 
-**Version 4.7.1** - Nov 14, 2025
+**Version 4.8** - Nov 15, 2025

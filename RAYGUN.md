@@ -2285,6 +2285,28 @@ Choosing = you have frame
 
 ---
 
+#### What Mastery Looks Like: The Emergent Constellation
+
+When frameless awareness becomes default, you'll notice these skills emerging as integrated whole:
+
+- **Somatic sensitivity** – Real-time awareness of your body state, feeling tightness/release, energy shifts
+- **Frame fluidity/superposition** – Holding multiple perspectives simultaneously, unfixed by any single frame
+- **Open/flexible filtering** – Experimental attention, wide aperture, noticing what you're seeking
+- **Frameless as default** – Resting in frameless space, frames accessible but not capturing
+- **Paradox embodiment** – Holding contradictions without forcing resolution, all states available
+
+These aren't separate practices to master. They emerge together through sustained work with the core techniques (Parts 0-5).
+
+**You'll recognize you're there when:**
+- Frame-checking feels effortful (because frameless is natural)
+- Tightness is immediately noticeable (somatic sensitivity trained)
+- Multiple frames feel normal (superposition accessible)
+- Techniques run as background (substrate not effort)
+
+**This is the horizon. Not the shortcut. Master the techniques first.**
+
+---
+
 #### Evidence Grounding
 
 **What research supports this:**
@@ -3170,6 +3192,13 @@ Now go tinker with something fascinating.
   - **Superposition ≠ multitasking** - Added explicit clarification: multiple perspectives, not multiple tasks, often makes execution MORE focused
   - **Cold Start escape hatch** - Added pointer near Minimum Loop for 0% battery state (better UX for depleted readers)
   - **Goal:** Remove overclaims, improve safety for bipolar/hypomanic brains, prevent "enlightenment ladder" misreading, maintain epistemic honesty
+
+- **v4.8** (Nov 15, 2025): **Mastery State Constellation** - Concrete description of Stage 4 as emergent skills
+  - Added **"What Mastery Looks Like: The Emergent Constellation"** subsection to Frame Superposition (Part 6)
+  - **Five emergent skills:** Somatic sensitivity, frame fluidity/superposition, open/flexible filtering, frameless as default, paradox embodiment
+  - **Recognition markers:** When frameless feels natural, tightness is immediately noticeable, multiple frames normal, techniques run as background
+  - **Horizon not shortcut:** Explicit warning that these emerge from mastery, can't be practiced directly, must master techniques first
+  - **Goal:** Describe what mastery LOOKS LIKE (components) without prescribing path, helps practitioners recognize emergence, avoids locking people into specific collapse-points
 
 ---
 
