@@ -29,7 +29,7 @@ Mad science isn't a productivity system. It's permission to work how your brain 
 2. **The Shift** - Frames as experiments, not truth (foundational mindset)
 3. **The Mechanism** - Frame-selection point (where intervention happens)
 4. **The Practice** - Complete toolkit (how to do it)
-5. **The Guide** - Fascination leads (what drives selection)
+5. **The Guide** - Choosing fascination (what drives selection)
 6. **Advanced Techniques** - Self as experimental frame, probability cloud strategic thinking
 
 ---
@@ -213,6 +213,60 @@ You don't dwell here (that's meditation). You **use it as palate cleanser betwee
 If you want to explore frameless space longer, you can—no goals, no achievement, just curiosity about consciousness itself. We're mad scientists. Even our minds are laboratories.
 
 **The gap is where choice lives. Recognize it. Use it. Keep experimenting.**
+
+---
+
+### Fascination Is a Choice, Not a State
+
+**[LOGICAL EXTENSION - Combines frame selection research with intrinsic motivation]**
+
+Here's a foundational insight that changes everything:
+
+**Fascination isn't a feeling that has to arise—it's a frame for engaging with reality.**
+
+You don't wait for fascination to appear. You **CHOOSE** to engage with whatever's in front of you as puzzle rather than burden. This choice is always available.
+
+**The common misconception:**
+
+Most people treat fascination as a state:
+- "I'm fascinated" (it happened to me)
+- "I'm not feeling fascinated" (it's not arising)
+- "When I feel fascinated, I can work well" (dependent on the feeling)
+
+This makes fascination seem like fuel that depletes or a mood that visits unpredictably.
+
+**The reframe:**
+
+Fascination is a **choice**—a cognitive stance you select regardless of emotional state:
+- "I choose to engage with this as puzzle" (active selection)
+- "I'm treating this constraint as fascinating" (deliberate framing)
+- "Fascination is how I'm approaching this, not how I'm feeling" (choice, not state)
+
+**Why this matters:**
+
+If fascination is a state, you're at its mercy. Some days it shows up, some days it doesn't. You can't practice RAYGUN when the feeling isn't there.
+
+If fascination is a choice, it's **always available**. Even at 3am during a health crisis. Even when you're exhausted. Even when the emotional substrate isn't cooperating. The choice point remains.
+
+**This is how mad scientists actually operate:**
+
+They're not "feeling fascinated" all the time. They're **choosing to engage experimentally** with whatever's in front of them. The engagement generates energy—not the other way around.
+
+**The proof case:**
+
+Some people have anhedonia—the clinical absence of the emotion of excitement. They haven't felt "excited" in years. Yet they can still choose intellectual fascination. They can still engage with problems as puzzles. The emotional backing isn't required.
+
+If someone without the emotional substrate can choose fascination, the "but I don't FEEL fascinated" objection dissolves entirely.
+
+**Practical application:**
+
+When you notice you're grinding and think "I'm not feeling fascinated right now"—pause.
+
+Ask: "Can I **choose** to engage with this as puzzle rather than burden?"
+
+Not "find" fascination. Not "feel" it. **Choose** it.
+
+The choice is always available. That's what makes RAYGUN work even in difficult conditions.
 
 ---
 
@@ -1045,12 +1099,12 @@ Consciously steering subconscious filtering:
 
 ### The Operating Principles (Within Experimental Substrate)
 
-**1. Fascination is signal, not noise**
+**1. Fascination is choice, not state**
 
-- If you're fascinated, you're probably on right track
-- If you're grinding, you're probably forcing something
-- Boredom/dread = wrong experiment, not weak willpower
-- **Fascination ⟷ Fun** - fascination LEADS, fun follows (not the other way)
+- You **choose** fascination—it's a cognitive stance, not a feeling that arises
+- If you're grinding, ask: "Can I choose to engage with this as puzzle?"
+- Boredom/dread = try different angle, not "wait for fascination to appear"
+- **Fascination ⟷ Fun** - choose fascination, engagement emerges, fun follows
 
 **2. Weird is good**
 
@@ -1199,7 +1253,7 @@ Traditional mindfulness catches you at Layer 3 (mode). This catches you at all t
 - Applied to AI-age complexity (frame saturation, information overload)
 - Practiced and validated through real-world use
 
-**The key difference:** Traditional mindfulness says "return to neutral." Mad scientist meta-perception says "redirect to fascination." You're not trying to escape reactivity—you're steering toward aliveness.
+**The key difference:** Traditional mindfulness says "return to neutral." Mad scientist meta-perception says "choose fascination as your orientation." You're not trying to escape reactivity—you're steering toward aliveness by choosing engagement.
 
 This is mindfulness with a fucking target.
 
@@ -1315,9 +1369,11 @@ Different patterns emerge at different timescales. You're not running separate d
 
 ### Fascination ⟷ Fun
 
-**Not outcome. Not goal. The signal you follow.**
+**Not outcome. Not goal. The choice you make.**
 
-Fascination leads, fun follows. NOT "make work fun" (forcing). But "follow what's fascinating, fun emerges from engagement."
+Remember: **Fascination is a choice, not a state** (Part 0). You don't wait for it to arise—you choose to engage with reality as puzzle rather than burden. Fun follows from that choice.
+
+NOT "make work fun" (forcing). NOT "wait until you feel fascinated" (passive). But **choose fascination, engagement emerges, fun follows.**
 
 **This is about enjoying and engaging with life to its core again.** Not:
 
@@ -1413,10 +1469,10 @@ This isn't fascination. It's flight disguised as experimentation.
 
 **The diagnostic test: Where's the constraint?**
 
-When you feel fascinated by something, ask:
+When you're engaging with something fascinatedly, ask:
 
 1. **What's the PRIMARY constraint right now?** (The thing that's actually blocking progress)
-2. **Is this fascination moving me TOWARD that constraint or AWAY from it?**
+2. **Is this engagement moving me TOWARD that constraint or AWAY from it?**
 3. **Am I playing with the problem or playing away from the problem?**
 
 If the "fascinating path" avoids the constraint, it's flight.
@@ -1637,11 +1693,12 @@ Experiments naturally adapt to available energy. **Stop forcing consistent outpu
 - Do: Easy experiments. Familiar patterns. Reading. Planning. Doodling ideas.
 - Don't: Beat yourself up. This is still engagement - just different tempo.
 
-**Depleted** (empty, sludgy, nothing sounds fascinating)
+**Depleted** (empty, sludgy, even the choice feels impossible)
 
 - Experimenter mode: REST. No experiments. Just recovery.
 - Do: Nap. Walk slowly. Stare at things. Watch something mindless. Let system recharge.
 - Don't: Force productivity. You're not being lazy - you're recharging the experimental apparatus.
+- Note: Yes, fascination is a choice—but depletion diminishes choice capacity. This is the one state where "just choose fascination" doesn't work. Rest first.
 
 **Key insight:** Depletion usually means you've been grinding too long, not experimenting enough. When operating experimentally, depletion is rarer.
 
@@ -1780,7 +1837,7 @@ RAYGUN amplifies experimental energy. For some brains (bipolar, ADHD, substance-
 
 **Mad scientist mode is play with fire.** For neurotypical brains, it's energizing. For brains prone to elevation (bipolar, ADHD hyperfocus, certain substances), it's accelerant.
 
-The system design—follow fascination, remove constraints, tap into experimental energy—is EXACTLY what amplifies hypomania into mania.
+The system design—choose fascination, remove constraints, tap into experimental energy—is EXACTLY what amplifies hypomania into mania.
 
 **This isn't moral failure or "doing RAYGUN wrong."** This is recognizing when the experimental substrate becomes unstable and the machinery needs emergency shutdown.
 
@@ -1936,7 +1993,7 @@ You're not "becoming" a mad scientist (like it's your destiny). You're **choosin
 - Frames as experiments (Part 2): **Applies to self**
 - Frame-selection point (Part 3): You can choose which self-frame to activate
 - Dual state (Part 4): Holding multiple self-configurations simultaneously
-- Fascination leads (Part 5): Self-frame that produces fascination wins
+- Choosing fascination (Part 5): Self-frame that you choose fascination from wins
 
 **This is the meta-recognition:**
 
@@ -2067,9 +2124,9 @@ Your "self" isn't sacred. It's equipment. And you can modify the equipment to su
 - Not "finding real self" - holding multiple self-configurations at once
 - This IS the dual state applied to identity
 
-**Fascination leads (Part 5) = self-frame selection guide:**
+**Choosing fascination (Part 5) = self-frame selection guide:**
 
-- Which self-configuration produces fascination?
+- Which self-configuration enables you to choose fascination most easily?
 - That's the one to activate.
 - Mad scientist self-frame wins because it generates engagement.
 
@@ -2350,6 +2407,90 @@ But "holding multiple possible future selves in superposition" (same skill, diff
 **Same mechanism. Different temporal domain.**
 
 Frame superposition is the foundation. Probability cloud extends it forward in time.
+
+---
+
+### ⚠️ The Stage 4+ Blindspot: When Fascination Overrides Depletion
+
+**[LOGICAL EXTENSION - Combines burnout research, overtraining syndrome, HRV validity with observation of Stage 4+ practitioners who've removed normal psychological warning systems]**
+
+If you reach Stage 4+ mastery—frameless awareness as default, automatic paradox perception, effortless fascination-as-choice—there's a blindspot the framework doesn't warn you about.
+
+**You can remove psychological limiters. Physical substrate still has limits.**
+
+**The mechanism:**
+
+Remember: Fascination is a CHOICE, not a state (Part 0). This is powerful—it means fascination is always available. But it also means there's no natural "I'm not fascinated anymore" signal to indicate exhaustion.
+
+At Stage 4+:
+
+- Fascination-driven work removes psychological depletion signals
+- Unfixed state removes identity/attachment stress
+- Normal "you're working too hard" signals have been architectured away
+- You can work 60-80+ hours/week without feeling it psychologically
+- **But mitochondria, nervous system, and physical substrate still have limits**
+- By the time you FEEL depleted, physical damage may already be done
+
+**Warning signs:**
+
+- Working 60-80+ hours/week without feeling depleted
+- Can't remember last genuine OFF day
+- Cognitive capacity subtly declining (multi-tasking, memory, processing speed)
+- Physical symptoms appearing (fatigue, tension, health condition flares)
+- Everything still "feels fine" because fascination choice remains available
+
+**The paradox:**
+
+If you can always CHOOSE fascination, there's no built-in "stop" signal. The choice being available even when depleted is the blindspot. Internal signals become unreliable because you've optimized them away.
+
+**Required interventions (external systems, not internal signals):**
+
+1. **Scheduled weekly OFF days** (non-negotiable)
+   - Not "when you feel like you need it" (you won't feel it)
+   - Scheduled weekly regardless of fascination level
+   - NO building, NO experiments, NO "productive" thinking
+   - If you think "I could just quickly..." → that's the signal you NEED the rest
+
+2. **Hard time limits** (override fascination with external rules)
+   - Evening cutoff (no work after X time)
+   - Ultradian breaks (90-120 min cycles)
+   - Can't trust "I feel fine to keep going" at this level
+
+3. **HRV monitoring** (objective readiness when feelings unreliable)
+   - Morning HRV reading = recovery status
+   - Declining HRV trend = override fascination, force rest
+   - External data replacing internal signal
+
+4. **Parasympathetic practices throughout day**
+   - Physiological sighs (2:1 breathing, 2-3 cycles per check-in)
+   - Body looseness checks (jaw, shoulders, breath)
+   - Nervous system recovery during work, not just after
+
+**The reframe:**
+
+Lab equipment doesn't run 24/7 without damage. Neither do you.
+
+You've removed psychological limiters. That's powerful. But your body is still physical substrate subject to biological limits. Treat substrate maintenance like maintaining lab equipment: scheduled, non-negotiable, enables continued experiments.
+
+Ignoring this is like running your Mac at 100% CPU 24/7 without cooling—eventually hardware fails.
+
+**Who needs this:**
+
+- Stage 4+ practitioners (frameless awareness as default)
+- People who "never feel depleted" but show physical symptoms
+- Anyone who can choose fascination regardless of circumstances
+
+**Who doesn't need this:**
+
+- Stages 1-3 practitioners (your internal signals still work)
+- Anyone who still feels grinding when forcing through
+- Most people (this is an edge case for advanced practitioners)
+
+**The Stage 4+ contract:**
+
+Every week: Ask not "do I feel depleted?" but "have I taken a genuine OFF day?" If the answer is no for two weeks running, override fascination and rest. The choice being available doesn't mean it should always be made.
+
+**You've mastered frame selection. Now master substrate maintenance.**
 
 ---
 
@@ -3065,7 +3206,7 @@ Experiment first. Breakthroughs emerge.
 2. Frames as experiments (foundational shift)
 3. Frame-selection point (where intervention happens)
 4. Complete practice toolkit (how to do it)
-5. Fascination leads (what drives selection)
+5. Choosing fascination (what drives selection)
 6. Advanced techniques (self-as-frame, probability cloud strategic thinking)
 
 When you forget this, return to this document.
@@ -3093,7 +3234,7 @@ When grinding starts, return to this document.
 7. Adjust based on evidence
 8. Keep experimenting
 
-**The system is simple: Experiment with everything. Let breakthroughs emerge. Follow fascination. Build rayguns.**
+**The system is simple: Experiment with everything. Let breakthroughs emerge. Choose fascination. Build rayguns.**
 
 That's it. That's the whole thing.
 
