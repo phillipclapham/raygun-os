@@ -3334,6 +3334,13 @@ Now go tinker with something fascinating.
   - **Cold Start escape hatch** - Added pointer near Minimum Loop for 0% battery state (better UX for depleted readers)
   - **Goal:** Remove overclaims, improve safety for bipolar/hypomanic brains, prevent "enlightenment ladder" misreading, maintain epistemic honesty
 
+- **v4.8** (Nov 15, 2025): **Mastery State Constellation** - Concrete description of Stage 4 as emergent skills
+  - Added **"What Mastery Looks Like: The Emergent Constellation"** subsection to Frame Superposition (Part 6)
+  - **Five emergent skills:** Somatic sensitivity, frame fluidity/superposition, open/flexible filtering, frameless as default, paradox embodiment
+  - **Recognition markers:** When frameless feels natural, tightness is immediately noticeable, multiple frames normal, techniques run as background
+  - **Horizon not shortcut:** Explicit warning that these emerge from mastery, can't be practiced directly, must master techniques first
+  - **Goal:** Describe what mastery LOOKS LIKE (components) without prescribing path, helps practitioners recognize emergence, avoids locking people into specific collapse-points
+
 - **v4.9** (Nov 28, 2025): **Philosophical Hardening + Core Insights**
   - Added **"Fascination Is a Choice, Not a State"** section (Part 0) - Core reframe that fascination is always available as cognitive choice, not a feeling that arises
   - Full consistency pass: Updated 8 areas throughout framework from "state/signal" to "choice" language
@@ -3341,13 +3348,6 @@ Now go tinker with something fascinating.
   - **Frameless awareness language hardening** - Strengthened philosophical defensibility: "minimal active framing" introduced, explicit acknowledgment that consciousness may be constitutively framed, emphasis on functional description not metaphysical claim
   - Fixed "pure perception" → "reduced narrative, direct perception" (removed philosophically vulnerable language)
   - **Goal:** Make framework stand up to serious philosophical scrutiny while preserving practical utility, dissolve "but I don't feel fascinated" objection, add safety rails for Stage 4+ practitioners
-
-- **v4.8** (Nov 15, 2025): **Mastery State Constellation** - Concrete description of Stage 4 as emergent skills
-  - Added **"What Mastery Looks Like: The Emergent Constellation"** subsection to Frame Superposition (Part 6)
-  - **Five emergent skills:** Somatic sensitivity, frame fluidity/superposition, open/flexible filtering, frameless as default, paradox embodiment
-  - **Recognition markers:** When frameless feels natural, tightness is immediately noticeable, multiple frames normal, techniques run as background
-  - **Horizon not shortcut:** Explicit warning that these emerge from mastery, can't be practiced directly, must master techniques first
-  - **Goal:** Describe what mastery LOOKS LIKE (components) without prescribing path, helps practitioners recognize emergence, avoids locking people into specific collapse-points
 
 ---
 
