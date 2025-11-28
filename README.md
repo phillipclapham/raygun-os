@@ -29,16 +29,21 @@ This system is grounded in neuroscience, honest about what's proven vs. hypothes
 
 ---
 
-## What's New in v4.8? 🔬
+## What's New in v4.9? 🔬
 
-**The Mastery State Constellation** - Concrete description of what Stage 4 mastery looks like as emergent skills.
+**Philosophical Hardening + Core Insights** - Framework now stands up to serious philosophical scrutiny while preserving practical utility.
+
+**v4.9 (Nov 28, 2025): Philosophical Hardening + Core Insights**
+- **"Fascination Is a Choice, Not a State"** section added (Part 0) - Core reframe: fascination is cognitive choice, not feeling that arises
+- **Full consistency pass** - 8 areas updated from "state/signal" to "choice" language throughout
+- **"Stage 4+ Blindspot"** section added (Part 6) - Warning for advanced practitioners about fascination overriding depletion signals
+- **Frameless awareness language hardening** - "Minimal active framing" introduced, explicit philosophical defensibility, functional not metaphysical claims
+- **Goal** - Dissolve "but I don't feel fascinated" objection, add safety rails for Stage 4+ practitioners, survive philosophical scrutiny
 
 **v4.8 (Nov 15, 2025): Mastery State Constellation**
 - **"What Mastery Looks Like"** subsection added to Frame Superposition (Part 6)
 - **Five emergent skills constellation** - Somatic sensitivity, frame fluidity/superposition, open/flexible filtering, frameless as default, paradox embodiment
 - **Recognition markers** - Know you're there when frameless feels natural, tightness immediately noticeable, multiple frames normal, techniques run as background
-- **Horizon not shortcut** - Explicit warning: these emerge from mastery, can't be practiced directly, must master techniques first
-- **Goal** - Describe what mastery LOOKS LIKE (components) without prescribing path, helps practitioners recognize emergence
 
 **v4.7 (Nov 14, 2025): Frame Superposition & Mastery State Architecture**
 - **Frame Superposition** (Part 6) - Complete 4-stage progression: Captured → Shifting → Ensemble → Frameless Meta-Position
@@ -178,4 +183,4 @@ Under these terms:
 
 ---
 
-**Version 4.8** - Nov 15, 2025
+**Version 4.9** - Nov 28, 2025

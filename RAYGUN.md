@@ -1,6 +1,6 @@
 # RAYGUN: The Mad Scientist Operating System
 
-**Version 4.8 - Nov 15, 2025**
+**Version 4.9 - Nov 28, 2025**
 
 ---
 
@@ -183,11 +183,11 @@ Ask: "My brain just created the story '[automatic narrative]'—is that the only
 
 **[SUPPORTED - Gap awareness, stimulus-response pause, meta-cognitive flexibility]**
 
-When you practice that pause—the space between trigger and reaction—you're accessing something specific: **frameless awareness.**
+When you practice that pause—the space between trigger and reaction—you're moving toward something specific: a state of minimal active framing.
 
-You can move toward less-framed perception—reduced narrative elaboration, increased sensory immediacy. Research shows this is measurable: less story-making, more direct perception.
+You can reduce narrative elaboration and increase sensory immediacy. Research shows this is measurable: less story-making, more direct perception, reduced default mode network activity.
 
-**We'll call this "frameless space" as a practical handle,** even though some degree of framing likely always remains in the cognitive system. The point isn't metaphysical purity—it's functional reset. You're dropping the current narrative long enough to choose a different one.
+**We'll call this "frameless awareness" as a practical handle.** Philosophically, some degree of framing may always remain—consciousness might be constitutively framed (the debate is ongoing among cognitive scientists). We're not making a metaphysical claim. We're describing a functional shift: reducing active narrative enough that frame-selection becomes visible and available. The point isn't purity—it's reset capacity.
 
 **Why this matters:**
 
@@ -202,7 +202,7 @@ But: grinding → **frameless reset** → experimenting (choose from neutral)
 
 - Notice you're grinding (stuck in unhelpful frame)
 - Drop narrative completely for moment
-- Touch frameless space (pure perception, no story)
+- Touch minimal-frame space (reduced narrative, direct perception)
 - Reset to neutral ground
 - Choose experimenter frame FROM here
 
@@ -2382,7 +2382,7 @@ These aren't separate practices to master. They emerge together through sustaine
 **[LOGICAL EXTENSION] - Frameless Meta-Position as Default:**
 - Grounded in: Meta-awareness research (observer perspective stable) + cognitive flexibility (multiple frames accessible)
 - Extension: Through sustained practice, frameless meta-awareness becomes default operating mode
-- Mechanism: Training shifts baseline from "captured by frame" to "observing from frameless space with frame ensemble accessible"
+- Mechanism: Training shifts baseline from "captured by frame" to "minimal-frame awareness with frame ensemble accessible"
 
 **[LOGICAL EXTENSION] - Frame Superposition Model:**
 - Grounded in: Cognitive flexibility + meta-awareness + working memory research
@@ -3333,6 +3333,14 @@ Now go tinker with something fascinating.
   - **Superposition ≠ multitasking** - Added explicit clarification: multiple perspectives, not multiple tasks, often makes execution MORE focused
   - **Cold Start escape hatch** - Added pointer near Minimum Loop for 0% battery state (better UX for depleted readers)
   - **Goal:** Remove overclaims, improve safety for bipolar/hypomanic brains, prevent "enlightenment ladder" misreading, maintain epistemic honesty
+
+- **v4.9** (Nov 28, 2025): **Philosophical Hardening + Core Insights**
+  - Added **"Fascination Is a Choice, Not a State"** section (Part 0) - Core reframe that fascination is always available as cognitive choice, not a feeling that arises
+  - Full consistency pass: Updated 8 areas throughout framework from "state/signal" to "choice" language
+  - Added **"Stage 4+ Blindspot"** section (Part 6) - Warning for advanced practitioners about fascination overriding depletion signals, harm reduction for mastery state
+  - **Frameless awareness language hardening** - Strengthened philosophical defensibility: "minimal active framing" introduced, explicit acknowledgment that consciousness may be constitutively framed, emphasis on functional description not metaphysical claim
+  - Fixed "pure perception" → "reduced narrative, direct perception" (removed philosophically vulnerable language)
+  - **Goal:** Make framework stand up to serious philosophical scrutiny while preserving practical utility, dissolve "but I don't feel fascinated" objection, add safety rails for Stage 4+ practitioners
 
 - **v4.8** (Nov 15, 2025): **Mastery State Constellation** - Concrete description of Stage 4 as emergent skills
   - Added **"What Mastery Looks Like: The Emergent Constellation"** subsection to Frame Superposition (Part 6)
