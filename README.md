@@ -29,9 +29,17 @@ This system is grounded in neuroscience, honest about what's proven vs. hypothes
 
 ---
 
-## What's New in v4.9? 🔬
+## What's New in v4.10? 🔬
 
-**Philosophical Hardening + Core Insights** - Framework now stands up to serious philosophical scrutiny while preserving practical utility.
+**Body-Mind Synchronization** - Physical looseness precedes mental looseness. You can't touch the gap with a tight body.
+
+**v4.10 (Nov 28, 2025): Body-Mind Synchronization**
+- **"Body-First"** section added (Part 0) - Core teaching: tight body = locked frames, physical looseness is prerequisite for mental looseness
+- **Modified Minimum Loop** - "Touch the gap" now includes explicit body: "breath (short in, long out) + relax body + drop story"
+- **Modified MINIMUM RAYGUN** - Step 2 (Interrupt) includes body-aware gap-touching
+- **"Developing Somatic Awareness"** section added (Part 4) - Two-tier structure for building body awareness
+- **Evidence grounding** - Embodied cognition, polyvagal theory, interoception research [SUPPORTED]
+- **Goal** - Address the prerequisite most practitioners miss, without prescribing specific scripts (trust self-discovery)
 
 **v4.9 (Nov 28, 2025): Philosophical Hardening + Core Insights**
 - **"Fascination Is a Choice, Not a State"** section added (Part 0) - Core reframe: fascination is cognitive choice, not feeling that arises
@@ -183,4 +191,4 @@ Under these terms:
 
 ---
 
-**Version 4.9** - Nov 28, 2025
+**Version 4.10** - Nov 28, 2025

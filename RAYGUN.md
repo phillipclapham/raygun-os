@@ -1,6 +1,6 @@
 # RAYGUN: The Mad Scientist Operating System
 
-**Version 4.9 - Nov 28, 2025**
+**Version 4.10 - Nov 28, 2025**
 
 ---
 
@@ -43,7 +43,7 @@ Mad science isn't a productivity system. It's permission to work how your brain 
    - Experimenting feels like puzzle, fascination, tinkering
 
 2. **Interrupt:** Break the automatic pattern
-   - Touch the gap: 1-3 breaths, drop the story, notice raw sensory input (reset to neutral)
+   - Touch the gap: breath (short in, long out) + relax body + drop story
    - OR somatic anchor: Tap fingers 5x, embody mad scientist state
 
 3. **Check the constraint:** "What's the actual problem I'm facing?"
@@ -201,9 +201,7 @@ But: grinding → **frameless reset** → experimenting (choose from neutral)
 **How to use it:**
 
 - Notice you're grinding (stuck in unhelpful frame)
-- Drop narrative completely for moment
-- Touch minimal-frame space (reduced narrative, direct perception)
-- Reset to neutral ground
+- Touch the gap (breath + relax body + drop story)
 - Choose experimenter frame FROM here
 
 **Brief touch. Reset point. Then return to active play.**
@@ -213,6 +211,68 @@ You don't dwell here (that's meditation). You **use it as palate cleanser betwee
 If you want to explore frameless space longer, you can—no goals, no achievement, just curiosity about consciousness itself. We're mad scientists. Even our minds are laboratories.
 
 **The gap is where choice lives. Recognize it. Use it. Keep experimenting.**
+
+---
+
+### Body-First: Physical Looseness Precedes Mental Looseness
+
+**[SUPPORTED - Embodied cognition, polyvagal theory, interoception research]**
+
+Here's something the framework can't work without:
+
+**You can't touch the gap with a tight body.**
+
+Body and mind aren't separate systems—they're one unified system. Physical tightness creates cognitive rigidity. When your body is clenched, your frames are locked. The choice point becomes invisible.
+
+**The mechanism:**
+
+When your body is tight—jaw clenched, shoulders raised, breath shallow, gut gripped—your nervous system reads this as threat. Sympathetic activation narrows your attention to survival-relevant information. Frames become FIXED because uncertainty is dangerous when you're under threat.
+
+When your body loosens—even slightly—your nervous system shifts toward safety. Parasympathetic activation broadens attention. Frames become UNFIXED because exploration is possible when you're not fighting for survival.
+
+**This isn't metaphor. It's measurable:**
+
+- Breathing rate directly affects heart rate variability and autonomic state
+- Body state shapes cognitive performance (extensive embodied cognition research)
+- Interoception (body awareness) correlates with emotional regulation capacity
+- Sympathetic activation narrows attention; parasympathetic broadens it
+- Physical tension correlates with cognitive rigidity
+
+**The practical implication:**
+
+You can't skip the body and force a mental shift. The sequence matters:
+
+1. **Body first** - breath, relax, unclench
+2. **Then** touch minimal-frame space
+3. **Then** choice becomes visible
+
+Trying to reframe while physically clenched is like trying to see peripherally while staring at a threat. Your nervous system won't let you.
+
+**"Unclench enough"**
+
+This isn't "just relax." Full relaxation isn't always possible, especially under stress. The goal is to unclench ENOUGH—just enough loosening to make the frame-selection point visible again.
+
+Sometimes that's a full body release. Sometimes it's unclenching your jaw 10%. Whatever creates enough space for choice.
+
+**The minimum intervention:**
+
+Single breath: short inhale, long exhale. Consciously relax body. Drop narrative.
+
+That's it. Not a 20-minute meditation. Not perfect calm. Just enough physical loosening that frames can unstick.
+
+**Developing deeper awareness:**
+
+The minimum intervention works immediately. But somatic awareness—the ability to notice body state automatically—develops over time through practice.
+
+Some people develop this through meditation. Some through martial arts, yoga, dance. Some through deliberate body-scanning practice. The path is personal.
+
+What matters: consistent attention to body state builds the noticing muscle. Eventually you catch tightness before it locks your frames. The body check becomes automatic, like the frame check.
+
+**Why this is load-bearing:**
+
+Physical looseness isn't an optional enhancement to RAYGUN. It's prerequisite infrastructure. Without it, the gap stays invisible, fascination stays inaccessible, and you're stuck in whatever frame has captured you.
+
+The body isn't separate from the mind. Loosen one, loosen both.
 
 ---
 
@@ -786,6 +846,56 @@ Calm → Focused → Experimental (sequential anchors, each building on previous
 - Somatic experiencing
 
 **This is profoundly more effective than mental checking.** You're not asking "should I be experimenting?" - you're BECOMING the experimenter through embodied state shift.
+
+---
+
+#### Developing Somatic Awareness (Body-First Practice)
+
+**[SUPPORTED - Interoception training, body-based intervention research]**
+
+The minimum intervention (breath + relax body + drop story) works immediately. But deeper somatic awareness—catching tightness BEFORE it locks your frames—develops through practice.
+
+**Head-to-toe relaxation practice:**
+
+Move attention systematically through your body, releasing tension as you notice it.
+
+Many people start at the scalp and work down—forehead, jaw, neck, shoulders, chest, gut, hands, legs, feet. But find what works for you. The direction matters less than the systematic attention.
+
+**Common tension hotspots to check:**
+
+- **Jaw** (clenched teeth, tight masseter)
+- **Shoulders** (raised toward ears)
+- **Chest** (held breath, tight ribs)
+- **Gut** (gripped abdomen)
+- **Hands** (clenched fists, tense fingers)
+
+**This isn't performance.** It's noticing and releasing, at whatever depth is available right now. Some days you'll find deep release. Some days you'll barely unclench. Both count.
+
+**Physiological sighs for deeper reset:**
+
+When you need more than a single breath—when you're significantly activated—use physiological sighs:
+
+Double inhale (full breath, then sip more air), long slow exhale. 3-10 cycles.
+
+This directly activates parasympathetic nervous system via the vagus nerve. It's not just "deep breathing"—it's specific mechanics that produce measurable physiological shift.
+
+**Building the noticing muscle:**
+
+Like frame-checking, body-checking becomes automatic with practice. You're training interoception—the ability to sense internal body state.
+
+**Early practice:** Deliberate check-ins throughout day. Set phone alarms if needed. "How's my body right now?"
+
+**With practice:** You start catching tightness in real-time. The clenched jaw becomes noticeable as it happens, not hours later.
+
+**Eventually:** Body awareness runs as background process. Tightness registers immediately. Loosening becomes reflexive.
+
+**The journey:**
+
+Nobody taught this directly. It develops through consistent attention over time—through meditation, movement practices, or deliberate body-scanning. The framework gives you the entry point. The depth comes from your own practice.
+
+Trust the process. Start with the minimum. Let awareness develop.
+
+---
 
 #### 2. Environmental Triggers
 
@@ -2323,7 +2433,7 @@ This is the superposition state emerging naturally.
 
 After completing an action:
 - Drop all frames deliberately
-- Touch the gap (1-3 breaths, frameless awareness)
+- Touch the gap (breath + relax body + drop story)
 - Rest in frameless space briefly
 - Let next action arise from there
 
@@ -3348,6 +3458,14 @@ Now go tinker with something fascinating.
   - **Frameless awareness language hardening** - Strengthened philosophical defensibility: "minimal active framing" introduced, explicit acknowledgment that consciousness may be constitutively framed, emphasis on functional description not metaphysical claim
   - Fixed "pure perception" → "reduced narrative, direct perception" (removed philosophically vulnerable language)
   - **Goal:** Make framework stand up to serious philosophical scrutiny while preserving practical utility, dissolve "but I don't feel fascinated" objection, add safety rails for Stage 4+ practitioners
+
+- **v4.10** (Nov 28, 2025): **Body-First Integration** - Physical looseness as prerequisite infrastructure
+  - Added **"Body-First: Physical Looseness Precedes Mental Looseness"** section (Part 0) - Explains why you can't touch the gap with a tight body, mechanism of body-mind unity, "unclench enough" principle
+  - **Modified Minimum Loop** - Step 2 now explicitly includes body: "Touch the gap (breath + relax body + drop story)"
+  - **Modified MINIMUM RAYGUN** - Same body-first update to the 6-step kernel
+  - Added **"Developing Somatic Awareness"** section (Part 4) - Head-to-toe relaxation practice, physiological sighs for deeper reset, building the noticing muscle, journey of developing interoception
+  - Evidence tagged [SUPPORTED] - Embodied cognition, polyvagal theory, interoception research
+  - **Goal:** Make body-first requirement explicit and load-bearing, provide practical entry points for somatic awareness development, avoid "just relax bro" toxicity through honest "unclench enough" framing
 
 ---
 
