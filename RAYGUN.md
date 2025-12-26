@@ -3568,7 +3568,7 @@ Now go find what makes your next constraint come alive.
     - Step 4: "What frame makes engaging with this constraint most alive?" (not "Can I treat as puzzle?")
     - Added constraint test as guard against avoidance disguised as choice
     - Added depletion distortion warning
-  - **Based on insight from Vishal Patel**, whose observation about "curiosity with/without expectation" revealed the need for this semantic clarification
+  - **Based on insight from Vishal Dinesh Patel** ([LinkedIn](https://www.linkedin.com/in/vishalpatel1997/)), whose observation about "curiosity with/without expectation" revealed the need for this semantic clarification
   - **Goal:** Make the gap the explicit foundation, clarify that fascination is one powerful choice among many, strengthen safety for clinical edge cases, resolve bootstrap concerns by showing gap-occupation is nearly costless
 
 ---

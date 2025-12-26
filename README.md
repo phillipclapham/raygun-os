@@ -45,7 +45,7 @@ This system is grounded in neuroscience, honest about what's proven vs. hypothes
   - Step 4: "What frame makes engaging with this constraint most alive?" (not "Can I treat as puzzle?")
   - Added constraint test as guard against avoidance disguised as choice
   - Added depletion distortion warning
-- **Based on insight from Vishal Patel**, whose observation about "curiosity with/without expectation" revealed the need for this semantic clarification
+- **Based on insight from Vishal Dinesh Patel** ([LinkedIn](https://www.linkedin.com/in/vishalpatel1997/)), whose observation about "curiosity with/without expectation" revealed the need for this semantic clarification
 
 **v4.10 (Nov 28, 2025): Body-Mind Synchronization**
 - **"Body-First"** section added (Part 0) - Core teaching: tight body = locked frames, physical looseness is prerequisite for mental looseness
@@ -183,6 +183,20 @@ You are free to:
 
 Under these terms:
 - **Attribution** - You must give appropriate credit
+
+---
+
+## Acknowledgments
+
+### Contributors
+
+**Vishal Dinesh Patel** — [LinkedIn](https://www.linkedin.com/in/vishalpatel1997/) | [GitHub](https://github.com/Vish0972)
+
+Vishal's observation about "curiosity with/without expectation" during framework feedback revealed a critical semantic gap. His insight directly led to the **v5.0 Gap-First Reframe**—repositioning the gap as THE foundation from which frame choices (including fascination) become available.
+
+This wasn't a small tweak. It fundamentally improved how the framework communicates its core mechanism.
+
+*First external contributor to influence RAYGUN OS. Brave enough to engage with this mad science and sharp enough to see what was missing.*
 
 ---
 
