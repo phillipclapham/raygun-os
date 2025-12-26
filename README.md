@@ -2,7 +2,7 @@
 
 **The Mad Scientist Operating System**
 
-Right now, you're reading this. But are you experimenting with understanding it, or grinding through it?
+Right now, you're reading this. But are you choosing to engage, or are you captured by automatic patterns?
 
 There's a difference. And that difference changes everything.
 
@@ -19,52 +19,51 @@ Some people's brains run on fascination. When you're tinkering, experimenting, p
 This system is grounded in neuroscience, honest about what's proven vs. hypothesis, and built for people whose brains run on experiments.
 
 **The complete architecture in six parts:**
-0. **The Foundation** - The gap, self-as-frame, and meta-perception (where agency lives)
+0. **The Foundation** - The Gap / Meta-perception (where choice lives)
 1. **The Model** - How cognition actually works (perception-action loop)
 2. **The Shift** - Frames as experiments, not truth (foundational mindset)
 3. **The Mechanism** - Frame-selection point (where intervention happens)
 4. **The Practice** - Complete toolkit (how to do it)
-5. **The Guide** - Fascination leads (what drives selection)
+5. **The Guide** - Frame pragmatism (what makes engagement alive)
 6. **Advanced Techniques** - Self as experimental frame, frame superposition (mastery state), probability cloud strategic thinking
 
 ---
 
-## What's New in v4.10? 🔬
+## What's New in v5.0? 🔬
 
-**Body-Mind Synchronization** - Physical looseness precedes mental looseness. You can't touch the gap with a tight body.
+**Gap-First Reframe** - Fundamental clarification: The gap is THE foundation. Fascination is one powerful choice from the gap, not the only choice.
+
+**v5.0 (Dec 25, 2025): Gap-First Reframe**
+- **Repositioned the gap/meta-perception as THE foundation** (not fascination)
+- **Introduced frame pragmatism as core question:** "What frame makes engaging with this constraint most alive?"
+- Removed "menu of alternative frames" concept in favor of one question with infinite personal answers
+- Clarified that fascination is the recommended default for most situations, not the only valid choice
+- **Added "The Gap as True Foundation"** section to Part 0 - synthesizes gap, fascination-as-choice, and frame pragmatism
+- **Added "When the Gap Feels Inaccessible"** section - strengthened safety caveats for clinical conditions
+- **Rewrote MINIMUM RAYGUN** to reflect gap-first understanding:
+  - Step 1: "Am I choosing or captured?" (not "grinding or experimenting")
+  - Step 4: "What frame makes engaging with this constraint most alive?" (not "Can I treat as puzzle?")
+  - Added constraint test as guard against avoidance disguised as choice
+  - Added depletion distortion warning
+- **Based on insight from Vishal Patel**, whose observation about "curiosity with/without expectation" revealed the need for this semantic clarification
 
 **v4.10 (Nov 28, 2025): Body-Mind Synchronization**
 - **"Body-First"** section added (Part 0) - Core teaching: tight body = locked frames, physical looseness is prerequisite for mental looseness
-- **Modified Minimum Loop** - "Touch the gap" now includes explicit body: "breath (short in, long out) + relax body + drop story"
-- **Modified MINIMUM RAYGUN** - Step 2 (Interrupt) includes body-aware gap-touching
+- **Modified Minimum Loop** - "Touch the gap" now includes explicit body: "breath + relax body + drop story"
 - **"Developing Somatic Awareness"** section added (Part 4) - Two-tier structure for building body awareness
-- **Evidence grounding** - Embodied cognition, polyvagal theory, interoception research [SUPPORTED]
-- **Goal** - Address the prerequisite most practitioners miss, without prescribing specific scripts (trust self-discovery)
 
 **v4.9 (Nov 28, 2025): Philosophical Hardening + Core Insights**
-- **"Fascination Is a Choice, Not a State"** section added (Part 0) - Core reframe: fascination is cognitive choice, not feeling that arises
-- **Full consistency pass** - 8 areas updated from "state/signal" to "choice" language throughout
-- **"Stage 4+ Blindspot"** section added (Part 6) - Warning for advanced practitioners about fascination overriding depletion signals
-- **Frameless awareness language hardening** - "Minimal active framing" introduced, explicit philosophical defensibility, functional not metaphysical claims
-- **Goal** - Dissolve "but I don't feel fascinated" objection, add safety rails for Stage 4+ practitioners, survive philosophical scrutiny
+- **"Fascination Is a Choice, Not a State"** section added (Part 0)
+- **"Stage 4+ Blindspot"** section added (Part 6) - Safety rails for advanced practitioners
+- **Frameless awareness language hardening** - Philosophical defensibility improved
 
 **v4.8 (Nov 15, 2025): Mastery State Constellation**
-- **"What Mastery Looks Like"** subsection added to Frame Superposition (Part 6)
-- **Five emergent skills constellation** - Somatic sensitivity, frame fluidity/superposition, open/flexible filtering, frameless as default, paradox embodiment
-- **Recognition markers** - Know you're there when frameless feels natural, tightness immediately noticeable, multiple frames normal, techniques run as background
+- **"What Mastery Looks Like"** subsection - Five emergent skills constellation
 
 **v4.7 (Nov 14, 2025): Frame Superposition & Mastery State Architecture**
-- **Frame Superposition** (Part 6) - Complete 4-stage progression: Captured → Shifting → Ensemble → Frameless Meta-Position
-- **"What The Loop Trains Toward"** teaser after Minimum Loop - Names goal state, points to advanced practice
-- **Unified Part 6** - Frame superposition (mastery of present) + Probability cloud (same mechanism applied to future)
-- Evidence-grounded with [SUPPORTED] + [LOGICAL EXTENSION] badges
+- Complete 4-stage progression: Captured → Shifting → Ensemble → Frameless Meta-Position
 
-**v4.6 (Nov 13, 2025): The Bootstrap Solution**
-- **MINIMUM RAYGUN** - Ultra-low-energy kernel for survival mode
-- **Cold Start Protocol** - Just Label Practice, External Scaffolding, 3-Day Rule (for 0% battery state)
-- **Epistemic honesty improvements** - Softened overclaims, clearer about proven vs. hypothesis
-
-**~3185 lines.** Complete cognitive operating system for experiment-driven minds, from 0% battery to mastery state.
+**~3400 lines.** Complete cognitive operating system for experiment-driven minds, from 0% battery to mastery state.
 
 ---
 
@@ -187,8 +186,8 @@ Under these terms:
 
 ---
 
-*"Life's a lab. You're the mad scientist. Now go build rayguns."*
+*"Life's a lab. You're the mad scientist. The gap is where you choose your experiments."*
 
 ---
 
-**Version 4.10** - Nov 28, 2025
+**Version 5.0** - Dec 25, 2025
