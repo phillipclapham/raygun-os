@@ -1,6 +1,6 @@
 # RAYGUN: The Mad Scientist Operating System
 
-**Version 4.10 - Nov 28, 2025**
+**Version 5.0 - Dec 25, 2025**
 
 ---
 
@@ -23,13 +23,13 @@ Mad science isn't a productivity system. It's permission to work how your brain 
 **A note on volume:** This explanation is comprehensive. The practice itself is simple. Don't let the documentation weight obscure the lightness of actual use—most of this runs as effortless background awareness once established.
 
 **The architecture in six parts:**
-0. **The Foundation** - Meta-perception (the skill that enables everything else)
+0. **The Foundation** - The Gap / Meta-perception (where choice lives)
 
 1. **The Model** - How cognition actually works (perception-action loop)
 2. **The Shift** - Frames as experiments, not truth (foundational mindset)
 3. **The Mechanism** - Frame-selection point (where intervention happens)
 4. **The Practice** - Complete toolkit (how to do it)
-5. **The Guide** - Choosing fascination (what drives selection)
+5. **The Guide** - Frame pragmatism (what makes engagement alive)
 6. **Advanced Techniques** - Self as experimental frame, probability cloud strategic thinking
 
 ---
@@ -38,37 +38,41 @@ Mad science isn't a productivity system. It's permission to work how your brain 
 
 **If you remember nothing else, run this loop:**
 
-1. **Notice:** "Am I grinding or experimenting?"
-   - Grinding feels like burden, obstacle, forcing through
-   - Experimenting feels like puzzle, fascination, tinkering
+1. **Notice:** "Am I choosing or captured?"
+   - Captured = automatic reaction, no choice point visible, frame has you
+   - Choosing = aware of options, acting deliberately, you have frame
 
-2. **Interrupt:** Break the automatic pattern
-   - Touch the gap: breath (short in, long out) + relax body + drop story
-   - OR somatic anchor: Tap fingers 5x, embody mad scientist state
+2. **Touch the gap:** (breath + relax body + drop story)
+   - This is the foundation—the choice point itself
+   - Costs almost nothing. Always available.
+   - One breath. Unclench jaw, drop shoulders, soften belly. Let the story pause.
 
-3. **Check the constraint:** "What's the actual problem I'm facing?"
+3. **Check:** "What's the actual constraint?"
    - Not the story about the problem
-   - The real constraint blocking progress
+   - The real thing blocking progress—what must actually be engaged with
 
-4. **Reframe:** "Can I treat this constraint as a puzzle for 10 minutes?"
-   - If YES → Design smallest experiment that touches constraint directly
-   - If NO → Either rest (if depleted) or grind on timer (if truly boring but necessary)
+4. **Choose:** "What frame makes engaging with this constraint most alive?"
+   - This is frame pragmatism—not "what gets me through this" but "what makes me WANT to engage?"
+   - Often it's fascination (puzzle, experiment, curiosity)
+   - But it might be craft, play, service, challenge, efficiency, or something else
+   - The test: Does this frame make you want to engage? Not tolerate. Actually want to?
+   - ⚠️ **Must touch the constraint.** If your frame moves you AWAY from the problem, it's flight, not choice.
 
-5. **Experiment:** Run the smallest test, observe what emerges
+5. **Act:** From chosen frame
 
-6. **Update:** Let results inform next experiment
+6. **Update:** Let results inform next choice
 
 **That's it. That's the whole system.**
 
 Everything below is explanation, neuroscience backing, and tools. The practice is this simple. The six steps above are the complete operating system—you're just learning why it works and how to make it effortless.
 
-**If even this simple loop feels impossible:** You might be too depleted to run it. See **⚠️ Cold Start Protocol** (Part 4) for the 0% battery state.
+**If Step 4 feels impossible:** You may be depleted. When depleted, "what I want" shrinks toward avoidance. Trust the constraint test—are you touching it or fleeing from it? If you can't touch the constraint at all, see **⚠️ Cold Start Protocol** (Part 4).
 
 ### What The Loop Trains Toward
 
 **[LOGICAL EXTENSION - Synthesizes meta-awareness + cognitive flexibility research]**
 
-The Minimum Loop is training wheels. You're learning to notice frames and shift between them: grind-frame → [interrupt] → experimenter-frame.
+The Minimum Loop is training wheels. You're learning to notice when you're captured and shift to choosing: captured → [gap] → chosen frame.
 
 **But as you practice, something emerges:**
 
@@ -327,6 +331,90 @@ Ask: "Can I **choose** to engage with this as puzzle rather than burden?"
 Not "find" fascination. Not "feel" it. **Choose** it.
 
 The choice is always available. That's what makes RAYGUN work even in difficult conditions.
+
+---
+
+### The Gap as True Foundation
+
+**[LOGICAL EXTENSION - Synthesizes meta-perception, frame selection, and frame pragmatism]**
+
+Everything in RAYGUN builds on one thing: **occupying the gap.**
+
+The gap is the space between stimulus and response. Between perception and story. Between what happens and what you make it mean. This space is where choice lives.
+
+**Two modes of operation:**
+
+| Framelocked | Gap-Occupied |
+|-------------|--------------|
+| Perception → automatic story → reaction | Perception → [observe story arising] → choose response |
+| No choice point visible | Choice point always visible |
+| Frame has you | You have frame |
+
+When you're framelocked, the space is invisible. Perception flows directly into automatic story into reaction. No choice. No agency.
+
+When you're gap-occupied, the space opens. You see the automatic story arising. You can choose whether to believe it. You can select a different frame.
+
+**The crucial insight: occupying the gap costs almost nothing.**
+
+It's not an emotional state requiring energy. It's not a feeling you need to access. It's a structural relationship to your own thinking: Are you watching thoughts arise, or are you identified with them?
+
+That's a binary. Switching it is nearly costless.
+
+The only "cost" is willingness—willingness to look, to take responsibility for your frames, to stop blaming circumstances for your experience.
+
+**Fascination is one choice, not THE choice.**
+
+Throughout this framework, we emphasize fascination, curiosity, play, experimentation. These are powerful. They work. They're the recommended default for most situations.
+
+But they're not the foundation. The gap is.
+
+From the gap, you ask one question:
+
+> **"What frame makes engaging with this constraint most alive?"**
+
+Often the answer is fascination. But it might be craft, play, service, challenge, efficiency, or something else entirely. The answer varies by situation, by person, by moment.
+
+What matters isn't which frame you choose. What matters is that you're CHOOSING rather than CAPTURED.
+
+**The constraint is non-negotiable.**
+
+Whatever frame you choose, you must be touching the constraint—the actual problem you're facing. If your frame moves you AWAY from the constraint, it's not choice. It's flight dressed as choice.
+
+This is what separates frame pragmatism from avoidance:
+- **Frame pragmatism:** "What makes engaging with THIS CONSTRAINT most alive?"
+- **Avoidance:** "What frame helps me escape this constraint?"
+
+The constraint test keeps you honest.
+
+**Depletion distorts.**
+
+When depleted, your sense of what you "want" can shrink to just wanting to be left alone. The frame you'd "choose" becomes avoidance. You might call it "rest" or "acceptance" when it's actually flight.
+
+This is when the constraint test becomes critical:
+- You can't fully trust "what do I want?" when depleted
+- You CAN ask "am I touching the constraint?"
+- If not → you're in flight, not choice
+- If even touching the constraint feels impossible → Cold Start Protocol
+
+The gap is always available. But when depleted, use the constraint as your anchor.
+
+---
+
+### When the Gap Feels Inaccessible
+
+For most people, the gap is always available. The "I can't access it" feeling is usually unwillingness dressed as inability—not wanting to take responsibility for one's frames.
+
+**But there are genuine exceptions where clinical support may be needed first:**
+
+**Severe clinical depression** can impair prefrontal cortex function—the very region that enables meta-awareness. If you're in a depressive episode where even the *concept* of observing your thoughts feels meaningless or impossible, this may be neurological impairment, not unwillingness. Clinical support first.
+
+**Active trauma responses** (flashbacks, dissociation, hypervigilance) can make the gap feel genuinely dangerous. If your survival once depended on staying locked in a specific frame, opening to the gap might feel like death. Trauma-informed therapy can help make the gap safe again.
+
+**Certain dissociative conditions** affect the continuity of self-awareness that meta-perception requires. This isn't about willingness—it's about capacity that may need clinical restoration.
+
+**The guideline:** If you've genuinely, repeatedly tried to occupy the gap and it reliably triggers panic, dissociation, or complete inability to function—seek clinical support. That's not failure. That's data about what you need.
+
+**For everyone else:** The gap is available. Right now. The question is whether you're willing to look.
 
 ---
 
@@ -1475,7 +1563,7 @@ Different patterns emerge at different timescales. You're not running separate d
 
 ---
 
-## PART 5: The Guide (What Drives Selection)
+## PART 5: The Guide (Frame Pragmatism - What Makes Engagement Alive)
 
 ### Fascination ⟷ Fun
 
@@ -1983,42 +2071,43 @@ Even hostile work becomes data. What can I learn about efficient dispatch? What 
 
 ## When You Lose This (You Will)
 
-Pressure will push you back into grind mode periodically. **That's fine. Just notice and return.**
+Pressure will push you back into captured mode periodically. **That's fine. Just notice and return.**
 
 **Warning signs:**
 
-- Work feels like burden, not exploration (lost engaged)
+- Work feels like burden, not exploration (lost engagement)
 - "Fiddling" triggers guilt (lost permission)
 - You're working harder but getting less done (lost dual state)
 - Everything is SERIOUS and IMPORTANT (lost detachment)
-- Fascination feels irresponsible (lost mad scientist mode)
-- You're depleted more often (grinding, not experimenting)
+- Choosing feels impossible (lost access to the gap)
+- You're depleted more often (captured, not choosing)
 
 **Return protocol:**
 
-1. **Notice:** "I'm in grind mode" (detached observation)
-2. **Pause:** Take a breath (create space at frame-selection point)
-3. **Somatic anchor:** Tap fingers 5x → FEEL like mad scientist
-4. **Ask:** "What would make this fascinating?" (engaged experimenter)
-5. **Reframe:** Problem → experiment to run (frame pragmatism)
-6. **Experiment:** Take one experimental action (test new frame)
+1. **Notice:** "I'm captured" (detached observation)
+2. **Touch the gap:** Breath + relax body + drop story
+3. **Check:** What's the actual constraint I'm facing?
+4. **Ask:** "What frame makes engaging with this most alive?"
+5. **Choose:** Select the frame that creates genuine engagement
+6. **Act:** From that chosen frame
 
 **Or simpler:**
 
-1. **Somatic anchor:** Tap fingers → embody mad scientist state
-2. **Act:** Let mischievous experimental energy guide next move
+1. **Somatic anchor:** Tap fingers → drop into gap
+2. **Ask:** "What makes THIS alive?" → Act from there
 
 **Example:**
 
-- Notice: "I'm grinding on this architecture problem"
-- Tap fingers 5x: Feel mischievous, experimental, playful
-- World = playground, problem = toy to tinker with
-- Ask: "What are all the absurd ways I could test this?"
-- Experiment: Sketch three weird approaches, see what's actually interesting
+- Notice: "I'm captured by this architecture problem"
+- Touch gap: Breath, unclench, let the story pause
+- Check: The real constraint is X
+- Ask: "What makes engaging with X feel alive? Craft? Challenge? Play?"
+- Choose: "I want to approach this as craft—do it excellently"
+- Act: Begin with that frame
 
-**The pattern will be:** Experiment → breakthroughs → pressure → grind → depletion → remember experiments → breakthroughs → repeat
+**The pattern will be:** Choosing → breakthroughs → pressure → captured → notice → gap → choosing → repeat
 
-**Your job:** Shorten the grind cycles by noticing faster. Return to dual state: Obsessed + detached simultaneously.
+**Your job:** Shorten the captured cycles by noticing faster. Return to choosing from the gap.
 
 ---
 
@@ -2027,17 +2116,18 @@ Pressure will push you back into grind mode periodically. **That's fine. Just no
 **This system works if:**
 
 - Work feels lighter (even when challenging)
-- Engagement increases with less grinding
+- You notice when you're captured and return to choosing faster
 - Depletion is less frequent
-- Problems are fascinating instead of oppressive
+- Constraints become engaging puzzles rather than oppressive burdens
 - "Tinkering around" leads to breakthroughs
-- Fascination and results correlate
-- You maintain dual state (obsessed + detached)
+- Engagement and results correlate
+- You maintain dual state (engaged + detached)
+- The gap feels accessible
 
 **This system fails if:**
 
 - Nothing gets done
-- Experiments become avoidance
+- Chosen frames become avoidance (flight from constraint)
 - Results tank
 - Depletion increases
 - You lose detachment (all obsession, burnout)
@@ -3304,51 +3394,50 @@ Now go tinker with your self-concept and strategic planning. They're both experi
 
 ## The Core Reminder
 
-**You are not a person who occasionally experiments.**
-**You are a mad scientist who occasionally needs to execute.**
+**The gap is the foundation. Everything else follows.**
 
-Experiment first. Breakthroughs emerge.
+You're not trying to feel a certain way. You're not waiting for fascination to arise. You're occupying the choice point and asking: **"What frame makes engaging with this constraint most alive?"**
 
 **The cognitive architecture:**
-0. Meta-perception (foundational skill)
+0. The Gap / Meta-perception (the foundation—where choice lives)
 
-1. Perception-action loop (how it works)
+1. Perception-action loop (how cognition works)
 2. Frames as experiments (foundational shift)
 3. Frame-selection point (where intervention happens)
 4. Complete practice toolkit (how to do it)
-5. Choosing fascination (what drives selection)
+5. Frame pragmatism (what drives selection—aliveness while touching constraint)
 6. Advanced techniques (self-as-frame, probability cloud strategic thinking)
 
 When you forget this, return to this document.
 
 When pressure mounts, return to this document.
 
-When grinding starts, return to this document.
+When you notice you're captured, return to this document.
 
 **This is how you work. Don't fight it. Use it.**
 
 ---
 
-*"Life's a lab. You're the mad scientist. Now go build rayguns."*
+*"Life's a lab. You're the mad scientist. The gap is where you choose your experiments."*
 
 ---
 
 **Next Steps:**
 
 1. Read this when you wake up tomorrow
-2. Try ONE day in full mad scientist mode
-3. Practice meta-perception (pattern interrupts throughout day)
-4. Notice what happens at the frame-selection point
-5. Establish somatic anchor (if you want embodied state shifts)
-6. Track: Fascination? Dual state? Frame switching? Engagement?
+2. Try ONE day practicing gap-occupation
+3. Notice when you're captured vs choosing
+4. Practice the question: "What frame makes engaging with this most alive?"
+5. Touch the gap when you notice capture (breath + body + drop story)
+6. Track: Am I touching constraints or fleeing them? Is the gap accessible?
 7. Adjust based on evidence
 8. Keep experimenting
 
-**The system is simple: Experiment with everything. Let breakthroughs emerge. Choose fascination. Build rayguns.**
+**The system is simple: Occupy the gap. Ask what makes engagement alive. Touch the constraint. Choose. Act.**
 
 That's it. That's the whole thing.
 
-Now go tinker with something fascinating.
+Now go find what makes your next constraint come alive.
 
 ---
 
@@ -3466,6 +3555,21 @@ Now go tinker with something fascinating.
   - Added **"Developing Somatic Awareness"** section (Part 4) - Head-to-toe relaxation practice, physiological sighs for deeper reset, building the noticing muscle, journey of developing interoception
   - Evidence tagged [SUPPORTED] - Embodied cognition, polyvagal theory, interoception research
   - **Goal:** Make body-first requirement explicit and load-bearing, provide practical entry points for somatic awareness development, avoid "just relax bro" toxicity through honest "unclench enough" framing
+
+- **v5.0** (Dec 25, 2025): **Gap-First Reframe** - Fundamental clarification of framework semantics
+  - **Repositioned the gap/meta-perception as THE foundation** (not fascination)
+  - **Introduced frame pragmatism as core question:** "What frame makes engaging with this constraint most alive?"
+  - Removed "menu of alternative frames" concept in favor of one question with infinite personal answers
+  - Clarified that fascination is the recommended default for most situations, not the only valid choice
+  - Added **"The Gap as True Foundation"** section to Part 0 - synthesizes gap, fascination-as-choice, and frame pragmatism
+  - Added **"When the Gap Feels Inaccessible"** section - strengthened safety caveats for clinical conditions (depression, trauma, dissociation)
+  - **Rewrote MINIMUM RAYGUN** to reflect gap-first understanding:
+    - Step 1: "Am I choosing or captured?" (not "grinding or experimenting")
+    - Step 4: "What frame makes engaging with this constraint most alive?" (not "Can I treat as puzzle?")
+    - Added constraint test as guard against avoidance disguised as choice
+    - Added depletion distortion warning
+  - **Based on insight from Vishal Patel**, whose observation about "curiosity with/without expectation" revealed the need for this semantic clarification
+  - **Goal:** Make the gap the explicit foundation, clarify that fascination is one powerful choice among many, strengthen safety for clinical edge cases, resolve bootstrap concerns by showing gap-occupation is nearly costless
 
 ---
 
