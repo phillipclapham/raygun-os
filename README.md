@@ -29,23 +29,22 @@ This system is grounded in neuroscience, honest about what's proven vs. hypothes
 
 ---
 
-## What's New in v5.0? 🔬
+## What's New in v6.0? 🔬
 
-**Gap-First Reframe** - Fundamental clarification: The gap is THE foundation. Fascination is one powerful choice from the gap, not the only choice.
+**Framework Expansion: Purpose, Mechanism, Stakes** - Four major additions that transform RAYGUN from personal operating system to cognitive sovereignty protocol.
+
+**v6.0 (Dec 28, 2025): Framework Expansion**
+- **Added "The RAYGUN Paradox"** (Part 0) - Addresses "isn't this narcissism?" directly. Ego as vehicle, not destination. Individual exceptionalism in service of collective.
+- **Added "Stage Transitions: Coherence Under Pressure"** (Part 6) - Explains HOW transitions happen. Phase change metaphor. De-enlightenment framing. Honest warnings about irreversibility and responsibility at Stage 4+.
+- **Added "The Probability Edge"** (Part 5) - Debunks "luck" and manifestation with concrete formula: (Open Filters × Bias to Action) ^ Iterations. Target variable is aliveness, not productivity.
+- **Added "The Frame War"** (Closing) - Positions RAYGUN as cognitive sovereignty technology. Stakes beyond personal optimization. The mad scientist's duty: cognitive liberation.
+- **Inspired by:** BLUE LOCK analysis session - manga concepts filtered through RAYGUN lens, revealing gaps in framework articulation
 
 **v5.0 (Dec 25, 2025): Gap-First Reframe**
 - **Repositioned the gap/meta-perception as THE foundation** (not fascination)
 - **Introduced frame pragmatism as core question:** "What frame makes engaging with this constraint most alive?"
-- Removed "menu of alternative frames" concept in favor of one question with infinite personal answers
 - Clarified that fascination is the recommended default for most situations, not the only valid choice
-- **Added "The Gap as True Foundation"** section to Part 0 - synthesizes gap, fascination-as-choice, and frame pragmatism
-- **Added "When the Gap Feels Inaccessible"** section - strengthened safety caveats for clinical conditions
-- **Rewrote MINIMUM RAYGUN** to reflect gap-first understanding:
-  - Step 1: "Am I choosing or captured?" (not "grinding or experimenting")
-  - Step 4: "What frame makes engaging with this constraint most alive?" (not "Can I treat as puzzle?")
-  - Added constraint test as guard against avoidance disguised as choice
-  - Added depletion distortion warning
-- **Based on insight from Vishal Dinesh Patel** ([LinkedIn](https://www.linkedin.com/in/vishalpatel1997/)), whose observation about "curiosity with/without expectation" revealed the need for this semantic clarification
+- **Based on insight from Vishal Dinesh Patel** ([LinkedIn](https://www.linkedin.com/in/vishalpatel1997/))
 
 **v4.10 (Nov 28, 2025): Body-Mind Synchronization**
 - **"Body-First"** section added (Part 0) - Core teaching: tight body = locked frames, physical looseness is prerequisite for mental looseness
@@ -204,4 +203,4 @@ This wasn't a small tweak. It fundamentally improved how the framework communica
 
 ---
 
-**Version 5.0** - Dec 25, 2025
+**Version 6.0** - Dec 28, 2025
