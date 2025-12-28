@@ -133,6 +133,16 @@ Not claiming everything is conclusively proven. Claiming: we're not bullshitting
 
 ---
 
+## Convergent Discovery
+
+RAYGUN concepts weren't invented—they were systematized from patterns that masters across domains have been discovering for centuries.
+
+When Bruce Lee, Miyamoto Musashi, Csikszentmihalyi, Keith Johnstone, Miles Davis, and others all point to similar truths from completely different starting points, it suggests these aren't one person's ideas. They're patterns reality keeps revealing.
+
+**→ [Fellow Travelers](https://raygunos.com/touchstones.html)** - The convergence documented
+
+---
+
 ## What This Is NOT About
 
 - ❌ Productivity/optimization
