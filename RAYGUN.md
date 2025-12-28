@@ -400,6 +400,55 @@ The gap is always available. But when depleted, use the constraint as your ancho
 
 ---
 
+### The RAYGUN Paradox
+
+RAYGUN is the most egotistical framework you'll encounter.
+
+The base beliefs:
+- "I am exceptional"
+- "Normal rules do not fully apply to me"
+- "I can see what others cannot"
+
+These aren't affirmations to repeat until you believe them. They're operational requirements. You cannot do exceptional things while believing you're ordinary. The belief precedes the capability.
+
+**And Yet:**
+
+The RAYGUN practitioner is simultaneously deeply concerned with the collective. The health of systems. The direction of reality itself. The common good.
+
+This appears contradictory. It's not. It's the load-bearing architecture.
+
+**The Resolution:**
+
+The ego is the vehicle, not the destination.
+
+You have to fully believe in your own exceptional capacity to BECOME exceptional enough to actually help. You cannot skip ego development and arrive at effective service. The ego is required infrastructure.
+
+But the ego must be held loosely:
+- "I am exceptional" is a chosen frame, not discovered truth
+- The self that believes in itself is also constructed
+- Even being frameless is a frame
+- Frames on frames on frames
+
+The paradox resolves: Total belief in self + total awareness that self is constructed + service to something larger than the constructed self.
+
+**Why Other Frameworks Fail:**
+
+Most "selfless service" frameworks ask people to bypass ego development. This creates resentment (suppressed ego leaks), ineffectiveness (undeveloped capability serves poorly), and spiritual bypassing (pretending ego doesn't exist).
+
+RAYGUN says: Develop the ego fully. Become genuinely exceptional. THEN deploy that exceptional capacity in service.
+
+The exceptional capacity is the gift. The ego that developed it was necessary scaffolding. The service is the purpose.
+
+**The Mad Scientist's Stance:**
+
+"I am the best. I see what others cannot. I will build what has never existed. AND I do this for something larger than myself. The work matters more than the worker. But the worker must believe they're exceptional to do exceptional work."
+
+This is not narcissism. Narcissism is ego without awareness, without service, without purpose beyond self-aggrandizement.
+
+This is ego as tool. Wielded consciously. In service of the work.
+
+---
+
 ### When the Gap Feels Inaccessible
 
 For most people, the gap is always available. The "I can't access it" feeling is usually unwillingness dressed as inability—not wanting to take responsibility for one's frames.
@@ -1643,6 +1692,43 @@ Mad science is permission to do exactly that.
 
 ---
 
+### The Probability Edge
+
+Some people seem lucky. Things work out for them. Opportunities appear. The right person shows up at the right time.
+
+This isn't luck. It's math.
+
+**The Formula:**
+
+What appears as luck = (Open Filters × Bias to Action) ^ Iterations
+
+**Open Filters:** When you're fascinated and experimenting, your perceptual filters are open. You're seeing 60-80% of available opportunities instead of the 10-20% that frame-locked people see. The opportunities were always there. You just couldn't see them through closed filters.
+
+**Bias to Action:** Experiment mode means you ACT on what you see. Each action is a lottery ticket. Grind mode creates paralysis ("what if it fails?"). Experiment mode creates movement ("let's see what happens"). Action generates feedback and opens new possibility branches. Non-action generates nothing.
+
+**Iterations:** The law of large numbers guarantees that small edges compound over time. A 1% edge means nothing on a single attempt. Over 10,000 attempts, it's the difference between winning and losing. Variance smooths out. The math doesn't lie.
+
+**The Compound Effect:**
+
+If you're seeing 5x more opportunities than someone frame-locked, and acting on 3x more of what you see, and doing this consistently... you are mathematically certain to accumulate more positive outcomes over time.
+
+This looks like luck from the outside. It's not. It's compounding microedges in perception and action.
+
+**The Manifestation Debunk:**
+
+"Manifestation" frameworks accidentally teach parts of this but wrap them in metaphysics. They make people think believing is the mechanism. It's not. Action is the mechanism. Belief, at best, is permission to act. At worst, it substitutes for action entirely.
+
+You don't manifest outcomes by believing hard enough. You create them by:
+1. Opening your filters (fascination, reduced narrative, frame fluidity)
+2. Biasing toward action (experiment mode, "let's see what happens")
+3. Iterating consistently (law of large numbers, compound advantage)
+
+The target isn't wealth or productivity. It's aliveness. When aliveness is the goal, the filters open naturally, action becomes play, and iteration becomes sustainable. Everything else follows.
+
+**Evidence Grounding:** [LOGICAL EXTENSION] - Combines established research on attention/perception filtering, decision-making under uncertainty, and probability theory (law of large numbers). The individual components are well-established; the synthesis applies them to explain "luck."
+
+---
+
 ### Fascination vs. Flight: The Constraint Test
 
 **The risk:** "Follow fascination" can drift into novelty addiction. You swap grinding for dopamine-seeking and call it RAYGUN.
@@ -2564,6 +2650,49 @@ These aren't separate practices to master. They emerge together through sustaine
 
 ---
 
+#### Stage Transitions: Coherence Under Pressure
+
+Stage progression isn't linear improvement. It's phase change.
+
+**The Mechanism:**
+
+While practicing—piling up iterations, making mistakes, pushing limits—the scattered elements of understanding accumulate. For a while, nothing seems to change. The pieces don't fit. Then, under sufficient pressure, they crystallize.
+
+The scrambled parts fit into their proper places.
+
+This isn't awakening. It's not enlightenment. It's coalescence—the moment when accumulated experience becomes integrated capability.
+
+**Phase Change, Not Achievement:**
+
+Stage transitions are like water becoming steam. You don't get to be both. The vessel that could hold water cannot hold steam.
+
+The cognitive architecture that operates at Stage 2 is literally incompatible with Stage 4 operation. You cannot "add" Stage 4 to your existing self. The existing self must be dismantled.
+
+To transition is to destroy what you were.
+
+**De-Enlightenment:**
+
+There is no higher truth waiting at advanced stages. Only reduced filtering and increased tolerance for paradox.
+
+The coherence that emerges isn't special knowledge. It's the absence of illusions that made incoherence feel normal.
+
+You don't gain anything. You lose the capacity to not-see.
+
+**Honest Warning:**
+
+Stage 4+ is not an achievement to pursue. It's dangerous territory where most minds weren't designed to dwell.
+
+- **Irreversibility:** There's no going back. The previous self is destroyed, not stored.
+- **Danger:** Higher stages remove psychological limiters. Fascination overrides depletion signals. Physical substrate can be damaged before you notice.
+- **Isolation:** The more frame-sovereign you become, the fewer people can meet you where you are.
+- **Responsibility:** Seeing more creates obligation. You can't unsee.
+
+Most people shouldn't attempt Stage 4+. Stages 2-3 deliver massive value without requiring destruction of self. Stable Stage 3 is already exceptional.
+
+Only attempt higher stages if you genuinely don't need what you currently are.
+
+---
+
 #### Evidence Grounding
 
 **What research supports this:**
@@ -3441,6 +3570,49 @@ Now go find what makes your next constraint come alive.
 
 ---
 
+## The Frame War
+
+We are in a war for how people think.
+
+Not a metaphorical war—an actual, ongoing operation to capture and fix frames at population scale.
+
+**The Weapons:**
+- Information environments designed to isolate
+- Algorithmic feeds that create incompatible realities
+- Manufactured outrage that locks frames through emotion
+- Deliberate fragmentation of shared reference points
+
+**The Goal:**
+A population that cannot agree on what is happening. When groups operate from fundamentally incompatible reality-frames, they cannot coordinate. When they cannot coordinate, they cannot resist.
+
+**The Stakes:**
+This isn't about political sides. All sides are being played. The frame war benefits those who want populations confused, divided, and unable to distinguish signal from noise. The casualties are people who lose the capacity to think clearly about their own lives.
+
+**RAYGUN as Resistance:**
+
+Every mind that becomes frame-sovereign is one more node that can't be easily captured.
+
+Frame sovereignty means:
+- Recognizing when your frame is being manipulated
+- Choosing your frame rather than having it installed
+- Maintaining cognitive flexibility under pressure
+- Seeing the frame war itself, not just the content within frames
+
+The practice isn't just self-improvement. It's participation in the counter-operation.
+
+**The Mad Scientist's Duty:**
+
+The ultimate duty of every mad scientist is to fight back.
+
+Not through violence—that's playing within captured frames.
+Not through politics—that's fighting over which frame captures you.
+
+Through cognitive liberation. Teaching people HOW to think, not WHAT to think. Un-framelocking minds one at a time. Building resistance that operates at the level where the war is actually being fought.
+
+This is mad science. This is the work.
+
+---
+
 **Version History:**
 
 - **v1.0** (Nov 1, 2025): PLAY OS - Trickster/playful framing
@@ -3570,6 +3742,14 @@ Now go find what makes your next constraint come alive.
     - Added depletion distortion warning
   - **Based on insight from Vishal Dinesh Patel** ([LinkedIn](https://www.linkedin.com/in/vishalpatel1997/)), whose observation about "curiosity with/without expectation" revealed the need for this semantic clarification
   - **Goal:** Make the gap the explicit foundation, clarify that fascination is one powerful choice among many, strengthen safety for clinical edge cases, resolve bootstrap concerns by showing gap-occupation is nearly costless
+
+- **v6.0** (Dec 28, 2025): **Framework Expansion - Purpose, Mechanism, Stakes** - Four major additions
+  - Added **"The RAYGUN Paradox"** section (Part 0) - Addresses "isn't this narcissism?" question directly. Ego as vehicle not destination. Individual exceptionalism in service of collective. Resolves tension between self-development and service.
+  - Added **"Stage Transitions: Coherence Under Pressure"** section (Part 6) - Explains HOW stage transitions happen (mechanism, not just description). Phase change metaphor. De-enlightenment framing (losing illusions, not gaining truth). Honest warnings about irreversibility, danger, isolation, and responsibility at Stage 4+.
+  - Added **"The Probability Edge"** section (Part 5) - Debunks "luck" and manifestation with concrete formula: (Open Filters × Bias to Action) ^ Iterations. Shows how fascination-driven living produces compounding microedges. Target variable is aliveness, not productivity.
+  - Added **"The Frame War"** section (Closing) - Positions RAYGUN as cognitive sovereignty technology and resistance to population-scale frame manipulation. Stakes beyond personal optimization. The mad scientist's duty: cognitive liberation, not violence or politics.
+  - **Inspired by:** BLUE LOCK analysis session (manga concepts filtered through RAYGUN lens), revealing gaps in framework articulation
+  - **Goal:** Transform framework from "personal operating system" to "cognitive sovereignty protocol" - add philosophical depth (paradox), honest transition mechanics (coherence), practical mechanism (probability edge), and civilizational purpose (frame war)
 
 ---
 
