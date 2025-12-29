@@ -2234,6 +2234,154 @@ Run this for 2-4 weeks. Track:
 
 ---
 
+## The Harvest: Completing the Experiment
+
+**[LOGICAL EXTENSION - Combines completion psychology with scientific method framing]**
+
+Mad scientists love opening loops. Tinkering. Exploring. Following tangents where fascination leads.
+
+**The failure mode:** A graveyard of half-finished breakthroughs. Endless experiments, no artifacts. Learning that evaporates because it was never captured.
+
+RAYGUN validates the tinkering—and it should. But without a harvesting protocol, the framework can become sophisticated procrastination. "I'm experimenting!" while nothing ever ships.
+
+---
+
+### The Core Reframe
+
+**"Shipping" = Corporate duty** (external obligation, grind-frame, resistance-inducing)
+
+**"Logging the data" = Scientific duty** (internal commitment to the experiment itself, aligned with mad scientist identity)
+
+An experiment without logged data isn't science—it's just fucking around.
+
+The artifact IS the point. Not because productivity culture demands output, but because **experiments require captured results to be experiments at all.**
+
+When you frame completion as "harvesting the data from this experiment," you bypass the resistance to closure. You're not abandoning the playful tinkering—you're completing it. The harvest is part of the experiment, not the death of it.
+
+---
+
+### What Counts as an Artifact
+
+An artifact = captured learning. Could be:
+
+- **Shipped product** (raygun that fires)
+- **Written document** (what was learned, even rough notes)
+- **Decision made** (which path to take, with reasoning captured)
+- **Explicit "this didn't work" log** (negative result = still data)
+- **Shared insight** (taught someone else what you discovered)
+- **Updated framework** (changed how you'll approach similar problems)
+
+**The bar isn't "polished output."** The bar is "learning captured in some form that won't evaporate."
+
+A three-sentence note about why an approach failed is an artifact. A half-built prototype with documentation of what you learned is an artifact. A voice memo explaining your current understanding is an artifact.
+
+**The bar IS "touched the constraint."** If your "artifact" is about something other than the original experiment's constraint, you harvested flight, not data.
+
+---
+
+### The Epistemic Debt Problem
+
+**Tinkering without harvesting = epistemic debt.**
+
+You're accumulating understanding that exists only in your head. That's:
+
+- **Fragile** (you'll forget)
+- **Non-compounding** (can't build on what isn't captured)
+- **Non-transferable** (can't share what isn't externalized)
+- **Non-verifiable** (can't check your reasoning against reality)
+
+Epistemic debt compounds like financial debt. The longer you go without harvesting, the more learning evaporates, and the harder it becomes to reconstruct what you actually discovered.
+
+**The mad scientist logs data.** Not because someone's checking. Because that's how science works. That's how knowledge compounds. That's how experiments become rayguns instead of daydreams.
+
+---
+
+### Harvest Trigger Questions
+
+When you've been tinkering on something, periodically ask:
+
+1. **"What do I now know that I didn't before?"**
+   - Forces articulation of actual learning
+   - Often reveals you've learned more than you realized
+   - Sometimes reveals you've been spinning without learning (data!)
+
+2. **"What artifact captures this?"**
+   - Doesn't have to be big or polished
+   - Just has to exist outside your head
+   - Can be as simple as a dated note
+
+3. **"If I stopped now, what would be lost?"**
+   - If the answer is "nothing, it's all captured" → you're harvesting well
+   - If the answer is "everything I've learned" → harvest immediately
+   - If the answer is "I'm not sure what I've learned" → that's the first thing to capture
+
+4. **"Does this artifact touch the original constraint?"**
+   - Yes → real harvest
+   - No → might be flight disguised as productivity
+   - Constraint shifted during exploration → document the shift, that's data too
+
+---
+
+### The Harvest is Not the Enemy
+
+**Critical clarification:** The harvest isn't the grind sneaking back in.
+
+You're not "forcing yourself to finish." You're not "being productive." You're not abandoning experimentation for execution.
+
+**The harvest is the final step of the experiment.** It's what makes the experiment an experiment. Scientists don't just observe phenomena—they record observations. The recording is part of the science.
+
+When you resist harvesting, ask: "Am I resisting because this would be grinding? Or am I resisting because completion feels like death of the play?"
+
+If the former: Maybe this experiment has run its course. Capture what you learned. Move on.
+
+If the latter: The harvest isn't death—it's birth. The artifact is what makes the experiment real. It's what lets you build on it. It's what turns tinkering into compounding knowledge.
+
+**The mad scientist who never logs data isn't a scientist. They're a hobbyist with delusions.**
+
+---
+
+### Warning Signs You Need to Harvest
+
+- You've been "exploring" the same territory for weeks without artifacts
+- You have strong opinions about something but couldn't explain them in writing
+- You've "almost finished" something for longer than it would take to actually finish it
+- You keep starting new experiments before completing old ones
+- Your experiments don't build on each other (no compounding)
+- You feel vaguely guilty about a project but aren't sure why
+- Someone asks what you learned and you can't articulate it
+
+**If 3+ apply: Stop tinkering. Harvest what you have. Create an artifact. Then decide if this experiment continues or closes.**
+
+---
+
+### The Minimal Harvest
+
+If full documentation feels like too much, here's the minimal viable harvest:
+
+**Three sentences:**
+1. What was the experiment? (What were you trying to learn/build/understand?)
+2. What did you discover? (Including "I discovered this approach doesn't work")
+3. What's the next experiment? (Or "this line of inquiry is closed because...")
+
+Date it. Store it somewhere you can find it. Done.
+
+**That's a harvest.** Anything beyond that is bonus. But those three sentences are the difference between "I was tinkering" and "I was experimenting."
+
+---
+
+### Integration with Existing Framework
+
+**Connection to Constraint Test:**
+The constraint test asks: "Am I engaging with the actual constraint or fleeing?" The harvest test asks: "Did my engagement produce captured learning?" Both ensure "experimentation" isn't sophisticated avoidance.
+
+**Connection to Evidence & Iteration:**
+The "track your results" protocol in Evidence & Iteration IS a harvest. The harvesting protocol extends this: every significant experiment deserves its own harvest.
+
+**Connection to Frame Pragmatism:**
+For completion-resistant people, the harvest frame works: "I'm logging data from this experiment." It makes shipping feel like continuation rather than termination.
+
+---
+
 ## PART 6: Advanced Techniques
 
 ### Self as Experimental Frame
@@ -3750,6 +3898,175 @@ This is mad science. This is the work.
   - Added **"The Frame War"** section (Closing) - Positions RAYGUN as cognitive sovereignty technology and resistance to population-scale frame manipulation. Stakes beyond personal optimization. The mad scientist's duty: cognitive liberation, not violence or politics.
   - **Inspired by:** BLUE LOCK analysis session (manga concepts filtered through RAYGUN lens), revealing gaps in framework articulation
   - **Goal:** Transform framework from "personal operating system" to "cognitive sovereignty protocol" - add philosophical depth (paradox), honest transition mechanics (coherence), practical mechanism (probability edge), and civilizational purpose (frame war)
+
+- **v6.1** (Dec 29, 2025): **Framework Completion - Harvesting Protocol & Theoretical Foundations**
+  - Added **"The Harvest: Completing the Experiment"** section (Part 5) - Addresses the "graveyard of half-finished breakthroughs" failure mode. Reframes completion as scientific duty (logging data) rather than corporate duty (shipping). Epistemic debt concept. Minimal harvest protocol.
+  - Added **"Theoretical Foundations: Active Inference"** section (closing) - Grounds RAYGUN in Karl Friston's Free Energy Principle. Explains WHY frame selection, epistemic foraging, and constraint-touching work at the level of theoretical neuroscience.
+  - **Based on:** Analysis from Gemini AI identifying gaps in completion mechanics and opportunity to strengthen scientific credibility
+  - **Goal:** Address two critical gaps - practical (what happens to experiments without captured artifacts) and theoretical (why does this actually work)
+
+---
+
+## Theoretical Foundations: Active Inference
+
+**[FOR INTERESTED READERS - Mathematical grounding for the framework]**
+
+RAYGUN is a practical system. You don't need to understand its theoretical foundations to use it effectively.
+
+But for those who want to know WHY it works—and for critics who suspect it's "just permission to be lazy"—there's a rigorous scientific framework that explains the underlying mechanisms.
+
+**RAYGUN is consistent with Karl Friston's Free Energy Principle and Active Inference.**
+
+This isn't borrowed credibility. It's recognition that the practical discoveries in RAYGUN align with what theoretical neuroscience has been converging toward.
+
+---
+
+### The Free Energy Principle (Simplified)
+
+Karl Friston's Free Energy Principle is one of the most ambitious attempts to explain how biological systems (including brains) work.
+
+**The core claim:** Living systems minimize "free energy"—a mathematical measure of surprise, or the gap between what they predict and what they experience.
+
+**Two ways to minimize surprise:**
+
+1. **Change your model (Perception)** — Update your predictions to match reality
+2. **Change the world (Action)** — Make reality match your predictions
+
+Your brain is constantly doing both. It predicts what's going to happen, compares predictions to sensory input, and either updates its model or takes action to make reality conform to expectations.
+
+**Why this matters for RAYGUN:**
+
+| Free Energy Principle | RAYGUN |
+|----------------------|--------|
+| Minimize prediction error | Reduce grinding (misalignment between expectation and experience) |
+| Change model (perception) | Frame selection |
+| Change world (action) | Experimentation |
+| Precision weighting | Choosing which frames to weight heavily |
+| Active inference | Mad scientist mode (acting to reduce uncertainty) |
+
+The frame-selection mechanism in RAYGUN is essentially a practical application of "change your model to minimize free energy."
+
+When you're grinding, there's high prediction error—things aren't going as expected, the model is fighting reality. When you shift frames, you're updating the model to reduce that error.
+
+---
+
+### Epistemic Foraging: Why Tinkering Is Legitimate
+
+Active Inference distinguishes between two types of action:
+
+1. **Pragmatic action** — Acting to get rewards, achieve goals
+2. **Epistemic action** — Acting to reduce uncertainty, learn about the world
+
+**Epistemic foraging** is taking actions specifically to reduce uncertainty about your environment, even when those actions don't have immediate practical payoff.
+
+**This is the scientific foundation for tinkering.**
+
+When you're exploring, experimenting, "messing around"—you're not wasting time. You're engaged in epistemic foraging. You're reducing model uncertainty. You're doing exactly what biological systems are designed to do.
+
+The criticism "that's just permission to be lazy" dissolves under this framework:
+
+- Epistemic foraging is how biological systems actually learn
+- Tinkering reduces model uncertainty
+- Exploration is a fundamental drive, not a distraction from "real work"
+- The brain needs uncertainty-reduction to build accurate models
+- You can't skip this process and still have good models
+
+**RAYGUN's "fascination leads" principle is epistemic foraging operating as intended.** You're following curiosity because curiosity is the felt sense of "model uncertainty here—explore to reduce it."
+
+---
+
+### Precision Weighting and Frame Selection
+
+In Active Inference, the brain assigns "precision" to different predictions—how much weight to give them, how confident to be.
+
+**High precision** = "I'm confident about this prediction, weight it heavily"
+**Low precision** = "I'm uncertain here, don't weight this too much"
+
+Frame selection in RAYGUN is essentially conscious precision weighting.
+
+When you choose to engage with something as "puzzle" rather than "burden," you're changing which aspects of the situation get high precision:
+
+- **Burden frame:** High precision on difficulty, obstacles, effort required
+- **Puzzle frame:** High precision on patterns, solutions, interesting aspects
+
+Same situation. Different precision weighting. Completely different experience and behavior.
+
+This isn't "positive thinking" or "fake it till you make it." It's deliberate allocation of a cognitive resource (precision/attention) that shapes how your brain processes the situation.
+
+---
+
+### Why Grinding Feels Bad (Mathematically)
+
+In Active Inference terms, grinding = high free energy state.
+
+**What's happening when you're grinding:**
+
+- Large prediction errors (things aren't going as expected)
+- Model fighting reality (trying to force outcomes)
+- High uncertainty not being resolved (no epistemic progress)
+- Pragmatic action without epistemic action (doing without learning)
+
+**This is literally what free energy measures.** Grinding is a high free energy state. It's metabolically expensive, emotionally aversive, and cognitively depleting—because that's what high free energy IS.
+
+**What's happening when you're experimenting:**
+
+- Predictions more aligned (frame matches reality better)
+- Model updating from evidence (learning)
+- Uncertainty being resolved (epistemic progress)
+- Balance of pragmatic and epistemic action
+
+Experimenting is a lower free energy state. It's more sustainable, more generative, more aligned with how biological systems are designed to function.
+
+**"Work with your brain instead of against it" has a mathematical grounding:** Minimize free energy. Don't fight reality with a bad model. Update the model. Explore to reduce uncertainty. Act from accurate predictions.
+
+---
+
+### The Constraint Test as Free Energy Check
+
+RAYGUN's constraint test: "Am I engaging with the actual constraint or fleeing?"
+
+In Active Inference terms: "Am I taking epistemic/pragmatic action toward the actual source of uncertainty, or am I reducing anxiety by avoiding the uncertainty entirely?"
+
+**Flight reduces felt discomfort (short-term) but doesn't reduce free energy (long-term).** You feel temporarily better because you're not facing the uncertainty, but the model uncertainty remains. The free energy is still there. It'll come back.
+
+**Engagement reduces free energy.** Even if it's uncomfortable, you're updating your model, resolving uncertainty, taking actions that improve your predictions.
+
+The constraint test is a heuristic for distinguishing free-energy-reducing behavior from anxiety-reducing behavior.
+
+---
+
+### Why This Matters
+
+**For practitioners:** You don't need to understand Active Inference to use RAYGUN. The framework works because it works, not because of the theory behind it.
+
+**For skeptics:** RAYGUN isn't productivity self-help dressed up as cognitive science. It's a practical system that happens to align with one of the most rigorous theoretical frameworks in contemporary neuroscience.
+
+**For the framework:** Active Inference provides mathematical proof for claims that might otherwise seem like hand-waving:
+
+- "Tinkering is legitimate" → Epistemic foraging is how biological systems learn
+- "Frame selection matters" → Precision weighting shapes all downstream processing
+- "Grinding is bad for you" → High free energy states are metabolically expensive
+- "Fascination leads" → Curiosity is the felt sense of model uncertainty seeking resolution
+- "Work with your brain" → Minimize free energy, don't fight it
+
+**This is why RAYGUN works.** Not because it tricks you into feeling better. Because it aligns your behavior with how your brain is actually designed to function.
+
+---
+
+### Further Reading
+
+For those who want to go deeper:
+
+**Foundational:**
+- Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*
+- Clark, A. (2013). "Whatever next? Predictive brains, situated agents, and the future of cognitive science." *Behavioral and Brain Sciences*
+
+**Accessible introductions:**
+- "The Genius Neuroscientist Who Might Hold the Key to True AI" - *Wired* profile of Karl Friston
+- Shamil Chandaria's YouTube lectures on Active Inference and consciousness
+
+**Technical:**
+- Parr, T., Pezzulo, G., & Friston, K. J. (2022). *Active Inference: The Free Energy Principle in Mind, Brain, and Behavior.* MIT Press.
 
 ---
 

@@ -29,9 +29,14 @@ This system is grounded in neuroscience, honest about what's proven vs. hypothes
 
 ---
 
-## What's New in v6.0? 🔬
+## What's New in v6.1? 🔬
 
-**Framework Expansion: Purpose, Mechanism, Stakes** - Four major additions that transform RAYGUN from personal operating system to cognitive sovereignty protocol.
+**Framework Completion: Harvesting Protocol & Theoretical Foundations** - Two critical additions addressing completion mechanics and scientific grounding.
+
+**v6.1 (Dec 29, 2025): Framework Completion**
+- **Added "The Harvest: Completing the Experiment"** (Part 5) - Addresses the "graveyard of half-finished breakthroughs" failure mode. Reframes completion as scientific duty (logging data) rather than corporate duty (shipping). Epistemic debt concept. Minimal harvest protocol.
+- **Added "Theoretical Foundations: Active Inference"** (Closing) - Grounds RAYGUN in Karl Friston's Free Energy Principle. Explains WHY frame selection, epistemic foraging, and constraint-touching work at the level of theoretical neuroscience.
+- **Based on:** Analysis from Gemini AI identifying gaps in completion mechanics and opportunity to strengthen scientific credibility
 
 **v6.0 (Dec 28, 2025): Framework Expansion**
 - **Added "The RAYGUN Paradox"** (Part 0) - Addresses "isn't this narcissism?" directly. Ego as vehicle, not destination. Individual exceptionalism in service of collective.
@@ -62,7 +67,7 @@ This system is grounded in neuroscience, honest about what's proven vs. hypothes
 **v4.7 (Nov 14, 2025): Frame Superposition & Mastery State Architecture**
 - Complete 4-stage progression: Captured → Shifting → Ensemble → Frameless Meta-Position
 
-**~3400 lines.** Complete cognitive operating system for experiment-driven minds, from 0% battery to mastery state.
+**~4100 lines.** Complete cognitive operating system for experiment-driven minds, from 0% battery to mastery state.
 
 ---
 
@@ -213,4 +218,4 @@ This wasn't a small tweak. It fundamentally improved how the framework communica
 
 ---
 
-**Version 6.0** - Dec 28, 2025
+**Version 6.1** - Dec 29, 2025
