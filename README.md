@@ -18,56 +18,33 @@ Some people's brains run on fascination. When you're tinkering, experimenting, p
 
 This system is grounded in neuroscience, honest about what's proven vs. hypothesis, and built for people whose brains run on experiments.
 
-**The complete architecture in six parts:**
-0. **The Foundation** - The Gap / Meta-perception (where choice lives)
-1. **The Model** - How cognition actually works (perception-action loop)
-2. **The Shift** - Frames as experiments, not truth (foundational mindset)
-3. **The Mechanism** - Frame-selection point (where intervention happens)
-4. **The Practice** - Complete toolkit (how to do it)
-5. **The Guide** - Frame pragmatism (what makes engagement alive)
-6. **Advanced Techniques** - Self as experimental frame, frame superposition (mastery state), probability cloud strategic thinking
+**The complete architecture in four parts:**
+1. **Understanding** — The Gap, The Model, Why It Works (where choice lives and why frame selection works)
+2. **Practicing** — Core Operation, Two Pathways, Implementation, Troubleshooting (how to do it)
+3. **Deepening** — Advanced States, Self as Frame, Stage Progression, Applications (what emerges with practice)
+4. **Meaning** — The Paradox, The Frame War, Theoretical Foundations (why this matters)
 
 ---
 
-## What's New in v6.1? 🔬
+## What's New in v7.0? 🔬
 
-**Framework Completion: Harvesting Protocol & Theoretical Foundations** - Two critical additions addressing completion mechanics and scientific grounding.
+**The Coherence Update** - Major restructure for coherence and teachability.
 
-**v6.1 (Dec 29, 2025): Framework Completion**
-- **Added "The Harvest: Completing the Experiment"** (Part 5) - Addresses the "graveyard of half-finished breakthroughs" failure mode. Reframes completion as scientific duty (logging data) rather than corporate duty (shipping). Epistemic debt concept. Minimal harvest protocol.
-- **Added "Theoretical Foundations: Active Inference"** (Closing) - Grounds RAYGUN in Karl Friston's Free Energy Principle. Explains WHY frame selection, epistemic foraging, and constraint-touching work at the level of theoretical neuroscience.
-- **Based on:** Analysis from Gemini AI identifying gaps in completion mechanics and opportunity to strengthen scientific credibility
+**v7.0 (January 2026): The Coherence Update**
 
-**v6.0 (Dec 28, 2025): Framework Expansion**
-- **Added "The RAYGUN Paradox"** (Part 0) - Addresses "isn't this narcissism?" directly. Ego as vehicle, not destination. Individual exceptionalism in service of collective.
-- **Added "Stage Transitions: Coherence Under Pressure"** (Part 6) - Explains HOW transitions happen. Phase change metaphor. De-enlightenment framing. Honest warnings about irreversibility and responsibility at Stage 4+.
-- **Added "The Probability Edge"** (Part 5) - Debunks "luck" and manifestation with concrete formula: (Open Filters × Bias to Action) ^ Iterations. Target variable is aliveness, not productivity.
-- **Added "The Frame War"** (Closing) - Positions RAYGUN as cognitive sovereignty technology. Stakes beyond personal optimization. The mad scientist's duty: cognitive liberation.
-- **Inspired by:** BLUE LOCK analysis session - manga concepts filtered through RAYGUN lens, revealing gaps in framework articulation
+The framework had grown organically and become fragmented—6 Parts plus orphan sections with ~17 technique teachings scattered across different locations. This restructure creates a coherent, teachable document:
 
-**v5.0 (Dec 25, 2025): Gap-First Reframe**
-- **Repositioned the gap/meta-perception as THE foundation** (not fascination)
-- **Introduced frame pragmatism as core question:** "What frame makes engaging with this constraint most alive?"
-- Clarified that fascination is the recommended default for most situations, not the only valid choice
-- **Based on insight from Vishal Dinesh Patel** ([LinkedIn](https://www.linkedin.com/in/vishalpatel1997/))
+- **Reorganized from 6 fragmented parts to 4 coherent parts** organized by reader journey (Understanding → Practicing → Deepening → Meaning)
+- **Introduced "The Felt Dimension"** as organizing principle for practice—naming "mischief" as the specific felt quality powering mad scientist stance
+- **Added Two Pathways model** (cognitive vs felt) for frame selection—explains why "choose fascination" works for some and not others
+- **Consolidated 17 scattered technique teachings** into unified Practice section with clear structure
+- **Eliminated all orphan sections** (Energy States, Cold Start, Red Flags, Meta-Game, Harvest, Frame War, Active Inference now properly integrated)
+- **Unified all troubleshooting content** into single coherent section
+- **Unified all advanced content** into Stage Progression and Advanced Applications
+- **Created clear reader progression** with each part building on previous
+- **Added Reference section** with consolidated Evidence Confidence Levels and Cultural Touchstones link
 
-**v4.10 (Nov 28, 2025): Body-Mind Synchronization**
-- **"Body-First"** section added (Part 0) - Core teaching: tight body = locked frames, physical looseness is prerequisite for mental looseness
-- **Modified Minimum Loop** - "Touch the gap" now includes explicit body: "breath + relax body + drop story"
-- **"Developing Somatic Awareness"** section added (Part 4) - Two-tier structure for building body awareness
-
-**v4.9 (Nov 28, 2025): Philosophical Hardening + Core Insights**
-- **"Fascination Is a Choice, Not a State"** section added (Part 0)
-- **"Stage 4+ Blindspot"** section added (Part 6) - Safety rails for advanced practitioners
-- **Frameless awareness language hardening** - Philosophical defensibility improved
-
-**v4.8 (Nov 15, 2025): Mastery State Constellation**
-- **"What Mastery Looks Like"** subsection - Five emergent skills constellation
-
-**v4.7 (Nov 14, 2025): Frame Superposition & Mastery State Architecture**
-- Complete 4-stage progression: Captured → Shifting → Ensemble → Frameless Meta-Position
-
-**~4100 lines.** Complete cognitive operating system for experiment-driven minds, from 0% battery to mastery state.
+**~2730 lines.** Leaner, more coherent. Same complete operating system, better organized.
 
 ---
 
@@ -218,4 +195,4 @@ This wasn't a small tweak. It fundamentally improved how the framework communica
 
 ---
 
-**Version 6.1** - Dec 29, 2025
+**Version 7.0** - January 2026
