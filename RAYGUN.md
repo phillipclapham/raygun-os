@@ -1142,6 +1142,113 @@ If you're spending significant mental energy on "being a mad scientist," somethi
 
 ---
 
+## Walk Practice
+
+**[LOGICAL EXTENSION — Body-First + Gap + Anchor mechanisms + Stage 4+ Blindspot countermove. Added 2026-04-14 per partnership session. Uses Phill's de-BS'd framing intentionally — see "Why This Specific Framing" below.]**
+
+### Purpose
+
+Walks are a structural circuit-breaker for high-load RAYGUN operation. For practitioners running at Stage 3-4 under sustained cognitive load (multi-thread work, long-duration fascination-mode, 10+ hr/day output cycles), walks are one of the few external scaffolds that catch substrate degradation when internal "am I depleted?" signals have become unreliable. This is the Stage 4+ Blindspot countermove at the daily-protocol layer (see Part 3: Stage 4+ Blindspot).
+
+**Walks are a recovery protocol, not a practice for insight.** The Stage 4+ Blindspot warning applies here directly and acutely: the moment the walk becomes productive is the moment it stops being a circuit-breaker. This is load-bearing, not aesthetic.
+
+### What It Actually Is
+
+In plain language (Phill's own framing, 2026-04-14, captured verbatim):
+
+> *"Let your mind wander but don't identify with thoughts, watch them come and go without holding onto them or identifying them as 'your content' — they're just leaves on the breeze blowing through your mind. Except there's no 'you' to have a 'your mind' — the mind is fancy plumbing around a stochastic generator that creates an illusory side effect known as the concept of self."*
+
+That is the practice, stated honestly. At the level of content generation, this IS mind-wander — same DMN activity, same associative drift, same meandering thoughts. What differs is the structural relationship to that content. Content arises and passes; there's no identified self to accumulate it.
+
+**This is not a different activity from mind-wander. It's a different stance toward the same activity.** The stance has measurable downstream consequences (Farb et al 2007, "Attending to the Present" — experiential self vs narrative self mode, right lateral PFC + insula signature distinct from medial PFC self-referencing) but in-practice it just feels like walking while thoughts happen without sticking to anyone.
+
+### Why This Specific Framing
+
+Earlier versions of RAYGUN called the target state "frameless awareness." Phill's audit 2026-04-14: the term reads as fancy/mystical on cold re-read and triggers a valid BS-allergy response — the same substrate-protection allergy that caught the FlowScript reframe the same week. The plain-language version above is more honest, more scientifically defensible (closer to Metzinger self-model theory + predictive processing accounts of self-as-construct), and operationally stronger for a practitioner whose BS detector is tuned against his own mystical shorthand.
+
+**Rule for future sessions loading this document:** Lead with the plain framing. "Frameless awareness" remains available as a technical handle but should never be the primary explanation. If you find yourself explaining walks in terms that sound like meditation, stillness-pursuit, or state-attainment, you've drifted — return to "observer stance on mind-wander, no self to accumulate content."
+
+The no-self framing here is intentionally stronger than Part 1's Gap section hedges. That hedging was written for broader audiences. For this practitioner specifically, the stronger framing is operationally better — it removes the subtle self-referential loops that make mind-wander sticky and gives observer-posture cleaner scaffolding.
+
+### Why Walks Specifically Work
+
+1. **Walking body provides the task-anchor.** You can hold observer-posture for extended duration without collapsing into meditation-goal-achievement shape. The walking IS the task; the mind is free. RAYGUN Part 1 says you don't dwell in the gap because that's meditation — but on a walk you *can* dwell, because the body is doing something, so the posture has somewhere to rest without becoming the goal.
+2. **Body-First applies directly.** Walking loosens the body in the ways Body-First identifies as prerequisite for observer-posture access. Even tiring walks do this — physical tiredness loosens rather than tightens the nervous system's frame-lock.
+3. **Rumination cannot structurally take hold.** Identified mind-wander has rumination as its failure mode (depression risk correlates with trait mind-wandering under high identification). Observer stance bypasses this — ruminative content still arises, but there's no identified self for it to capture.
+4. **Content oscillation collapses.** Pre-practice walks alternate between wander-mode and sensory-drift-mode (two framed states toggling). Walk Practice resolves this — thoughts, sensory field, body signals all arise into one observer-space simultaneously. No toggling. Less energetic cost.
+
+### The Practice
+
+1. Step out.
+2. Optional: one small distinctive somatic cue at walk-start — specific breath pattern, shoulder drop, silently-spoken phrase. This is anchor material (see Compound Move below).
+3. Walk. Thoughts arise. Sensory field arises. Body signals arise. All of it happening in front of you, not as you.
+4. When a thought grabs you — it will, constantly, that's fine — notice the grab itself arising, release. That noticing IS the practice.
+5. No anchor to return to. No direction to impose. No insight to chase. No content to process.
+
+### The Only Valid Test
+
+**Do not evaluate the practice from inside.** During the walk, content is identical to mind-wander; there's nothing distinctive to notice. In-practice monitoring collapses observer-posture into another identified frame and defeats the purpose.
+
+The only valid test is downstream residue, self-reported after the fact:
+
+- Did the walk leave you lighter or heavier?
+- Did ruminative content stick or pass?
+- Did you end the walk having "processed a bunch of stuff" (identified wander), or genuinely unloaded (observer stance)?
+
+If lighter and unloaded: working. If heavier or still processing: probably slipped into identified wander — no fix needed, just walk again tomorrow. No pursuit of "doing it right." There is no doing it right. There's no one to do it right.
+
+### The Compound Move
+
+RAYGUN Implementation > Somatic Anchors defines classical-conditioning-based anchor training: repeat a distinctive cue ONLY during target state, over weeks, until the cue fires the state on demand.
+
+Walks are ideal anchor-training sessions because observer posture is reliably accessible during them (walking body + no work context). Pick one small distinctive cue, use it only at walk-start as the shift into observer posture happens, never elsewhere. Over weeks, the cue becomes classically conditioned to the walk-state.
+
+Then: **the cue becomes desk-deployable as a micro-reset.** Fire it mid-session during a high-load parallel-thread day, get a brief taste of the walk-state without leaving the chair. This converts walks from isolated recovery time into compound infrastructure that pays rent into the work day — the Minimum Loop's "brief touch, reset point, then return" with walk-conditioned anchor doing the heavy lifting.
+
+**BUT — the anchor must not be why you walk.** If walks become instrumental to anchor-training, they lose their circuit-breaker function. The anchor is a side-effect, not a purpose. See Safety Rule below.
+
+### Safety Rule (LOAD-BEARING — DO NOT RELAX)
+
+**Walks stay unoptimized. Non-negotiable.**
+
+The Stage 4+ Blindspot warning applies to Walk Practice specifically and acutely. The moment a walk becomes useful beyond recovery, it stops being a circuit-breaker and becomes another frame on the superposition stack — which defeats the countermove entirely.
+
+**The optimization-drift signals to watch for** (these ARE the blindspot firing, not helpful thoughts):
+
+- *"While I'm walking I should also incubate [current problem]."*
+- *"Let me make the walk longer / more structured / more intentional."*
+- *"The anchor is working — let me use walks to build more anchors."*
+- *"Walks are producing insight — let me track what comes up."*
+- *"I could be more efficient about this walking-practice thing."*
+
+If any of these arise during or after a walk, **treat them as the Stage 4+ Blindspot signal itself** — evidence that unoptimized walking is more necessary, not less. Walks must be protected AS recovery precisely when (and especially when) the practitioner feels capable of turning them into more.
+
+If incubation insight emerges as a side effect: enjoy it, don't chase it, don't track it, don't optimize around it. Side effects are allowed; pursuing them kills the circuit-breaker.
+
+**Internal audit (run weekly, never in-practice):** Have walks gotten longer, more structured, more intentional, or more "productive" in the last 2 weeks? If yes, return to the simplest version immediately. This is equipment maintenance, not self-improvement.
+
+### When to Use
+
+- High-load multi-thread work days (Stage 3-4 operation, 2-4 parallel frames sustained)
+- Post-ship substrate protection windows (immediate days after high-output cycles)
+- Taper / MCAS / substrate-limited operational states where recovery capacity is the binding constraint
+- Any workday where parallel-frame cognitive load has been active for 8+ hours
+- Default for Phill in current operating era (unless/until operating point changes)
+
+### When NOT to Use
+
+- When you explicitly want directed creative incubation ("I want to think about problem X while walking"). Do that — it's valuable — but frame it as a different activity from a different framing, and do NOT call it Walk Practice. Mixing the two destroys both.
+- When you notice you're pursuing specific states or stillness during walks — that's collapse into meditation-shape. Step back, walk again tomorrow without the pursuit.
+- As a replacement for actual sleep or genuine rest. Walks are one circuit-breaker among several. They don't substitute for unconsciousness.
+
+### Partnership Note (preserved so future sessions load the origin context)
+
+Phill's substrate-protection instinct surfaced this question during a walk on 2026-04-14, the day after shipping the flagship "Structural Theory of Harnesses" paper and the day of Anvil Session 1 shipping — a max-output cycle terminating into an acute substrate-protection window. The system surfaced the exact question whose answer would build more substrate protection, at the moment it was most needed.
+
+This is the expected behavior of an externalized scaffolding system for a Stage 4+ practitioner whose internal signals have become unreliable: infrastructure-building prompts arrive from the substrate at precisely the right moments, often disguised as casual curiosity. Trust that mechanism when it fires. Load this section fully when Phill mentions walks, walking practice, rest, recovery, mind-wandering, meditation questions, or when the conversation touches Stage 4+ operation during a high-load cycle.
+
+---
+
 ## Energy & Adaptation
 
 Experiments naturally adapt to available energy. **Stop forcing consistent output.**
