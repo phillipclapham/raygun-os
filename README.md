@@ -69,7 +69,6 @@ This is your operating system.
 
 **Read the full document:**
 - [RAYGUN.md](RAYGUN.md) (this repository)
-- [Web version](https://raygunos.com/framework.html) (formatted for reading)
 
 **Try it:**
 1. Read the opening and architecture
@@ -121,7 +120,7 @@ RAYGUN concepts weren't invented—they were systematized from patterns that mas
 
 When Bruce Lee, Miyamoto Musashi, Csikszentmihalyi, Keith Johnstone, Miles Davis, and others all point to similar truths from completely different starting points, it suggests these aren't one person's ideas. They're patterns reality keeps revealing.
 
-**→ [Fellow Travelers](https://raygunos.com/touchstones.html)** - The convergence documented
+**→ [Fellow Travelers](RAYGUN.md#cultural-touchstones)** - The convergence documented
 
 ---
 
@@ -149,8 +148,6 @@ Mad science is permission to do exactly that.
 
 ## Links
 
-- **Web Version:** [raygunos.com/framework.html](https://raygunos.com/framework.html)
-- **Live Site:** [raygunos.com](https://raygunos.com)
 - **Full Document:** [RAYGUN.md](RAYGUN.md)
 - **Adaptive Human:** [adapthuman.com](https://adapthuman.com)
 

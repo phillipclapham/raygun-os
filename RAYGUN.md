@@ -2698,11 +2698,7 @@ Mad scientist standard: PASSED ✓
 
 ## Cultural Touchstones
 
-The mad scientist archetype draws from a rich cultural tradition. For explorations of these themes:
-
-**See:** [raygunos.com/touchstones](https://raygunos.com/touchstones)
-
-The touchstones page explores films, books, music, and other cultural artifacts that embody the experimental spirit, the dual state, and the frame-sovereign stance.
+The mad scientist archetype draws from a rich cultural tradition. For explorations of these themes, look to films, books, music, and other cultural artifacts that embody the experimental spirit, the dual state, and the frame-sovereign stance.
 
 ---
 
