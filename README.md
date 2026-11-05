@@ -120,8 +120,6 @@ RAYGUN concepts weren't invented—they were systematized from patterns that mas
 
 When Bruce Lee, Miyamoto Musashi, Csikszentmihalyi, Keith Johnstone, Miles Davis, and others all point to similar truths from completely different starting points, it suggests these aren't one person's ideas. They're patterns reality keeps revealing.
 
-**→ [Fellow Travelers](RAYGUN.md#cultural-touchstones)** - The convergence documented
-
 ---
 
 ## What This Is NOT About
